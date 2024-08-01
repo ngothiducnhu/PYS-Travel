@@ -1,0 +1,128 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Lênh đênh trên thuyền xuôi theo mái chèo ngoạn cảnh Tràng An - non nước hữu tình, 
+                nơi được ví như Hạ Long trên cạn. Ghé thăm, chiếm bái Phật tổ tại Chùa Bái Đính là 
+                ngôi chùa lớn nhất, quy mô nhất Việt Nam nằm giữa những ngọn núi hùng vĩ.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR TRỌN GÓI</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="">GIÁ TOUR</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Hàng ngày</td>
+                        <td style="border: 1px black solid;">980.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour13/BD_TA_HM1.jpg" alt="">
+            </div>
+            <b>Cùng PYS Travel khám phá vùng đất cố đô với lịch trình thú vị:</b> <br>
+            <p class="fs-5">
+                ✔️Tham quan khu du lịch tâm linh núi chùa Bái Đính – một trong những điểm du lịch mới hấp dẫn của Ninh Bình,
+                với nhiều kỷ lục được xác lập: Chùa có tượng Phật Thích Ca bằng đồng cao và nặng nhất Việt Nam, Chùa có bộ 
+                tượng Tam Thế bằng đồng lớn nhất Việt Nam; Chùa có Đại Hồng Chung lớn nhất Việt Nam; Chùa có giếng lớn nhất 
+                Việt Nam; Chùa có nhiều tượng La Hán nhất Việt Nam... <br> <br>
+                ✔️Đến với Hang Múa các bạn sẽ được thử sức dẻo dai của mình khi leo lên đỉnh núi thông qua 486 bậc thang đá, 
+                và từ đỉnh núi chúng ta có thể chiêm ngưỡng được toàn bộ vẻ đẹp của khu vực Tam Cốc với những cánh đồng lúa bạt
+                ngàn, xanh mướt. <br> <br>
+                ✔️Ghé thăm khu du lịch Tràng An với vẻ đẹp tự nhiên, hoang sơ với những nhũ đá có hàng vạn năm tạo lên vẻ đẹp 
+                lung linh huyền ảo và lộng lẫy. 
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour13/BD_TA_HM2.jpg" alt="">
+                </div>            
+            </p>  
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour13/BD_TA_HM3.jpg" alt="">
+            </div>     
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI – BẮC KẠN – HỒ BA BỂ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <strong>07h30 - 08h00:</strong> Xe và hướng dẫn viên đón Quý khách tại khách sạn trong khu vực <strong>Phố cổ và Nhà Hát Lớn</strong>, 
+                    sau đó khởi hành đi Ninh Bình trên đường Quý khách dừng chân nghỉ ngơi 20 phút tại trạm dừng nghỉ ở 
+                    Phủ Lý, Hà Nam (Quý khách tự túc ăn sáng ) <br> <br>
+                    <strong>10h00 - 12h30:</strong> Đến khu vực chùa Bái Đính, Quý khách di chuyển bằng xe điện vào thăm quan lễ phật chùa Bái Đính - ngôi chùa nổi tiếng 
+                    với nhiều công trình phật giáo có quy mô và kiến trúc đẹp và hoành tráng bậc nhất được xếp hạng kỷ lục guiness 
+                    của <strong>Việt Nam và Đông Nam Á.</strong> Đoàn thăm quan cổng Tam Quan, hành lang La Hán, Tháp Chuông, dâng hương lễ phật 
+                    tại <strong>Điện Quan Âm, Điện Tam Thế và Điện Pháp Chủ.</strong>
+                </p>
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour13/BD_TA_HM4.jpg" alt="">
+                   
+                </div>
+                <p class="fs-5">
+                    <strong>12h30 - 13h30:</strong> Quý khách dừng chân nghỉ ngơi và dừng bữa trưa tại nhà hàng với các món đặc sản cơm cháy, 
+                    dê núi <strong>Ninh Bình</strong> <br> <br>
+                    13h45 - 15h45: Xe đưa Quý khách ra bến đò, lên thuyền đi thăm khu du lịch sinh thái Tràng An - được Unesco công 
+                    nhận là di sản Thiên nhiên Thế giới. Thăm quan hệ thống hang động với những nhũ đá, măng đá mang những hình 
+                    thù độc đáo và hấp dẫn như: <strong>hang Tối, hang Sáng, hang Nấu Rượu, hang Sính, hang Si, hang Ba Giọt, hang Địa Linh…</strong> 
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour13/BD_TA_HM5.jpeg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Xe ô tô đời mới theo lịch trình (16-45 chỗ, tùy theo số lượng khách PYS Travel sẽ sắp xếp xe cho phù hợp) <br>
+                - Các bữa ăn theo lịch trình: 150.000VNĐ/bữa chính; 35.000VNĐ/bữa sáng. <br>
+                - Ngủ nhà nghỉ homestay tại bản Hồ Ba Bể, homestay sạch sẽ tiện nghi.. <br>
+                - Khách sạn tại thị xã Cao Bằng: 02 người/phòng; lẻ nam/nữ ở phòng ba. <br>
+                - Vé thăm quan theo lịch trình, đi thuyền hồ Ba Bể.<br>
+                - Hướng dẫn viên nhiệt tình, có kinh nghiệm cung đường Đông Bắc. <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Tiền tip lái xe, HDV <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

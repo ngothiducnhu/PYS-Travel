@@ -1,0 +1,156 @@
+
+    <div class="container col-8">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Nếu bạn đã ngột ngạt nơi phố thị tấp nập, muốn tìm một nơi yên bình để thả mình với thiên nhiên, 
+                'refresh' lại tâm hồn, đừng quên vẫn còn đó một khoảng trời ở Tây Bắc vẫn dang tay chờ đón. 
+                Nơi bạn có thể hòa mình vào thiên nhiên hoang sơ, để tâm hồn thư giãn và quên đi bộn bề phố thị. 
+                Hòa mình vào cảnh sắc hùng vĩ của núi 
+                rừng nhưng không kém phần duyên dáng, mơ mộng sẽ là một trải nghiệm thú vị.            
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center text-dark my-3 bg-grey">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">9.530.000 VNĐ/Khách</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour4/MC_SL2.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour4/MC_SL3.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <p class="fs-5">
+                <i><b>Vùng núi Tây Bắc</b></i> luôn để lại ấn tượng khó phai với bất cứ ai đến với nó lần đầu tiên, 
+                đây được xem là vùng đất đẹp và đượm tình nhất Việt Nam. Cảnh sắc núi non trùng điệp, hùng vĩ và nên thơ,
+                 những thửa ruộng bậc thang rực rỡ đầy màu sắc hay gian bếp ấm cúng đượm màu khói của đồng bào dân tộc 
+                 miền núi đủ sức thu hút và hớp hồn biết bao nhiêu con tim của mọi người khi có cơ hội được đặt chân đến 
+                 dù chỉ một lần trong đời. 
+                Nơi đây còn là nơi tập trung của khoảng hơn 20 dân tộc tạo nên sự đa dạng văn hóa hiếm nơi nào có được.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour4/MC_SL5.jpeg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <b class="mt-1 fs-5 text-primary">ĐIỂM NỔI BẬT TRONG CHƯƠNG TRÌNH:</b>
+            <p class="px-3">
+                - Chinh phục 02 trong “Tứ đại đỉnh đèo” là Đèo Pha Đin, Đèo Ô Quy Hồ <br>
+                - Check-in cầu kính Bạch Long - cầu kính đi bộ dài nhất thế giới<br>
+                - Chinh phục “Nóc nhà Đông Dương” - đỉnh Fansipan 3,143m<br>
+                - Check-in sống ảo tại Moana<br>
+                - Tham quan Bản Cát Cát - ngôi làng cổ đẹp nhất rừng Tây Bắc           <br> 
+            </p>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - MỘC CHÂU - SƠN LA (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Quý khách tập trung tại điểm hẹn, Xe và HDV đón quý khách khởi hành đi Mộc Châu, trên đường đi quý khách sẽ dừng chân ăn sáng tại nhà hàng (chi phí tự túc). <br><br>
+
+                    Trên đường đi đoàn dừng chân và nghỉ ngơi và chụp ảnh tại <i><b>đèo Thung Khe - Hòa Bình</b></i> hay còn được gọi là <i><b>đèo Đá Trắng</b></i>, được dân tình ca ngợi là “<b>Châu Âu của Hòa Bình</b>”. 
+                    Điểm đặc biệt là thời tiết ở đây khá thú vị. Trên đèo Đá Trắng, một ngày bạn có thể được trải nghiệm đủ 4 mùa trong năm. Xe tiếp tục đưa đoàn di chuyển lên thị trấn Mộc Châu. <br><br>                     
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour4/MC_SL6.jpg" alt="">
+                        <p class="fs-5"><i><b>Ảnh khách hàng của PYS Travel</b></i></p>
+                    </div>
+                    <p class="fs-5">
+                        <b>Trưa:</b> Đoàn ăn trưa tại nhà hàng với 
+                        những món ăn mang đậm hương vị vùng cao, sau bữa ăn đoàn di chuyển về khách sạn nghỉ ngơi.
+                    </p>
+                    <p class="fs-5">
+                        <b>Chiều:</b> Quý khách tham quan Nông trường thăm đồi chè (đồi chè trái tim). Tìm hiểu về cuộc sống lao động tại nông trường chè Mộc Châu, 
+                        lưu lại những tấm hình chụp xanh ngát giữa thảo nguyên đồi chè mênh mông.                    </p>    
+                    </p>
+                </p>
+
+                <h5 class="text-primary">NGÀY 02: MỘC CHÂU - SƠN LA - ĐIỆN BIÊN (Ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Quý khách dùng bữa sáng và khởi hành đi Điện Biên, trên đường quý khách có 
+                    dịp chiêm ngưỡng ngắm cảnh đẹp núi rừng Tây Bắc với các làng Thái ven bờ sông Đà. 
+                    Trên đường quý khách sẽ Chinh phục <b>đèo Pha Đin</b> - một trong 
+                    “<b>Tứ Đại Đỉnh Đèo</b>” những đường đèo dài và hiểm trở nhất Việt Nam, ranh giới 2 tỉnh Sơn 
+                    La và Điện Biên.          
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour4/MC_SL8.jpg" alt="">
+                        <p class="fs-5"><i><b>Ảnh khách hàng của PYS Travel</b></i></p>
+                    </div>
+                    <p class="fs-5"><b>Trưa:</b> Quý khách dùng cơm trưa và nghỉ ngơi.</p>
+                    <p class="fs-5"><b>Chiều:</b> Quý khách đến Điện Biên, viếng Nghĩa trang liệt sỹ A1, đồi A1 – 
+                        Nơi đây có 644 ngôi mộ là những chiến sỹ quân dân ta đã hy sinh anh dũng 
+                        trong chiến dịch Điện Biên Phủ. 
+                    </p> 
+                </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi TP.HCM - HÀ NỘI có 7 ký hành lý xách tay. <br>
+                - Xe ô tô đời mới đưa đón suốt hành trình<br>
+                - HDV kinh nghiệm, nhiệt tình suốt hành trình từ Hà Nội, nhiệt tình, vui vẻ.<br>
+                - 04 khách sạn tiêu chuẩn 3 sao tiện nghi, trung bình 02 khách/phòng<br>
+                - Ăn uống theo chương trình (Bữa chính 150.000đ/ khách/ bữa)<br>
+                - Vé thắng cảnh vào cửa một lần tại các điểm tham quan.<br>
+                - 1 đồ uống/khách tại cafe Mây ơi<br>
+                - Bảo hiểm du lịch suốt tuyến, mức cao nhất 30.000.000đ/ người/ vụ<br>
+                - Nước uống 01 chai/người/ngày.<br>
+                - 01 đêm khách sạn tại Hà Nội<br>
+                - Xe đưa đón sân bay Nội Bài - Hà Nội.           <br> 
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Thuế VAT 8% <br>
+                - Giá tham quan Fansipan và cầu kính Bạch Long, vé vào KDL Cổng trời<br>
+                - Đồ uống, điện thoại, chi phí giặt là hoặc chi phí cá nhân khác.<br>
+                - Chi phí mua và hái dâu tại vườn.<br>
+                - Ăn uống ngoài chương trình.<br>
+                - Phụ thu người nước ngoài 10 USD/ 1 người/ 1 ngày.     <br>       
+            </p> 
+            <br>
+
+            <h5 class="text-primary">QUY ĐỊNH PHỤ THU:</h5>
+            <p class="px-4">
+                - Phụ thu phòng đơn 400.000đ/ khách/ đêm (Áp dụng trong trường hợp khách muốn 
+                ở 01 mình 01 phòng trong suốt hành trình), 650.000đ/khách/2 đêm ở Hà Nội. <br><br>
+
+                - Phụ thu 250.000 vnđ/khách khi tham gia tour vào dịp lễ, tết.        <br>    
+            </p> 
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour.<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour.<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour.<br>
+                - Riêng vé máy bay không hoàn, không hủy theo quy định của hãng hàng không.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.      <br>     
+             </p>
+        </div>
+    </div>

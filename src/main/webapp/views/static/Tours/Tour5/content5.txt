@@ -1,0 +1,177 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+                <i><b>Y Tý</b></i> - nơi rẻo cao hoang sơ những cũng thật tình bởi mây bồng bềnh ôm lấy núi rừng, 
+                hoa khoe sắc và cả những đồng bào dân tộc ấm áp, chân tình. Tới đây, bạn có thể khám 
+                phá những nét văn hóa độc đáo, thú vị của bà con dân tộc thiểu số nơi Lào Cai, 
+                thư những món đặc sản của người Mông, 
+                người Dao, người Giáy,… và mua những món trang sức bằng bạc nhỏ xinh, 
+                tinh xảo do người Dao tự chế tác.            
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3 bg-grey">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">GIÁ TOUR CHỈ TỪ (VNĐ/KHÁCH)</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 6 hàng tuần</td>
+                        <td style="border: 1px black solid;">6.330.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+            <p class="fs-5">
+                <b>Y Tý</b> là một trong những điểm thu hút dân xê dịch nhất vào tháng 9, 
+                10 bởi vẻ đẹp của lúa chín vàng mênh mông, những đám mây lảng bảng 
+                và mái nhà trình tường cổ kính. Du lịch Y Tý thời điểm này, bạn nên 
+                lang thang những cung đường để tận hưởng trọn vẹn vẻ đẹp của biển mây 
+                hòa biển lúa. Mỗi thung lũng lại mang những màu sắc rất riêng.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour5/Y_Ty1.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour5/Y_Ty2.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour5/Y_Ty3.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <p class="fs-5">
+                <h5 class="text-primary">Khám phá trọn vẹn Y Tý với lịch trình đặc sắc:</h5>
+                <p class="fs-5">
+                    ✔️ Ghé thăm rừng già Y Tý - khu rừng nguyên sinh với thảm động thực vật phong phú đa 
+                    dạng với những loài gỗ, thảo dược quý hiếm, khí hậu mát mẻ bốn mùa chìm trong sương mù… <br>
+
+                    ✔️ Đến Mường Hum tham gia phiên chợ vùng cao “Nồng ấm tình người, rực rỡ sắc hoa”. <br>
+                    
+                    ✔️ Khám phá Lũng Pô, dừng chân ngắm cảnh và lưu lại những hình ảnh đẹp tại nơi sông Hồng chảy vào đất Việt. <br>
+                    
+                    ✔️Về với vùng đất “ngàn mây” Ngải Thầu "săn mây" ở độ cao hơn 2000m. Ngải Thầu - một vẻ đẹp thu hút kì lạ vào mùa thu sang. <br>
+                </p>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour5/Y_Ty5.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour5/Y_Ty8.jpg" alt="">
+                <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách tập trung tại sân bay Tân Sơn Nhất làm thủ tục chuyến bay đến Hà Nội. 
+                    Đến Hà Nội, xe đón quý khách về khách sạn ngay trung tâm khu phố cổ nghỉ ngơi. 
+                    Quý khách tự do khám phá Hà Nội. (chi phí ăn uống và vui chơi quý khách tự túc)
+                </p>
+
+                <h5 class="text-primary">
+                    NGÀY 02: HÀ NỘI - LÀO CAI - LŨNG PÔ - NGẢI THẦU - Y TÝ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng 05h30:</b> Xe và hướng dẫn viên của PYS Travel đón đoàn tại điểm hẹn 
+                    khởi hành đi Lào Cai theo đường cao tốc. Đoàn sẽ được trải nghiệm và 
+                    ngắm cảnh trên con đường cao tốc dài nhất Việt Nam. <br>
+                    <b>11h00:</b> Đến thành phố Lào Cai, nghỉ chân ăn trưa tại nhà hàng. <br>
+                    Sau đó, đoàn bắt đầu cuộc hành trình khám phá Y Tý:
+                    Ngược dòng Sông Hồng, xe đưa đoàn đến Lũng Pô, dừng chân ngắm 
+                    cảnh và lưu lại những tấm ảnh làm kỷ niệm nơi bắt đầu của con sông 
+                    Hồng chảy vào Đất Việt. Dọc đường đi đoàn cũng ngắm nhìn những thửa 
+                    ruộng bậc thang trải dài theo sườn núi. <br>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour5/Y_Ty9.jpg" alt="">
+                        <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+                    </div>
+                    <p class="fs-5">
+                        <b>16h00:</b> Đoàn sẽ đến với vùng đất “ngàn mây” Ngải Thầu. Quý khách thực hiện “săn mây” 
+                        trong chuyến đi lên vùng đất cao 2000m này. Ở những mỏm núi cao của đường đi Ngải Thầu –
+                         Y Tý bạn sẽ được mục sở thị một khung cảnh hết sức ngoạn mục của mây trời trước mắt. 
+                         Ngôn từ có lẽ không thể nói hết vẻ đẹp của mây trắng cuộn thành từng cụm lớn trôi nhẹ 
+                         nhàng ngang núi cao – nơi bạn đang dừng chân.    
+                    </p>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour5/Y_Ty10.jpg" alt="">
+                        <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+                    </div>
+                    <p class="fs-5">
+                        <b>Chiều tối: </b>Đoàn về trung tâm Y Tý, Đoàn nhận phòng nhà nghỉ/homestay. 
+                        Quý khách tự do thăm quan Y Tý. Những ngôi nhà trình tường mộc mạc nằm lặng 
+                        lẽ trong sương mây của vùng cao tạo thành bức tranh tuyệt đẹp của thiên nhiên 
+                        và cuộc sống con người ở mảnh đất vùng cao mang vẻ đẹp bình yên này.
+                    </p>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour5/Y_Ty13.jpg" alt="">
+                        <p class="fs-5"><i><b>Ảnh khách hàng PYS Travel</b></i></p>
+                    </div>
+                    <p class="fs-5">
+                        <b>Tối:</b> Quý khách ăn tối với những món ăn mang đậm bản sắc vùng cao, 
+                        thưởng thức những ly rượu ấm nồng trong tiết trời se lạnh.
+                    </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                ✔️ Vé máy bay khứ hồi HCM – HN có 7 ký hành lý xách tay. <br>
+                ✔️ Hai đêm ngủ tại khách sạn ngay khu phố cổ HN.<br>
+                ✔️ Xe đón tiễn khứ hồi từ sân bay Nội Bài về khách sạn ngay khu phố cổ.<br>
+                ✔️ Xe ôtô du lịch đảm bảo chất lượng, lái xe có kinh nghiệm vùng cao.<br>
+                ✔️ Nhà nghỉ khép kín hoặc homestay nhà sàn tập thể ở trung tâm Y Tý, có nóng lạnh.<br>
+                ✔️ Các bữa ăn tại các nhà hàng: 3 bữa chính (2 bữa 130,000 VNĐkhách và 1 bữa 180,000 VNĐ/khách); 
+                40,000 VNĐ/ăn sáng.<br>
+                ✔️ Vé tham quan du lịch.<br>
+                ✔️ Dẫn đoàn am hiểu, nhiệt tình, chu đáo.<br>
+                ✔️ Bảo hiểm du lịch.<br>
+                ✔️ Nước uống 500ml/người/ngày.     <br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                ✔️ Chi phí cá nhân. <br>
+                ✔️ Típ cho hướng dẫn viên, lái xe, nhân viên phục vụ<br>
+                ✔️ Nghỉ phòng đơn: (Phụ thu: 300.000đ/người/đêm), điện thoại, giặt là, đồ uống, thăm quan phát sinh ngoài chương trình.<br>
+                ✔️ Thuế VAT
+            </p> 
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                ✔️ Trẻ em dưới 2 tuổi, tính phí 300.000đ/bé, ngủ chung giường với bố mẹ. <br>
+                ✔️ Trẻ em từ 2 tuổi – dưới 5 tuổi giá tour chỉ tính 60% giá tour, hai người lớn chỉ được kèm 1 trẻ em, nếu trẻ em đi kèm nhiều hơn thì từ em thứ 02 trở lên giá tour chỉ từ 3.890.000đ/bé. <br>
+                ✔️ Trẻ em từ 5- dưới 11 tuổi giá tour chỉ tính 90% giá tour. (Tiêu chuẩn: 01 suất ăn + 01 ghế ngồi và ngủ ghép chung phòng với gia đình + vé máy bay). <br>
+                ✔️ Trẻ từ 11 tuổi trở lên, tính bằng chi phí người lớn.            
+            </p> 
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                ✔️ Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                ✔️ Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour.<br>
+                ✔️ Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour.<br>
+                ✔️ Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour.<br>
+                ✔️ Riêng vé máy bay thì không hoàn, không hủy theo quy định hãng hàng không.<br>
+                ✔️ Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.<br>
+            </p>
+        </div>
+    </div>

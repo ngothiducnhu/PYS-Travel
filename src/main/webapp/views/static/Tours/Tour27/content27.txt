@@ -1,0 +1,115 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Thái Lan thu hút du khách khắp thế giới không chỉ bởi sự hiếu khách, những nụ cười thân thiện; mà còn bởi rất nhiều phong cảnh thiên nhiên tuyệt đẹp, hoang sơ. Du lịch khám phá Thái Lan, du khách không thể bỏ qua thành phố náo nhiệt, trung tâm mua sắm sầm uất Bangkok và thành phố đảo xinh đẹp Phuket..
+            </p>
+
+	    <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour27/BK_Phuket1.jpg" alt="">
+            </div>
+                        
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - BANGKOK - PHUKET (ĂN TỐI)</h5>
+                <p class="fs-5">
+                    Sáng: Xe và Hướng dẫn viên đón đoàn tại điểm hẹn, đưa lên sảnh T2 Nội Bài, đáp chuyến bay Hàng không đi Bangkok. Tới sân bay nối chuyến bay nội địa đi Phuket. Hướng dẫn viên địa phương chào đón Quý khách tại sân bay quốc tế Phuket đưa đoàn dùng cơm tối tại nhà hàng địa phương. Xe đưa Quý khách về bãi biển Patong nhận phòng khách sạn. Nghỉ đêm tại khách sạn 3* hoặc tương đương
+                </p>
+		
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour27/BK_Phuket2.jpg" alt="">
+            	</div>
+
+                <h5 class="text-primary">NGÀY 02: VỊNH PHANGNGA (ĂN SÁNG, TRƯA, TỐI)</h5>
+                <p class="fs-5">
+                    Quý khách ăn sáng tại khách sạn, xe và hướng dẫn sẽ đón và đưa qúy khách ra bến tàu, Đến bến tàu, quý khách di chuyển lên tàu đi tham quan vịnh Phang Nga (1h đồng hồ), ngắm cảnh thiên nhiên tuyệt đẹp - một trong những thắng cảnh nổi tiếng của Thái Lan và thế giới. Quý khách tự do tắm biển<br> <br>
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour27/BK_Phuket3.jpg" alt="">
+            	</div>
+                    <b>Trưa:</b> Sau đó quý khách được ngồi thuyền chèo khám phá các hang động đá vôi được mệnh danh là kỳ quan của thiên nhiên (chi phí tự túc, Qúy khách biết bơi mới tham gia được)
+
+Ăn trưa trên đảo<br> <br>
+                    Cuối ngày tàu đưa quý khách trở về khách sạn ăn tối nghỉ ngơi.
+</p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour27/BK_Phuket4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy khứ hồi HAN - PHUKET - HAN <br>
+
+- Khách sạn 3* tiêu chuẩn 2 người/phòng trung tâm. Nếu đoàn lẻ nam hoặc lẻ nữ sẽ sắp xếp 3 người/phòng.<br>
+
+- Xe đưa đón theo chương trình<br>
+
+- HDV tiếng Việt theo suốt hành trình cho đoàn trên 16 người lớn<br>
+
+- Phí tham quan lần 1 theo chương trình<br>
+
+- Các bữa ăn theo chương trình<br>
+
+- Nước uống trên xe 01 chai/ngày/người<br>
+
+- Bảo hiểm Du lịch mức bồi thường tối đa 10.000$<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phí làm hoặc đổi hộ chiếu. Hộ chiếu phải còn hạn 6 tháng tính đến ngày kết thúc tour.<br>
+
+- Tiền tip cho HDV địa phương và lái xe (khoảng 4$/khách/ngày trẻ em như người lớn)<br>
+
+- Chi phí cá nhân, nước uống, tiền điện thoại, chi phí giặt ủi...<br>
+
+- Các chương trình tour tự chọn khác<br>
+
+- Giá trên chưa bao gồm VAT<br>
+
+- Phụ thu phòng đơn nếu có: 1.000.000 VNĐ/1 đêm<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">LƯU Ý:</h5>
+            <p class="px-4">
+               - Thứ tự các điểm thăm quan và mua sắm có thể thay đổi song vẫn đảm bảo đầy đủ các điểm<br>
+
+- Chuyến bay có thể thay đổi giờ bay theo hành trình của hãng<br>
+
+- Miễn trả lại đầy đủ hay phần còn lại của dịch vụ đã bao gồm mà không sử dụng khi đã bắt đầu chương trình du lịch.<br>
+
+- Với cá nhân đi 1 mình sẽ phải đóng chi phí phòng đơn là 1.000.000 VNĐ/1 người/1đêm, trong trường hợp có khách ghép cùng thì công ty tour sẽ trả lại phí đó<br>
+
+- Tour du lịch thuần túy, Qúy khách vui lòng không tách đoàn.<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+ </div>

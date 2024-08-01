@@ -1,0 +1,148 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+            padding: 5px 0px 5px 10px;
+            color: #00506c;
+            margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Thành phố Paris diễm lệ và phồn hoa với những công trình kiến trúc và lịch sử tuyệt đẹp, một
+                 “kinh đô ánh sáng” hấp dẫn cùng thời trang hàng hiệu cao cấp, cũng là nơi khởi nguồn những câu 
+                 chuyện tình lãng mạn vào bậc nhất của nền điện ảnh thế giới… 
+                Và đó mới chỉ là một số rất ít trong những điều lí thú và hấp dẫn khi nói về nước Pháp.            
+            </p>
+            <div class="row text-dark my-3 px-2">
+                <p class="fs-5">
+                    <i>
+                        <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                        Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                    </i>
+                </p>
+            </div>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Trong mắt du khách, Thụy Sỹ giống như bài thơ ngọt ngào với những hình ảnh 
+                gần như không bao giờ thay đổi: Phụ nữ tết tóc đuôi sam, kẹo và pho mát làm 
+                theo phương pháp thủ công, khung cảnh lúc nào cũng thanh bình với đàn bò nhởn nhơ gặm cỏ.            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican8.jfif" alt="">
+            </div>
+            <p class="fs-5">
+                Thành Roma còn được biết đến là” thành phố 7 quả đồi”. 
+                Trong thành phố vẫn còn rất nhiều công trình kiến trúc cổ như quảng trưởng Venice, 
+                hoàng cung và vô số những nhà thờ, tu viện, đấu trường, pháo đài cổ, các tượng thần, 
+                vòi phun nước....Người ta nói: Mọi ngả đường đều dẫn tới nước Italy, mọi ngả đường của 
+                Italy đều dẫn đến thành Rome, mọi ngả đường cuả Roma đều dẫn rới Vatican và mọi ngả đường 
+                của Vatican đều dẫn đến Sistine”.           
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican13.jfif" alt="">
+            </div>
+            <p class="fs-5">
+                Du lịch Châu Âu khám phá vẻ đẹp hoa lệ của kinh đô ánh sáng Paris. 
+                Đón những ngày ngập tràn ánh nắng ở Geneva xinh đẹp, nơi được xem là thánh 
+                địa du lịch nổi tiếng thế giới. Ghé thăm thủ đô Rome ngàn năm lịch sử, thành 
+                phố vẫn còn vang vọng dư âm của đấu trường sinh tử hôm nào. Một vòng Vatican 
+                tham quan nhà thờ lớn nhất Thế giới, quảng trường của các vị Thần và thánh đường 
+                linh thiêng bậc nhất Châu Âu. Đến với Tour du lịch Pháp - Thụy Sĩ - Ý 11 ngày 10 
+                đêm sẽ cho bạn trải nghiệm toàn bộ những điều mà bạn sẽ không bao giờ quên!
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican4.jpg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">Ngày 1: Hà Nội – Paris (Ăn: Chiều trên máy bay)</h5>
+                <p class="fs-5">
+                    Xe của công ty đón quý khách đưa ra sân bay Nội Bài đáp chuyến bay đi Paris. 
+                    Quý khách nghỉ đêm trên máy bay
+                </p>
+
+                <h5 class="text-primary">Ngày 2: Paris (Ăn: Sáng trên máy bay, trưa, tối)</h5>
+                <p class="fs-5">
+                    <p>
+                        <b>Sáng:</b> Quý khách đến Paris - thủ đô của nước Pháp, nơi được mệnh danh 
+                        là "Kinh đô ánh sáng". Paris còn là thành phố nổi tiếng về thời trang, 
+                        nước hoa và các đồ trang sức. Chính điều này đã tạo cho thành phố sự danh 
+                        tiếng về thanh lịch và hương vị.                    
+                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican6.jfif" alt=""> <br> <br>
+                    </div>
+                    <p>
+                        Quý khách đi tham quan Cung Điện Versailles - được đế chế Pháp xây dựng ở đỉnh cao của 
+                        thời kỳ hưng thịnh. Cung điện được xem là nơi đặt trụ sở chính của chính phủ và thủ đô 
+                        chính trị của Pháp từ năm 1682 đến 1789. Điện Versailles tự hào về danh tiếng tráng lệ 
+                        hiếm có của các cung điện, các vườn hoa của nó.
+                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican9.jfif" alt=""> <br> <br>
+                    </div>
+                    <p>
+                        <b>Chiều:</b> Quý khách chiêm ngưỡng tháp Eiffel - Biểu tượng nổi tiếng nhất của Paris, 
+                        công trình xây dựng và dược khánh thành vào tháng 3/1889, cao 320.75m. <br>
+                        <br>
+                        Tham quan và chụp hình Khải Hoàn Môn (Arc De Triomphe), Nhà thờ Đức Bà Paris và liên 
+                        tưởng đến bộ phim “Thằng gù Nhà thờ Đức Bà” được chuyển thể từ tác phẩm nổi tiếng của 
+                        đại văn hào Victor Hugo...
+                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour37/P_TS_Y_Vatican11.jfif" alt=""> <br> <br>
+                    </div>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi Hà Nội – Paris/ Rome – Frankfurt - Hà Nội 
+                ( Vé đoàn của Hàng không 5 sao Qatar). <br><br>
+
+                - Lệ phí sân bay 3 nước, thuế an ninh HK và phụ phí nhiên liệu.<br><br>
+                
+                - Nghỉ tại khách sạn 3 sao và 4 sao tiêu chuẩn (phòng đôi).<br><br>
+                
+                - Các bữa ăn theo chương trình (mức ăn 15- 25 EUR/bữa chính).<br><br>
+                
+                - Phí tham quan thắng cảnh (cửa thứ nhất).        <br><br>
+                - Hướng dẫn viên tiếng Việt nhiệt tình, kinh nghiệm đi từ Việt Nam. <br><br>
+
+                - Bảo hiểm toàn cầu Chartis ( Mức bồi thường tối đa 75.000USD/vụ).     <br><br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Hộ chiếu còn hạn trên 6 tháng (nếu là hộ chiếu công vụ thì kèm theo công hàm) <br><br>
+
+                - Chi phí cá nhân, nghỉ phòng đơn, hành lý quá cước.<br><br>
+                
+                - Tip cho hướng dẫn viên và lái xe 8 EUR/khách/ngày, Chi phí xe đi ngoài giờ.<br><br>
+                
+                <i><u><b>Ghi chú:</b></u></i> <br>
+                
+                - Xe vận chuyển tại Châu u sẽ đi tối đa không quá 12 giờ/ngày.<br><br>
+                
+                - Giá được tính bằng VNĐ dưa trên quy đổi tỷ giá của EURO và VND tại thời điểm hiện 
+                tại 1 EUR = 25.400 VNĐ do đó nếu có biến động tỷ giá thì giá tour sẽ được quy đổi lại 
+                trên tỷ giá thay đổi của Ngân hàng ngoại thương tại thời điểm thanh toán.      <br><br>      
+            </p> 
+            <br>
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+            </p>
+        </div>
+    </div>

@@ -1,0 +1,117 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+
+            <p>
+                Tour du lịch Thái Lan Bangkok - Pattaya 5 ngày 4 đêm từ TP.HCM của PYS Travel hứa hẹn sẽ mang đến cho quý khách một chuyến đi đáng nhớ! 
+                Thái Lan được biết đến là xứ sở Chùa vàng bởi quốc gia này sở hữu hàng trăm ngôi chùa lớn nhỏ, thậm chí có những ngôi chùa có lối kiến trúc cổ xưa. Ngoài ra, 90% dân số Thái Lan đều theo đạo phật. Chính vì vậy đến đây du khách sẽ được trải nghiệm các lễ hội văn hóa vô cùng độc đáo. 
+            </p>
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                   
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="">GIÁ TOUR</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Khởi hành hàng ngày</td>
+                        <td style="border: 1px black solid;">6.990.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+           
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour26/BK_Pattaya1.jpeg" alt="">
+                </div>            
+            <p>
+                <strong>Bangkok</strong> là thủ đô và cũng là thành phố quan trọng nhất Thái Lan, với dân số hơn 10 triệu người. Nhờ những nỗ lực giới thiệu hình ảnh văn hóa, ẩm thực, lịch sử đầy màu sắc của mình đến với thế giới, 
+                Bangkok trở thành một trong những điểm đến có sức hút mạnh mẽ nhất trên bản đồ du lịch châu Á. <br>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour26/BK_Pattaya2.jpg" alt="">
+            </div>
+            <p>
+                Đây là điểm khởi đầu cho nhiều chuyến đi khám phá Thái Lan và phần còn lại của Đông Nam Á. Có rất nhiều lý do để đến thăm Bangkok. Tại đây, bạn sẽ tìm thấy khu chợ ngoài trời lớn nhất thế giới, 
+                một thủy cung hoàn tráng nằm trong trung tâm mua sắm tám tầng, một bức tượng Phật bằng vàng cao đến 92m và nhiều hơn thế nữa.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour26/BK_Pattaya3.jpg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: TP.HCM – HẢI ÂU – PATTAYA (Ăn trưa coupon/ tối)</h5>
+            
+                <p>
+                    Trưởng đoàn của công ty sẽ đón quý khách tại sân bay Tân Sơn Nhất. Sau đó làm thủ tục cho đoàn đáp chuyến bay đi Thái Lan. Đến Vương Quốc Thái Lan. <br>
+                    Xe đón đoàn khởi hành đi Pattaya. Trên đường tham quan: <br>
+                    Cửa Biển Tangakat BangPhu đầy lãng mạn, đàn chim Hải Âu tự nhiên nơi đây sẽ đưa quý khách như đang lạc trong một không gian yên bình tại Châu Âu thu nhỏ. <br>
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour26/BK_Pattaya4.jpg" alt="">
+                  
+                </div>
+                <p>
+                    Wat Phra Yai hay còn được gọi là Chùa Phật Lớn, nằm trên đường cao tốc 4171. Sở dĩ có tên gọi như vậy là do ngôi chùa có tượng Phật cao trên 18m và được 
+                    sơn một màu vàng nổi bật. Kiến trúc của Wat Phra Yai được ảnh hưởng từ Đạo Bà La Môn và Đạo Phật, thể hiện rõ ràng nhất ở tông màu chủ đạo là vàng.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour26/BK_Pattaya5.jpg" alt="">
+                  
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

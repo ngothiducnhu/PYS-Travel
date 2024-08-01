@@ -1,0 +1,158 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tour du lịch Hạ Long - Bãi Cháy 3 ngày 2 đêm không chỉ mang đến cơ hội khám phá vịnh Hạ Long, mà còn cho
+                du
+                khách trải nghiệm bãi biển Bãi Cháy - một trong những điểm đến biển nổi tiếng và đẹp nhất của Vịnh Bắc
+                Bộ.
+            </p>
+            <div class="row text-center text-danger my-3">
+                <strong>GIÁ TOUR TRỌN GÓI : 2.980.000 VNĐ/KHÁCH</strong> <br>
+                <small class="mt-2">(Áp dụng cho đoàn 40 khách trở lên)</small>
+            </div>
+            <p class="fs-5">
+                Với bãi cát trắng mịn và nước biển trong xanh, Bãi Cháy là nơi lý tưởng để thư giãn, tắm nắng và thư
+                giãn sau
+                những hoạt động khám phá. Du khách còn có thể tham gia vào các hoạt động như lướt sóng, cưỡi thuyền
+                kayak
+                hoặc đơn giản là ngồi dạo bước trên bãi biển và thưởng thức hương vị của biển cả. Bãi biển Bãi Cháy hứa
+                hẹn
+                mang lại trải nghiệm thú vị và không quên trong hành trình khám phá vịnh Hạ Long của bạn.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour11/HLT1.jpg" alt="">
+            </div>
+            <p>
+                Chương trình du lịch Hạ Long – Bãi Cháy 3 ngày 2 đêm đưa quý khách khám phá di sản thiên nhiên thế giới
+                vịnh Hạ
+                Long với các hòn đảo nổi tiếng của vịnh Hạ Long như đảo Rồng, hòn Gà Chọi, Hòn Con Vịt, Động Thiên Cung,
+                Đảo
+                Tuần Châu, đây chắc chắn sẽ là hành trình mang lại niềm vui và sự hài lòng cho du khách bốn phương….
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour11/HLT2.jpg" alt="">
+            </div>
+            <p class="fs-5">
+            <h5 class="text-primary">Điểm nổi bật trong Tour Hạ Long Teambuilding 3 ngày 2 đêm:</h5>
+            <p class="fs-5">
+                - Du ngoạn trên vịnh Hạ Long, thưởng thức những món ăn mang đậm hương vị biển cả. <br> <br>
+                - Tham quan công viên SunWorld Hạ Long Park, tổ hợp công viên vui chơi mang đẳng cấp quốc tế, bao gồm 2
+                khu vực chính: Tổ hợp vui chơi ven biển và tổ hợp vui chơi trên đỉnh Ba Đèo – được kết nối bởi hệ thống
+                cáp
+                treo độc đáo. <br><br>
+                - Chiêm ngưỡng bảo tàng Hạ Long, nơi quy tụ hơn 2000 hiện vật gốc, được được trưng bày tại 3 tầng bên
+                trong và ngoài trời với hình thức đặc sắc, hấp dẫn, hiện đại đã phản ánh chân thực lịch sử, văn hóa, con
+                người
+                và thiên nhiên Quảng Ninh trong quá trình hình thành và phát triển.
+            </p>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour11/HLT3.jpg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HÀ NỘI - HẠ LONG (Ăn trưa, tối)</h5>
+                <p>
+                    <strong>Sáng:</strong> Xe và hướng dẫn viên đón quý khách tại điểm hẹn, khởi hành đi Hạ Long.
+                    Trên đường dừng chân nghỉ ngơi tại Hải Dương, ăn sáng tự túc <br> <br>
+
+                    Đến Hạ Long, Quý khách thưởng thức bữa trưa tại khách sạn với nhiều món ăn hải sản hấp dẫn. <br><br>
+
+                    <strong>Chiều:</strong> Quý khách tự do tắm biển, tham quan Công Viên SunWorld Hạ Long Park - Trải
+                    rộng trên diện tích
+                    214ha, khu du lịch giải trí <strong>Sun World Hạ Long Park</strong> là tổ hợp công viên vui chơi
+                    mang đẳng cấp quốc tế bao
+                    gồm 2 khu vực chính: Tổ hợp vui chơi ven biển và tổ hợp vui chơi trên đỉnh Ba Đèo – được kết nối với
+                    nhau bởi hệ thống
+                    cáp treo độc đáo. <strong>(Chi phí tự túc)</strong>
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour11/HLT4.jpg" alt="">
+                    <p class="text-center">Sun World Hạ Long</p>
+                </div>
+                <p class="fs-5">
+                    Tổ hợp vui chơi ven biển nằm trên bờ biển Bãi Cháy xinh đẹp, có diện tích lên đến 169ha với nhiều
+                    hạng mục
+                    giải trí hấp dẫn như thế giới trò chơi mạo hiểm cùng tàu lượn siêu tốc “khủng” nhất Việt Nam, công
+                    viên
+                    nước sảng khoái mang tên Vịnh Lốc Xoáy, Làng biển với nét văn hóa vùng miền tinh tế hay chỉ đơn giản
+                    là thả mình trên bờ biển Hạ Long với làn nước trong xanh và bờ cát trắng mịn.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour11/HLT5.jpg" alt="">
+                </div>
+                <p class="fs-5">
+                    Cáp treo vượt biển dài 2km sẽ đưa du khách đến với <strong>Tổ hợp vui chơi Ba Đèo</strong> – quần
+                    thể các điểm du ngoạn
+                    hấp dẫn và các hoạt động giải trí kỳ thú. Các điểm đến không thể bỏ qua tại đỉnh Ba Đèo như Vườn
+                    Nhật,
+                    khu trò chơi trong nhà Lâu Đài Huyền Bí, đặc biệt là Sun Wheel – một trong những vòng quay cao nhất
+                    thế giới.
+                    <br><br>
+                    Vào 17h00 hàng ngày, có diễn ra chương trình múa rối nước
+                    <br><br>
+                    <strong>Tối:</strong> Quý khách ăn tối tại nhà hàng, nghỉ đêm tại khách sạn.
+                </p>
+             
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Xe vận chuyển đời mới đưa đón phục vụ theo hành trình <br>
+                - Nghỉ đêm tại khách sạn 3 sao địa phương tại Hạ Long (2-3 khách/phòng) <br>
+                - 05 bữa ăn chính tiêu chuẩn 150.000 vnđ/người +2 bữa sáng. <br>
+                - 01 chai nước suối/ người/ ngày phục vụ trên xe. <br>
+                - Chi phí tổ chức teambuilding, loa kéo, sân bãi… <br>
+                - MC, kịch bản teambuilding, dụng cụ chơi team, nhân sự hỗ trợ <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Tàu thăm quan vịnh Hạ Long 4 tiếng <br>
+                - Vé vào cửa tham quan tại các điểm du lịch theo chương trình. <br>
+                - Bảo Hiểm du lịch mức đền bù tối đa 20.000.000Đ/vụ/người. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Rượu, bia, nước ngọt, nước hoa quả…. trong các bữa ăn và suốt lịch trình. <br>
+                - Các chi phí giặt, là, điện thoại, mua quà, đồ lễ ……. <br>
+                - Thuế giá trị gia tăng (VAT). <br>
+                - Tiền thưởng, bồi dưỡng hướng dẫn, lái xe <br>
+                - Vé tham quan Sun World (Theo giá công bố) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

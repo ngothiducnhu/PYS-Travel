@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+.menu{
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.menu>h1{
+    color: white;
+}
+.menu>.menu-content{
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+.menu>.menu-content>a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    display: block;
+    font-weight: bolder;
+    padding: 10px;
+}

@@ -1,0 +1,128 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Đông Tây Bắc còn rất nhiều những điểm đến thú vị mà có lẽ bạn chưa khám phá hết. Hãy cùng PYS Travel vi vu từ Đông sang Tây Bắc, chinh phục những đỉnh cao, chiêm ngưỡng thiên nhiên hùng vĩ và tìm hiểu về văn hóa, con người vùng cao qua tour Hoàng Su Phì - Chiêu Lầu Thi - Cốc Pài - Bắc Hà 4 ngày 4 đêm từ TP.HCM nhé!
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 6 hàng tuần</td>
+                        <td style="border: 1px black solid;">7.430.000 VNĐ/khách</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Có rất nhiều địa điểm thưởng mây như Háng Đồng, Đỉnh Lảo Thần, Núi Muối hay Y Tý, Lào Cao…nhưng Tà Xùa vẫn là sự lựa chọn hoàn hảo hơn cả. Đường đi không quá vất vả, không cần phải leo trèo nhiều, chỉ có 45km đường từ thị trấn Bắc Yên đến Tà Xùa hơi dốc, nhưng cũng không quá khó khăn. <b>Tour Tà Xùa - Bắc Yên 4 ngày 3 đêm của PYS Travel</b> sẽ mang đến cho du khách cảm giác “xê dịch” tuyệt vời và chân thực nhất.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour7/HSP_CL1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <p>- Tham quan bản Nậm Hồng với những nét văn hóa đặc sắc của đồng bào Dao đỏ.</p>
+	    	<p>- Hòa mình với những thửa ruộng bậc thang kỳ vĩ</p>
+	    	<p>- Chinh phục và săn mây Chiêu Lầu Thi, nơi mây ôm núi, núi ôm mây hữu tình.</p>
+	    	<p>- Check in cổng trời Cốc pài.</p>
+	    	<p>- Khám phá ẩm thực độc đáo Bắc Hà, tham quan Làng và nhà của vua H'Mông - Dinh Hoàng A Tưởng.</p>
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour7/HSP_CL2.jpg" alt="">
+            </div>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour7/HSP_CL3.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách tập trung tại sân bay Tân Sơn Nhất, làm thủ tục chuyến bay đến HN. Đến Hà Nội, xe đón quý khách từ sân bay Nội Bài về khách sạn nghỉ ngơi. Quý khách tự do vui chơi và khám phá Phố Cổ (chi phí vui chơi và ăn uống tự túc).
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - BẢN NẬM HỒNG - HỒ THẦU (ĂN TRƯA, TỐI)</h5>
+                <p class="fs-5">
+                    <b>Sáng 5h00:</b> xe oto và hướng dẫn viên(HDV) công ty PYS Travel đón quý khách khởi hành đi Hoàng Su Phì, Hà Giang. Đoàn dừng chân ăn trưa tại nhà hàng.<br> <br>
+
+                    <b>Chiều:</b> Sau bữa trưa, xe và HDV sẽ đưa Quý khách đi tham quan bản Nậm Hồng (Thông Nguyên) – Địa danh nằm cách trung tâm huyện Hoàng Su Phì khoảng 40 km, thôn Nậm Hồng, xã Thông Nguyên là nơi sinh sống của 37 hộ đồng bào dân tộc Dao đỏ. Nơi đây có những thửa ruộng bậc thang trải dài trên các sườn đồi đã được công nhận danh lam thắng cảnh cấp Quốc gia, bên cạnh đó là vùng chè Shan tuyết cổ thụ Phìn Hồ cùng với những nét văn hóa đặc sắc của đồng bào Dao đỏ. <br><br>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour7/HSP_CL4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    <p class="fs-5"><b>Tối:</b>Quý khách dùng bữa tối tại homestay cùng đồng bào vùng cao. Quý khách quây quần bên ấm trà, cùng chia sẻ những câu chuyện thắm tình người của đồng bào vùng cao hoặc có thể trải nghiệm tắm là người Dao rất đặc trưng ở nơi đây.</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                 - Xe Ô tô đời mới đưa đón suốt hành trình. Xe 29 chỗ, 16 chỗ, đưa đón theo chương trình, lái xe có kinh nghiệm vùng cao. (tùy theo số lượng khách PYS sẽ sắp xếp xe cho phù hợp)<br>
+					- Vé máy bay khứ hồi HCM – Hà Nội có 7 ký hành lý xách tay<br>
+					- 1- 2 đêm khách sạn tại HN (tùy vào thời điểm khởi hành tour)<br>
+					- Xe đón tiễn sân bay khứ hồi từ sân bay Nội Bài – Khách sạn HN.<br>
+					- Vận chuyển: xe du lịch đời mới, đưa đón theo chương trình. Lái xe thân thiện và cẩn thận suốt hành trình.<br>
+					- 05 bữa chính theo chương trình, tiêu chuẩn 150.000đ/ suất.<br>
+					- 02 bữa sáng 35,000đ/suất.<br>
+					- Hướng dẫn viên chuyên nghiệp, chu đáo suốt chương trình<br>
+					- Vé thắng cảnh các điểm trong trong chương trình<br>
+					- Bảo hiểm du lịch trọn tour, mức bồi thường tối đa 20.000.000 đồng/ người/ vụ<br>
+					- Nước uống trên xe: 1 chai 0,5 lit/ người/ ngày.<br>
+					- Nghỉ nhà sàn Homestay tại Hồ Thầu và khách sạn tại Bắc Hà (tiêu chuẩn 2 sao 2 khách/phòng)<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+              - Tiền tip cho lái xe, HDV.<br>
+					- Đồ uống, điện thoại, chi phí giặt là hoặc chi phí cá nhân khác<br>
+					- Ăn uống ngoài chương trình.<br>
+					- Phụ thu người nước ngoài 10 USD/ 1 người/ 1 ngày<br>
+
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em từ 11 tuổi trở lên: tính 100% giá trị tour.<br>
+					- Trẻ em từ 05 – 11 tuổi:90% giá tour (có suất ăn + ghế ngồi riêng + ngủ chung với bố mẹ)<br>
+					- Trẻ em từ 2 - dưới 05 tuổi: 60% giá tour, 2 người lớn 1 trẻ em, trẻ thứ 2 trở lên giá tour là 4.290.000đ/bé<br>
+					- Trẻ em dưới 2 tuổi: 300.000đ/bé<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>

@@ -1,0 +1,128 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                <strong>Bình Liêu</strong> đã làm ngỡ ngàng bao du khách bởi nơi đây cũng có ruộng bậc thang, núi đồi trùng điệp, 
+                những thác nước tung bọt trắng xóa, những ngôi làng nhỏ trong khói chiều đẹp như tranh vẽ. Trên 
+                những cánh rừng xanh, mùa nào hoa ấy đua nhau khoe sắc: hoa đào, hoa mận Nà Làng, hoa trẩu, 
+                hoa sở trắng muốt…như tô thêm cho vẻ đẹp thanh khiết của núi rừng vùng biên.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR TRỌN GÓI</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="">GIÁ TOUR</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 7 hàng tuần</td>
+                        <td style="border: 1px black solid;">1.880.000 VNĐ/khách</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour14/BL_QN1.jpg" alt="">
+            </div>
+           
+            <p class="fs-5">
+                Người ta vẫn ví Bình Liêu là Sapa thu nhỏ bởi đến với huyện nhỏ này, bạn sẽ được sống với văn hóa của các đồng bào dân tộc 
+                thiểu số như Dao, Tày, Sán Chỉ,… được ngắm cảnh sắc núi rừng bạt ngàn, được hít hà hương hồi hương quế, được nghe những âm 
+                thanh rì rào của suối ngàn. Tour Bình Liêu 2 ngày 1 đêm của PYS Travel sẽ mang lại những trải nghiệm thú vị với những cung 
+                đường biên giới nở trắng hoa lau. 
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour14/BL_QN2.jpg" alt="">
+                </div>            
+            </p>  
+            <p>
+                Đến với <strong>Cao Bằng</strong>, nơi núi non hùng vĩ này sẽ không khiến bạn thất vọng với vô vàn địa điểm cho du khách khám phá. 
+                Trong chuyến đi lần này, Cao Bằng sẽ tiếp đón các bạn với <strong>Thác Bản Giốc</strong> và chùa <strong>Phật tích Trúc Lâm Bản Giốc.</strong>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour14/BL_QN3.jpg" alt="">
+            </div>     
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HÀ NỘI - BÌNH LIÊU - MỐC 1297 - MỐC 1300 (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <strong>Sáng:</strong> Xe và HDV PYS Travel đón quý khách tại điểm hẹn, khởi hành đi Bình Liêu. Trên đường đi đoàn sẽ nghỉ chân, dùng bữa sáng (tự túc) 
+                    tại điểm dừng nghỉ. Sau khi dừng chân xong đoàn tiếp tục cuộc hành trình đến với Bình Liêu. <br> <br>
+
+                    <strong>Trưa:</strong> Đoàn đến Bình Liêu, nghỉ ngơi dùng bữa trưa thơm ngon với các món hải sản đặc trưng địa phương. Sau đó, 
+                    về khách sạn nhận phòng nghỉ ngơi. <br><br>
+
+                    <strong>Chiều:</strong> Đoàn khởi hành đi chinh phục Mốc 1297 được mệnh danh là thiên đường cỏ lau của miền Bắc, checkin, 
+                    chụp hình lưu niệm tại đây. <br> <br>
+                    Tiếp thep đoàn chinh phục Mốc 1300 với cảnh đẹp Matcha Hills ấn tượng.
+                </p>
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour14/BL_QN4.jpg" alt="">
+                   
+                </div>
+                <p class="fs-5">
+                    Đầu mùa đông, vào khoảng tháng 10, đầu tháng 11, đường lên các cột mốc trên biên giới ở huyện Bình Liêu lại thơ mộng, 
+                    đẹp hơn bởi hai bên đường bạt ngàn bông hoa cỏ lau. Hoa cỏ lau mọc thành từng cụm hai bên đường rung rinh theo gió, 
+                    đẹp mơ màng, thu hút mọi ánh nhìn say đắm.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour14/BL_QN5.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Xe ô tô đời mới theo lịch trình (16-45 chỗ, tùy theo số lượng khách PYS Travel sẽ sắp xếp xe cho phù hợp) <br>
+                - Các bữa ăn theo lịch trình: 150.000VNĐ/bữa chính; 35.000VNĐ/bữa sáng. <br>
+                - Ngủ nhà nghỉ homestay tại bản Hồ Ba Bể, homestay sạch sẽ tiện nghi.. <br>
+                - Khách sạn tại thị xã Cao Bằng: 02 người/phòng; lẻ nam/nữ ở phòng ba. <br>
+                - Vé thăm quan theo lịch trình, đi thuyền hồ Ba Bể.<br>
+                - Hướng dẫn viên nhiệt tình, có kinh nghiệm cung đường Đông Bắc. <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Tiền tip lái xe, HDV <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

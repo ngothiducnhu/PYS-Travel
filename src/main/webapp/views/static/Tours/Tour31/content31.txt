@@ -1,0 +1,104 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+               our du lịch Lào 5 ngày 4 đêm từ TP.HCM đưa du khách khám phá vẻ đẹp hùng vĩ và văn hóa đặc sắc của Viêng Chăn, Luang Prabang và Văng Viêng. Từ những di tích lịch sử, chùa chiền cổ kính đến cảnh quan thiên nhiên hùng vĩ, mỗi điểm đến đều mang lại trải nghiệm khó quên. <br>
+
+Lào hay còn gọi là đất nước Triệu Voi hay Vạn Tượng, là một đất nước đầy hấp dẫn, với diện tích rộng lớn và lịch sử văn hoá lâu đời. Thủ đô Viêng Chăn và cố đô Luang Prabang là những điểm đến lịch sử, văn hoá đầy mê hoặc, được UNESCO công nhận là Di sản Văn hoá Thế giới. Đặc biệt, từ những ngôi chùa cổ kính, những ngọn núi hùng vĩ cho đến những dãy núi hùng vĩ và thác nước kỳ thú, Lào vẫn giữ lại được vẻ đẹp tự nhiên và bình dị.  <br>          </p>
+
+	    <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour31/VC_LuangPra1.jpg" alt="">
+            </div>
+                        
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01:  TP. HỒ CHÍ MINH - VIÊNG CHĂN (Ăn tối)</h5>
+                <p class="fs-5">
+                   13h00: Hướng dẫn viên đón quý khách tại sân bay quốc tế Tân Sơn Nhất làm thủ tục đáp chuyến bay đi Viêng Chăn – Lào.<br>
+Chuyến bay: VJ831 SGN VTE 16:00 17:45.<br>
+
+Đến sân bay Wattay, xe đón và đưa đoàn về trung tâm thủ đô Viêng Chăn<br>
+
+Quý khách ăn tối tại nhà hàng địa phương, nhận phòng khách sạn nghỉ ngơi.<br>
+
+Buổi tối: Đoàn tự do khám phá khu phố Tây hoặc chợ đêm tại thủ đô Viêng Chăn.<br>
+                </p>
+		
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour31/VC_LuangPra2.jpg" alt="">
+            	</div>
+
+                <h5 class="text-primary">NGÀY 02: VIÊNG CHĂN - VĂNG VIÊNG (Ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    	Buổi sáng: Quý khách dùng bữa sáng, làm thủ tục trả phòng khách sạn. Sau đó khởi hành tham quan:<br>
+
+Chùa Mẹ Si Mương – ngôi chùa linh thiêng nhất tại Thủ đô Viêng Chăn, nơi người dân Lào thường đến để cầu an, cầu phúc và cầu bình yên. Quý khách viếng thăm, đảnh lễ Phật và buộc chỉ tay chúc phúc truyền thống của người dân Lào.<br>
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour31/VC_LuangPra3.jpg" alt="">
+            	</div>
+                    
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour31/VC_LuangPra4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+              - Vận Chuyển: Xe du lịch đời mới, tiện nghi, phục vụ đoàn suốt tuyến.<br>
+- Vé máy bay: Vé máy bay khứ hồi hàng không Vietjet Air. Bao gồm: 7 ký hành lý xách tay + 20kg ký gửi<br>
+- Vé tàu cao tốc: Hành trình VTE – Luang Prabang – VTE (2 chiều ghế hạng 2- Tàu cao tốc)<br>
+- Khách Sạn: Tiêu chuẩn 3 - 4 sao. 02 - 03 khách/ phòng. Tiện nghi: máy lạnh, tivi, vệ sinh…<br>
+- Ăn Uống: Các bữa ăn theo chương trình.<br>
+- Nước uống: 2 chai 500ml/người/ngày<br>
+- Hướng Dẫn Viên: nhiệt tình, vui vẻ, chu đáo phục vụ đoàn tham quan suốt tuyến.<br>
+- Tham quan: Vé vào cổng các điểm tham quan theo chương trình<br>
+- Quà Tặng: Nón du lịch, khăn ướt.<br>
+- Bảo hiểm du lịch.<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+               - Hộ chiếu còn thời hạn.<br>
+- Hành lý ký gửi hãng hàng không Vietjet Air.<br>
+- Visa Lào đối với khách mang hộ chiếu nước ngoài. Khách chuẩn bị 04 tấm hình (nền trắng) xin visa tại Sân bay Lào phí tham khảo 1.200.000 VNĐ/visa<br>
+- Nước uống (bia rượu trong bữa ăn), điện thoại, giặt ủi.<br>
+- Tiền bồi dưỡng cho hướng dẫn viên và tài xế địa phương 5$/ ngày/ khách.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+               - Trẻ em dưới 02 tuổi: 20 % giá tour (ngủ chung giường với cha mẹ)<br>
+- Trẻ em từ 2 đến dưới 11 tuổi: 90 % giá tour (ngủ chung gường với cha mẹ)<br>
+- Trẻ em trên 11 tuổi: Giá tour như người lớn<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+ </div>

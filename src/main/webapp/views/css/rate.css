@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+
+.rate{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+}
+.rate img{
+    width: 100px;
+    height: 100px !important;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.rate .star{
+    text-align: center;
+}
+.rate .star i{
+    color: yellow;
+}
+.rate a{
+    text-decoration: solid;
+    font-size: 12;
+}

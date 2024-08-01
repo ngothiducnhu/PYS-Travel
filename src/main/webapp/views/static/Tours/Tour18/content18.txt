@@ -1,0 +1,121 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tour Teambuilding tại Lagom Ninh Bình Homestay 2 ngày 1 đêm từ Hà Nội của PYS Travel là một chương trình hết sức đặc sắc, kết hợp hoàn hảo và tuyệt vời giữa việc tham quan khám phá các các di tích 
+                lịch sử, cảnh quan thiên nhiên tuyệt mỹ, với những hoạt động, những trò chơi gắn kết tập thể cao và đầy hấp dẫn.
+            </p>
+
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR TRỌN GÓI</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024 <br> Theo yêu cầu</th>
+                        <th class="">2.080.000 VNĐ</th>
+                    </tr>
+                </table>
+            </div>
+           
+            <p class="fs-5">
+                Lagom Ninh Bình Homestay là khu nghỉ dưỡng sang trọng nằm ở Ninh Bình, Việt Nam. Nơi đây mang đến một khung cảnh thanh bình và đẹp như tranh 
+                vẽ giữa vẻ đẹp thiên nhiên của khu vực. Khu nghỉ dưỡng cung cấp nhiều tiện nghi và dịch vụ đa dạng để đảm bảo một kỳ nghỉ thoải mái cho du khách. Đặc biệt rất thích hợp cho các hoạt động của Teambuilding
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour18/NBhomestay1.jfif" alt="">
+                </div>            
+            </p> 
+            <p>
+                Du khách có thể tận hưởng các phòng hoặc biệt thự rộng rãi và được thiết kế đẹp mắt, mỗi phòng đều được trang bị tiện nghi hiện đại và lối trang trí duyên dáng. 
+                Khu nghỉ dưỡng còn có hồ bơi, spa, trung tâm thể dục và nhiều hoạt động giải trí khác nhau để phục vụ các sở thích khác nhau. <br>
+            </p> 
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour18/NBhomestay2.jfif" alt="">
+            </div>
+            
+            <p class="fs-5">
+                Khu nghỉ dưỡng Lagom Ninh Bình nổi tiếng với bầu không khí yên tĩnh, cho phép du khách thư giãn, nghỉ ngơi trong vòng tay thiên nhiên. Hơn nữa, vị trí của nó giúp bạn dễ dàng đến 
+                các điểm tham quan nổi tiếng ở Ninh Bình, như Quần thể danh lam thắng cảnh Tràng An, Tam Cốc - Bích Động và Cố đô Hoa Lư. Dù bạn đang tìm kiếm một nơi nghỉ ngơi yên bình hay một kỳ nghỉ đầy phiêu lưu, Lagom Ninh Bình Homestay đều mang đến trải nghiệm sang trọng và đáng nhớ cho du khách khi đến nơi đây. <br>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour18/NBhomestay3.jfif" alt="">
+                </div>            
+            </p>
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HÀ NỘI - BÁI ĐÍNH - LAGOM NINH BÌNH (Ăn Trưa, Tối)</h5>
+            
+                    <strong>Sáng:</strong> Xe và HDV đón quý khách tại điểm hẹn trong thành phố, khởi hành đi Ninh Bình. 
+                    Trên đường đi đoàn dừng chân dọc đường, Quý khách tự túc ăn sáng, sau đó tiếp tục cuộc hành trình. Đoàn tham gia chương trình ca nhạc trên xe với những tiết mục văn nghệ đặc sắc, những bài hát vui, những câu đố hài dí dỏm.  <br> <br>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour18/NBhomestay4.png" alt="">
+                    </div>  
+                    Trưa: Quý khách dùng bữa trưa tại resort, nhận phòng nghỉ ngơi. <br><br>
+                   
+                    15h00:  Đoàn cùng nhau tham dự chương trình Teambuilding, các đội chơi cùng nhau tranh tài qua các vòng thi đấu như: bánh xe mềm, bước chân Tây Sơn thần tốc ... 
+                    Chắc chắn Quý khách sẽ có những khoảnh khắc vô cùng thú vị. <br><br>
+                  
+
+                    Chiều: Đoàn ăn tối tại Homestay, karaoke và nghỉ ngơi
+         
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour18/NBhomestay5.jfif" alt="">
+                   
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

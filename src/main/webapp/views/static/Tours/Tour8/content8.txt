@@ -1,0 +1,129 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Với Tour du lịch Hồ Ba Bể - Thác Bản Giốc 4 ngày 4 đêm từ TP.HCM (hoặc 5 ngày 4 đêm tùy chuyến bay) du khách sẽ có cơ hội đặt chân đến với Thác Bản Giốc (Cao Bằng) là thác nước lớn thứ 4 thế giới trong các thác nước nằm trên một đường biên giới giữa các quốc gia và Hồ Ba Bể (Bắc Kạn) là một trong 100 hồ nước ngọt lớn nhất thế giới.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">7.130.000 VNĐ/khách</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Có rất nhiều địa điểm thưởng mây như Háng Đồng, Đỉnh Lảo Thần, Núi Muối hay Y Tý, Lào Cao…nhưng Tà Xùa vẫn là sự lựa chọn hoàn hảo hơn cả. Đường đi không quá vất vả, không cần phải leo trèo nhiều, chỉ có 45km đường từ thị trấn Bắc Yên đến Tà Xùa hơi dốc, nhưng cũng không quá khó khăn. Tour Tà Xùa - Bắc Yên 4 ngày 3 đêm của PYS Travel sẽ mang đến cho du khách cảm giác “xê dịch” tuyệt vời và chân thực nhất.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour8/HBB_TBG1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <p>- Khám phá Thác Bản Giốc – thác nước đẹp nhất Việt Nam. Đồng thời, lập kỷ lục là thác nước lớn nhất Đông Nam Á. Khoảng thời gian đẹp nhất để ghé thăm nơi đây là từ tháng 9 đến tháng 12, ngắm thác Bản Giốc mùa nước đổ hùng vĩ, uy nghiêm.</p>
+	    	<p>- Khám phá Động Ngườm Ngao – một trong những động dài và đẹp nhất Việt Nam với truyền thuyết phong phú của dân tộc Tày.</p>
+	    	<p>- Mãn nhãn khung cảnh thần tiên tại Hồ Ba Bể ngày Thu sang, Đông tới.</p>
+	    	<p>- Thưởng thức những món đặc sản trứ danh Cao Bằng, Bắc Kạn.</p>
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour8/HBB_TBG2.jpg" alt="">
+            </div>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour8/HBB_TBG3.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách đến sân bay Tân Sơn Nhất làm thủ tục chuyến bay đến Hà Nội. Xe đón quý khách từ sân bay Nội Bài về khách sạn nghỉ ngơi (chi phí ăn uống và vui chơi quý khách tự túc).
+
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - BẮC KẠN - HỒ BA BỂ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> HDV đón khách tại điểm hẹn. Xe khởi hành đi Bắc Kạn. Trên đường đi, quý khách sẽ dừng chân ăn sáng tại nhà hàng. (chi phí tự túc)<br> <br>
+			<p><b>Trưa:</b> Qúy khách dùng bữa trưa tại nhà hàng tại Ngã ba chợ Rã.</p>
+                    <b>Chiều:</b> Đến bến Buốc Lốm, hồ Ba Bể. Thăm quan hồ Ba Bể bằng thuyền với những cảnh điểm đặc sắc như: Động Puông, Ao Tiên, đảo An Mạ, đảo Bà Góa... Đoàn nhận phòng nghỉ ngơi tại nhà sàn sinh thái trong bản Pác Ngòi của khu du lịch Ba Bể. Ăn tối tại nhà hàng. Nghỉ đêm tại Ba Bể.<br><br>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour8/HBB_TBG4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour8/HBB_TBG5.jpg" alt=""> <br> <br>
+
+                    </div>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                 - Xe ô tô đời mới theo lịch trình (16 - 45 chỗ tùy theo số lượng khách PYS sẽ sắp xếp xe cho phù hợp)<br>
+					- Các bữa ăn theo lịch trình: 150.000VNĐ/bữa chính; 35.000VNĐ/bữa sáng.<br>
+					- Vé máy bay khứ hồi HCM – HN có 7 kí xách tay<br>
+					- Ngủ nhà nghỉ home-stay tại bản Hồ Ba Bể, home-stay sạch sẽ tiện nghi..<br>
+					- Khách sạn tại thị xã Cao Bằng: 02 người/phòng; lẻ nam/nữ ở phòng ba.<br>
+					- Vé thăm quan theo lịch trình, đi thuyền hồ Ba Bể.<br>
+					- Hướng dẫn viên nhiệt tình, có kinh nghiệm cung đường Đông Bắc.<br>
+					- Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ)<br>
+					- Nước uống tiêu chuẩn 1chai 450ml/khách/ngày trên xe<br>
+					- Xe đón tiễn khứ hồi từ sân bay Nội Bài về khách sạn<br>
+					- 1 - 2 đêm khách sạn tại HN (tùy thuộc vào ngày khởi hành của chương trình)<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+              - Chi phí cá nhân.<br>
+					- Tiền tip lái xe, HDV<br>
+					- Thuế VAT.<br>
+
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                 - Trẻ em dưới 2 tuổi, tính phí 300.000đ/bé, ngủ chung giường với bố mẹ.<br>
+					- Trẻ em từ 2 tuổi – dưới 5 tuổi giá tour 60% giá tour hai người lớn chỉ được kèm 1 trẻ em, nếu trẻ em đi kèm nhiều hơn thì từ em thứ 02 trở lên giá tour là 4.280.000đ/bé<br>
+					- Trẻ em từ 5- dưới 11 tuổi giá tour là 90% giá tour. (Tiêu chuẩn: 01 suất ăn + 01 ghế ngồi và ngủ ghép chung phòng với gia đình + vé máy bay).<br>
+					- Trẻ từ 11 tuổi trở lên, tính bằng chi phí người lớn.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>

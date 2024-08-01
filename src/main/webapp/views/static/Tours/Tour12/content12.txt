@@ -1,0 +1,130 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tour du xuân đầu năm 3 ngày 2 đêm là trải nghiệm tuyệt vời cho bạn trong dịp năm mới. Đến với tour
+                du lịch này, bạn sẽ trải nghiệm được không khí yên bình của vùng đất Cao Bằng, Bắc Kạn. Nếu chưa
+                biết đi đâu vào dịp năm mới này, hãy đến với tour du xuân 3 ngày 2 đêm của PYS Travel.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR TRỌN GÓI</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="">GIÁ TOUR</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">16, 23/02 <br>01, 08/03</td>
+                        <td style="border: 1px black solid;">2.680.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+            <p class="fs-5">
+                <strong>Hồ Ba Bể</strong> là địa điểm không còn quá xa lạ với những tín đồ đam mê xê dịch. Toạ lạc ở Bắc Kạn, đây chính 
+                là một trong những địa điểm hút khách nhất năm nay. Động Puông, Ao Tiên, đảo An Mạ, đảo Bà Góa... là những 
+                cảnh điểm đặc sắc có mặt trong chuyến hành trình lần này khi tham quan hồ Ba Bể bằng thuyền.Với vẻ đẹp hoang 
+                sơ, thơ mộng và không khí trong lành, hồ Ba Bể là một điểm đến hứa hẹn đối với du khách. 
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour12/BB_BG_CPT_BG_CPT1.jpg" alt="">
+            </div>
+            <p>
+                Đến với <strong>Cao Bằng</strong>, nơi núi non hùng vĩ này sẽ không khiến bạn thất vọng với vô vàn địa điểm cho du khách khám phá. 
+                Trong chuyến đi lần này, Cao Bằng sẽ tiếp đón các bạn với <strong>Thác Bản Giốc</strong> và chùa <strong>Phật tích Trúc Lâm Bản Giốc.</strong>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour12/BB_BG_CPT2.jpg" alt="">
+            </div>
+            <p class="fs-5">
+            <h5 class="text-primary">Khám phá trọn vẹn Y Tý với lịch trình đặc sắc:</h5>
+            <p class="fs-5">
+                <strong>Chùa Phật</strong> tích Trúc Lâm cũng là điểm du lịch nổi tiếng, nơi đây không chỉ là địa điểm du lịch mà còn có vai trò to lớn về mặt tâm linh. 
+                Là ngôi chùa đầu tiên được xây dựng ở miền biên giới phía Bắc thuộc Cao Bằng. Nơi đây thu hút khách du lịch đến tham quan và trải nghiệm 
+                phong cảnh thiên nhiên hoang sơ mà bịnh dị, rất phù hợp cho không khí du xuân đầu năm của quý du khách.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour12/BB_BG_CPT3.jpg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI – BẮC KẠN – HỒ BA BỂ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <strong>Sáng:</strong> HDV đón khách tại điểm hẹn. Xe khởi hành đi Bắc Kạn. Trên đường đi, 
+                    quý khách sẽ dừng chân ăn sáng tại nhà hàng (chi phí tự túc). <br> <br>
+
+                    <strong>Trưa:</strong> Quý khách dùng bữa trưa tại nhà hàng tại Ngã ba chợ Rã. <br><br>
+
+                    <strong>Chiều:</strong> Đến bến Buốc Lốm, hồ Ba Bể. <strong>Thăm quan hồ Ba Bể</strong> bằng thuyền với 
+                    những cảnh điểm đặc sắc như: <strong>Động Puông, Ao Tiên, đảo An Mạ, đảo Bà Góa...</strong>
+                </p>
+
+                
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour12/BB_BG_CPT4.jpg" alt="">
+                   
+                </div>
+                <p class="fs-5">
+                    Đoàn nhận phòng nghỉ ngơi tại nhà sàn sinh thái trong bản Pác Ngòi của khu du lịch Ba Bể. 
+                    Ăn tối tại nhà hàng. Nghỉ đêm tại Ba Bể.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour12/BB_BG_CPT5.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Xe ô tô đời mới theo lịch trình (16-45 chỗ, tùy theo số lượng khách PYS Travel sẽ sắp xếp xe cho phù hợp) <br>
+                - Các bữa ăn theo lịch trình: 150.000VNĐ/bữa chính; 35.000VNĐ/bữa sáng. <br>
+                - Ngủ nhà nghỉ homestay tại bản Hồ Ba Bể, homestay sạch sẽ tiện nghi.. <br>
+                - Khách sạn tại thị xã Cao Bằng: 02 người/phòng; lẻ nam/nữ ở phòng ba. <br>
+                - Vé thăm quan theo lịch trình, đi thuyền hồ Ba Bể.<br>
+                - Hướng dẫn viên nhiệt tình, có kinh nghiệm cung đường Đông Bắc. <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Tiền tip lái xe, HDV <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+.title h2{
+    color: #52A6CC;
+}
+
+.Tour-Hot .ruler hr{
+    width: 40%;
+}
+.Tour-Hot button{
+    border-radius: 30px;
+    font-size: 11px;
+}
+.Tour-Hot button:hover{
+    color: white;
+}
+.Tour-Hot .card .from{
+    height: 30px;
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 220px;
+    color: white;
+}
+
+.Tour-Hot .card a{
+    text-decoration: none;
+    color: #00506C;
+}
+.Tour-Hot .card a:hover{
+    color: orange;
+}
+.Tour-Hot .card .card-body-left{
+    width: 50%;
+    float: left;
+}
+.Tour-Hot .card .card-body-right{
+    width: 50%;
+    float: left;
+}
+
+.Tour-Hot .card .card-body-right>h5{
+    color: orange;
+}
+
+hr{
+    border: 2px #ff8d1a solid !important;
+}
+
+.rate .ruler hr{
+    width: 30%;
+}
+
+.rate .carousel{
+    width: 100%;
+}
+
+
+.Doanh-Nghiep h3 strong {
+    color: orange;
+}
+.Doanh-Nghiep img{
+    width: 100%;
+    height: 100%;
+}
+.Doanh-Nghiep button{
+    font-size: 12px;
+    width: 100%;
+}
+.San-Pham h3{
+    width: 100%;
+}
+.San-Pham .ruler{
+    width: 100%;
+}
+.San-Pham hr{
+    width: 50%;
+}
+.San-Pham .product .front{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #ffffff, #0000ff);
+    opacity: 0.4;
+}
+
+.San-Pham .product:hover .front{
+    opacity: 0;
+}
+
+.San-Pham .product img{
+    width: 100%;
+    height: 100%;
+}
+.San-Pham .product h4{
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+}
+
+.uu-dai hr{
+    width: 15% !important;
+}
+.uu-dai input{
+    width: 25% !important;
+    border: 1px solid lightgray;
+    margin: 0 10px;
+}
+.uu-dai button{
+    background-color: #0099CC;
+    color: white;
+    border: none;
+}

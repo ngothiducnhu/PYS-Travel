@@ -1,0 +1,162 @@
+
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+            padding: 5px 0px 5px 10px;
+            color: #00506c;
+            margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Tour du lịch Pháp - Tây Ban Nha - Bồ Đào Nha 12 ngày 11 đêm của PYS Travel hứa hẹn đưa quý khách 
+                đến đất nước Pháp hoa lệ, đất nước Tây Ban Nha, 
+                Bồ Đào Nha nổi tiếng với những kiến trúc tinh xảo, thiên nhiên đa dạng cùng nền văn hoá lớn.            
+            </p>
+            <div class="row text-dark my-3 px-2 text-center">
+                <h5>GIÁ TOUR ÁP DỤNG CHO ĐOÀN TRÊN 15 KHÁCH GIÁ TOUR ÁP DỤNG CHO ĐOÀN TRÊN 15 KHÁCH</h5>
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger" style="border: 1px black solid;">Giá người lớn</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Giá vé trẻ em (từ 2 - dưới 11 tuổi)</td>
+                        <td style="border: 1px black solid;">90% giá vé người lớn</b></td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Giá vé trẻ nhỏ (từ 0 - dưới 2 tuổi)</td>
+                        <td style="border: 1px black solid;">30% giá vé người lớn</b></td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Phụ thu phòng đơn khách sạn 4 sao</td>
+                        <td style="border: 1px black solid;">14,500,000/Khách</b></td>
+                    </tr>
+                </table>
+
+                <p class="fs-5">
+                    <i>
+                        <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                        Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                    </i>
+                </p>
+            </div>
+            <p class="fs-5">
+                Nổi tiếng với các loại rượu vang và pho mát, 
+                Pháp là điểm đến du lịch phổ biến nhất trên thế giới 
+                với hơn 82 triệu khách du lịch nước ngoài hàng năm. <b>Pháp</b> đặc biệt 
+                hút khách bởi các thành phố lịch sử, vùng quê thanh bình, lâu đài thung lũng Loire, 
+                Brittany, Normandy, những bãi biển tuyệt vời, các môn thể thao mùa đông và cả những kiến trúc nổi tiếng thế giới.
+                <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour38/P_TBN_BDN10.jpg" alt="">
+            </div> <br> <br>
+            <p class="fs-5">
+                <b>Tây Ban Nha</b> là xứ sở bò tót còn nổi tiếng với cả điệu flamenco say mê, và cũng nổi 
+                tiếng bởi những cảnh đẹp thực sự say mê lòng người. 
+                Tây Ban Nha đầy nắng gió và tiên cảnh luôn chờ đón bước chân của du khách khắp nơi.            
+            </p><br><br>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour38/P_TBN_BDN12.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <b>Bồ Đào Nha</b> là vùng đất lấp lánh những điều trái ngược. Một bên là những ngọn núi trập trùng 
+                chạy theo thung lũng Douro đến các di tích La Mã và những con đường lát đá cuội thời Trung 
+                Cổ ở Porto, một bên là sức sống mạnh mẽ của các thành phố năng động như Lisbon hay vùng “sang 
+                chảnh”, thịnh vượng Portuguese Riviera. Vì thế, không có gì ngạc nhiên khi kiệt tác châu Âu 
+                này đã khơi dậy sự phấn khích của du khách từ khắp nơi trên thế giới.            
+            </p><br><br>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour38/P_TBN_BDN11.jpg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: TP.HCM - NICE, PHÁP (Ăn trên máy bay)</h5>
+                <p class="fs-5">
+                    Trưởng Đoàn đón quý khách cổng D2, Ga đi Quốc tế sân bay Tân Sơn Nhất. <br><br>
+
+                    Tối 21:00: Làm thủ tục bay đi Nice, Pháp với Turkish Airlines quá cảnh Istanbul.<br><br>
+
+                    <i><b>1 TK 163 SGNIST HK26 2210 0500</b></i> <br><br>
+
+                    <i><b>2 TK1813 ISTNCE HK26 0750 0955</b></i> <br><br>
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: NICE, PHÁP  (Ăn 3 bữa)</h5>
+                <p class="fs-5">
+                    <p>
+                        <b>Sáng 09:55</b> Đến sân bay <b>Nice</b>, đoàn làm thủ tục nhập cảnh <b>Pháp</b>.
+
+                        Xe đưa đoàn vào nội thành Nice, thành phố du lịch lớn thứ hai của pháp, được mệnh 
+                        danh là Nữ hoàng của vùng Cotê d’Azur. Đoàn dùng cơm trưa tại nhà hàng địa phương sau 
+                        đó bắt đầu tham quan Nice:
+                        
+                        <b>45minute mini-train discover Nice:</b> dạo một vòng Nice 45 phút bằng tàu điện mini từ phố 
+                        Promenade des Anglais nhộn nhịp, chợ Hoa, quảng trường, khu phố cổ, các lâu đài, …                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour38/P_TBN_BDN7.jpg" alt=""> <br> <br>
+                    </div>
+                    <p>
+                        Kết thúc tour tại <b>Promenade des Anglais</b>, thưởng ngoạn toàn cảnh Nice từ: ngắm nhìn khung 
+                        cảnh Phố cổ Nice xinh đẹp và bãi biển bến cảng dọc con đường cong 
+                        hình lưỡi liềm là phố đi bộ nhộn nhịp sầm uất, Promenade des Anglais, 
+                        “niềm vui cuộc sống” của dân Địa Trung Hải.                    
+                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour38/P_TBN_BDN6.jpg" alt=""> <br> <br>
+                    </div>
+                    <p>
+                        <b>Tối</b> Ăn tối Welcome dinner và nhận phòng khách sạn                    
+                    </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay quốc tế khứ hồi theo chương trình (có giá trị đúng ngày đi/ngày về theo tour) <br>
+                - Phí visa Schengen; Bảo hiểm du lịch quốc tế [mức BH 1,000,000,000Đ, Chứng nhận Bảo hiểm được cung cấp ngay từ Cty Bảo hiểm, trước ngày khởi hành]
+                - Khách sạn 4* tiêu chuẩn Quốc tế (2 khách/phòng).<br>
+                - Các bữa ăn như chương trình (ăn sáng buffet KS); ăn trưa/ăn tối tại nhà hàng Âu, Á.<br>
+                - ***Ăn nhà hàng Tây gồm món khai vị (soup, salad,…)+1 món chính (cá, thịt heo/gà/bò,… nướng)+món tráng miệng (kem, coctail, bánh kẹp,…); Ăn nhà hàng châu Á gồm 5 món + 1 canh + cơm trắng + Tráng miệng + trà]<br>
+                - Vé vào cửa tham quan gồm: 45minute mini-train discover Nice, Pont du Gard, Sagrada Familia with guide, Madrid Royal Palace with guide, Montserrat roundtrip Cable-car, Jeronimos Monastery with guide.<br>
+                - Xe du lịch tốt vận chuyển đưa đón tham quan như chương trình.<br>
+                - Hướng dẫn viên chuyên tour Nam Âu theo đoàn từ Vietnam nhiệt tình suốt tuyến.<br>
+                - Quà tặng lưu niệm của công ty            
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Hộ chiếu (giá trị trên 6 tháng tính theo ngày về). <br>
+                - Chi phí cá nhân (hành lý quá cước, điện thoại, giặt ủi, tham quan ăn uống ngoài chương trình). <br>
+                - Chi phí bồi dưỡng tài xế địa phương, HDV địa phương: 77 EUR/người/tour            
+            </p> 
+            <br>
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Quý khách mang quốc tịch nước ngoài phải có visa rời phải mang theo lúc đi tour. <br>
+                - Giấy tờ tái nhập vào Việt Nam cho người nước ngoài hoặc khách 
+                Việt Kiều 1.500.000 vnđ/ (Giấy tờ nhận tại cửa khẩu và có giá trị vào Việt 
+                Nam 1 lần – trong 3 tháng đối với Việt kiều).<br>
+                - Mang theo tờ khai hải quan nhập cảnh và 02 ảnh 4x6cm.<br>
+                - Quý khách mang 2 Quốc tịch (chưa nhập quốc tịch) vui lòng thông báo với nhân viên bán tour ngay thời 
+                điểm đăng ký tour và nộp bản gốc kèm các giấy tờ có liên quan (nếu có).<br>
+                - Quý khách chỉ mang thẻ xanh (thẻ tạm trú tại nước ngoài) và không còn hộ chiếu VN 
+                còn hiệu lực thì không du lịch sang nước thứ ba được.<br>
+                - Trường hợp trẻ em đi với người nhà (không phải bố mẹ) phải nộp kèm giấy ủy 
+                quyến được chính quyền địa phương xác nhận (do bố mẹ ủy quyền dắt đi tour).<br>
+                - Đối với khách hàng hơn 70 tuổi, quý khách và gia đình cam kết đảm bảo tình 
+                trạng sức khoẻ để có thể tham gia tour với công ty khi đăng ký. Bất cứ sự cố 
+                nào xảy ra trên tour, công ty sẽ không chịu trách nhiệm.<br>
+            </p>
+        </div>
+    </div>

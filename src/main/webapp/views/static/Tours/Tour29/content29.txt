@@ -1,0 +1,127 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Đến với tour du lịch Lào 6 ngày 5 đêm đường bộ: Khám phá Paksan - Viêng Chăn - Luong Prabang - Xieng Khoang của PYS Travel bạn sẽ được trải nghiệm hành trình thăm thú các di tích lịch sử, những công trình tôn giáo, các trung tâm thương mại nổi tiếng của đất nước triệu voi.<br>
+
+Trải nghiệm nét tương đồng cũng như điểm khác biệt đặc trung trong đời sống con người người "anh em Lào" xinh đẹp<br>
+
+Khám phá Thạt Luổng, Viêng Chăn - biểu tượng của Phật giáo Tiểu thừa Lào, biểu tượng linh thiêng được in trên đồng tiền KIP của Lào Tượng đài Chiến thắng Patuxay<br>
+
+Tham quan khải hoàn môn của người Lào<br>
+
+Cánh Đồng Chum nơi tập trung những chiếc chum lớn nằm rải rác trên một cánh đồng rộng lớn<br>
+Thác nước Quảng Sy (Kuang Si) mà nổi tiếng trên cả nước Lào<br>
+            </p>
+
+	    <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour29/Parksan_VC1.jpeg" alt="">
+            </div>
+                        
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI – PAKSAN: 599 Km (Ăn sáng- trưa- tối)</h5>
+                <p class="fs-5">
+                   04h00: Xe và HDV đón đoàn tại Rạp xiếc Trung ương đường Trần Nhân Tông, Quận Hai Bà Trung, Hà Nội khởi hành đi Paksan- tỉnh Bolikhamxay, Laos. <br>
+
+Đoàn dừng chân ăn sáng nhà hàng dọc đường đi (Chi phí ăn sáng tự túc)<br>
+
+12h00: Ăn trưa nhà hàng Phố Châu, Nghệ An; Tiếp tục hành trình theo quốc lộ 8A, đoàn có dịp chiêm ngưỡng dãy Trường Sơn hùng vĩ và cũng là biên giới tự nhiên giữa 2 nước Việt-Lào. <br>
+
+14h30: Đoàn làm thủ tục xuất nhập cảnh tại cửa khẩu Cầu Treo (Việt Nam) & Nam Pao (Lào).<br>
+
+18h30: Đoàn ăn bữa tối đầu tiên trên đất bạn Lào tại ngã ba Thang Beng.<br>
+
+Khoảng 21h00: Đoàn tới Paksan. Nhận phòng khách sạn. <br>
+
+Nghỉ đêm tại Paksan.<br>
+                </p>
+		
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour29/Parksan_VC2.jpg" alt="">
+            	</div>
+
+                <h5 class="text-primary">NGÀY 02: PAKSAN - VIÊNG CHĂN CITY TOUR: 146Km (Ăn sáng- trưa- tối)</h5>
+                <p class="fs-5">
+                    	Sáng: Đoàn ăn sáng và trả phòng khách sạn. Đoàn theo QL13 của nước bạn Lào hành trình thêm 2 tiếng lên với Thủ đô Viêng Chăn.Đoàn tham quan:<br>
+
+Tượng đài Chiến thắng Patuxay - Khải Hoàn Môn của thủ đô Viêng Chăn. <br>
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour29/Parksan_VC3.jpg" alt="">
+            	</div>
+                    Tự do tham quan và mua sắm Bạc Lào tại trung tâm sản xuất Bạc nổi tiếng: Chintana. Đoàn dùng bữa trưa tại nhà hàng. <br>
+
+Đoàn về nhận phòng khách sạn nghỉ ngơi<br>
+
+Chiều: Đoàn khởi hành đi cửa khẩu Hữu Nghị I bắc qua dòng sông Mekong, ghé mua sắm hàng miễn thuế của tập đoàn Đao Huong tại cửa khẩu Lào-Thái. Tiếp tục tham quan Thạt Luổng - biểu tượng của Phật giáo Tiểu thừa Lào, biểu tượng linh thiêng được in trên đồng tiền KIP của Lào.<br> <br>
+
+
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour29/Parksan_VC4.jpeg" alt=""> <br> <br>
+
+                    </div>
+                    
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+               - Xe ôtô điều hòa loại tốt phục vụ suốt chương trình (Tùy theo số lượng khách)<br>
+- Tàu cao tốc Viêng Chăn – LuangPrabang<br>
+- Khách sạn tại Lào tiêu chuẩn 3* (02 khách/ phòng, nếu lẻ nam hoặc nữ ngủ ghép 03khách/phòng).<br>
++ Tại Viêng Chăn : Duongprasot ***, Laongdao *** hoặc tương đương<br>
++ Tại Paksan: Sounathan Hotel *** hoặc tương đương<br>
++ Tại Viêng Chăn : Duongprasot ***, Laongdao *** hoặc tương đương<br>
++ Tại LUANG PRABANG: Sokphankham ** hoặc tương đương<br>
++ Tại Xiêng Khoảng :Xiengkhoang ***, MaLy *** hoặc tương đương<br>
+- Ăn 12 bữa chính: tại VN 150.000VNĐ/suất/bữa; Tại Lào 6 USD /suất/bữa<br>
+- Ăn sáng 01 bữa 50.000đ/suất tại nhà hàng, 05 bữa tại khách sạn.<br>
+- Lệ phí tham quan theo chương trình<br>
+- Hướng dẫn viên tiếng Việt kinh nghiệm, nhiệt tình theo suốt chương trình<br>
+- Nước suối: 01 chai /người/ngày<br>
+- Khăn ướt : 01 cái/người/ngày<br>
+- Bảo hiểm du lịch mức chi trả tối đa 200.000.000đ/vụ<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Hộ chiếu (còn hạn 6 tháng)<br>
+- Tip cho tài xế và hướng dẫn viên tương đương 03USD/ khách/ngày<br>
+- Chí phí cá nhân: điện thoại, giặt ủi,... Mini bar. Đồ uống (bia, rượu, nước ngọt) trong bữa ăn.<br>
+- Khách có quốc tịch ngoài các nước Đông Nam Á.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+               - Trẻ em dưới 02 tuổi: 20 % giá tour (ngủ chung giường với cha mẹ)<br>
+- Trẻ em từ 2 đến dưới 11 tuổi: 90 % giá tour (ngủ chung gường với cha mẹ)<br>
+- Trẻ em trên 11 tuổi: Giá tour như người lớn<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+ </div>

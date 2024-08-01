@@ -1,0 +1,96 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+
+            <p>
+                Khám phá Sapa mờ ảo mây sương vùng Tây Bắc cùng Tour du lịch Hà Nội - Sapa - Hàm Rồng - Thác Bạc - Cầu Kính Rồng Mây - Fansipan - Cát Cát. Sapa đã trở thành một trong những 
+                điểm đến ưa thích nhất của du khách đam mê núi rừng Tây Bắc, với ngọn núi Fansipan hùng vĩ - Nóc nhà của Đông Dương. Đến Sapa, không chỉ là để khám phá cảnh quan kì vĩ nơi đây, mà còn là khám phá nét đẹp văn hóa, nếp sống của người dân nơi đây, cũng như thưởng thức những đặc sản địa phương đặc sắc.
+            </p>
+           
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour25/HN_SP1.jpg" alt="">
+                </div>            
+            <p>
+                Những điểm đặc sắc tại Tour du lịch Hà Nội - Sapa - Hàm Rồng - Thác Bạc - Cầu Kính Rồng Mây - Fansipan - Cát Cát <br>
+                - Khám phá công viên núi Hàm Rồng rực rỡ sắc hoa, thăm Cổng Trời, Sân Mây - chốn bồng lai dưới hạ giới <br>
+                - Trải nghiệm ngắm nhìn đất trời Tây Bắc cùng Cầu Kính Rồng Mây , với hệ thống cầu kính cao hơn 500 mét <br>
+                - Khám phá đỉnh Fansipan cao hơn 3000 mét - Nóc nhà của Đông Dương <br>
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour25/HN_SP3.jpg" alt="">
+            </div>
+            
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - SAPA - HÀM RỒNG ( Ăn trưa, tối )</h5>
+            
+                <strong>Sáng: </strong>Quý khách tập trung tại điểm hẹn. Xe và HDV sẽ đón quý khách khởi hành đi Sapa.
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour25/HN_SP4.jpg" alt="">     
+                </div>
+                <p>
+                    Trưa:  Đến thị trấn Sapa, hướng dẫn viên tại Sapa chào đón Quý khách và đưa Quý 
+                    khách về khách sạn trung tâm dùng bữa trưa sau đó nhận phòng nghỉ ngơi ít phút.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour25/HN_SP5.jpg" alt="">
+                  
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>
+

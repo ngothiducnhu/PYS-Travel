@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body {
+	background: linear-gradient(to right, #90d3f071 0%, #d1eefb19 100%)
+		!important;
+}
+
+.profile-button {
+	border: 0;
+	background: linear-gradient(to right, #0d6f9ab5 0%, #2b7598a7 100%);
+}
+
+.profile-button:hover {
+	background: linear-gradient(to left, #0d6f9ab5 0%, #2b7598a7 100%);
+}
+
+.labels {
+	font-size: 11px;
+}
+
+.d-flex img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	cursor: pointer;
+}

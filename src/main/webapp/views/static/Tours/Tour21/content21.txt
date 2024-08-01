@@ -1,0 +1,123 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tour du lịch Trà Lĩnh - Tịnh Tây - Nga Tuyền - Phố Cổ Cẩm Tú - Cổ Long Đại Hiệp Cốc - Hang Pắc Bó - Thác Bản Giốc 5 ngày 4 đêm từ TP.HCM là một hành trình đầy thú vị, 
+                đưa du khách vào hành trình khám phá những miền đất vùng biên Việt Nam - Trung Quốc độc đáo.
+            </p>
+
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="">GIÁ TOUR</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">8.130.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+           
+            <p class="fs-5">
+                <strong>Trà Lĩnh</strong> vốn là một huyện của tỉnh Cao Bằng, cách trung tâm thành phố Cao Bằng khoảng 37km về phía Đông Bắc. Đến với Trà Lĩnh, khám phá những cảnh 
+                đẹp và trải nghiệm nét văn hóa độc đáo của các dân tộc thiểu số trong vùng. Một số điểm tham quan nổi tiếng ở Trà Lĩnh bao gồm Động Ngườm Ngao, 
+                Thác Bản Giốc và Hang Pắc Bó. Đừng quên thử ẩm thực địa phương và giao lưu với người dân địa phương thân thiện để hòa mình vào vẻ đẹp nơi đây.
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour21/TL_TT_NT_CL1.jfif" alt="">
+                </div>            
+            </p> 
+            <p>
+                Ngoài cảnh quan tự nhiên tuyệt vời, du khách cũng có thể thăm quan các điểm đến lịch sử, như những tòa nhà cổ, ngôi nhà truyền thống, và các đền thờ trang trí tinh xảo. Tuy nhiên, điểm thu hút chính của Thành Phố Tịnh Tây chắc chắn là cảnh quan xung quanh với những thác nước phong phú, từ những dòng nước nhỏ đến những thác nước vĩ đại, tất cả cùng tạo 
+                nên một không gian thiên nhiên tuyệt vời và không thể bỏ qua cho những ai yêu thích sự hòa mình vào thiên nhiên.
+            </p>
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour21/TL_TT_NT_CL2.jfif" alt="">
+            </div>
+            
+            <p class="fs-5">
+                Suối Nga Tuyền, hay còn được gọi là Suối Ngỗng, là một trong ba suối nổi tiếng nhất ở miền Tây Nam Trung Quốc. Nằm ở thành phố Tịnh Tây, Quảng Tây, Trung Quốc, Suối Nga Tuyền 
+                là nguồn gốc của sông Quy Xuân, tạo ra một thác nước nằm trên biên giới Việt-Trung.<br>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour21/TL_TT_NT_CL3.jfif" alt="">
+                </div>            
+            </p>
+            <p>
+                Với hơn 700 năm lịch sử, suối Nga Tuyền mang theo những câu chuyện thú vị về cộng đồng và truyền thống dân tộc. Du khách đến đây sẽ được tận hưởng 
+                không chỉ cảnh quan thiên nhiên tươi đẹp mà còn có cơ hội khám phá kiến trúc cổ trang của Trung Quốc thông qua 
+                các công trình kiến trúc độc đáo như cầu bắc ngang và lầu các. Suối Nga Tuyền là điểm du lịch gần gũi nhất với biên giới Việt Nam, mang đến trải nghiệm độc đáo và phong cách Trung Hoa cổ điển cho du khách.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour21/TL_TT_NT_CL4.jfif" alt="">
+            </div>  
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">HỒ CHÍ MINH - HÀ NỘI </h5>
+            
+                Quý khách tập trung tại sân bay Tân Sơn Nhất, làm thủ tục chuyến bay đến Hà Nội . Đến Hà Nội, xe đón quý khách từ sân bay Nội Bài về khách sạn nghỉ ngơi.
+                 Quý khách tự do vui chơi và khám phá Phố Cổ (chi phí vui chơi và ăn uống tự túc). <br><br>
+                   
+                   
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour21/TL_TT_NT_CL6.jpg" alt="">
+                   
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

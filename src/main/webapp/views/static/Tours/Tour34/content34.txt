@@ -1,0 +1,212 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Bạn đang mong muốn thoát khỏi sự ồn ào náo nhiệt của thành phố và hòa mình vào khung cảnh thiên nhiên hùng vĩ, thơ mộng? 
+                Hãy tham gia tour du lịch Lệ Giang - Shangrila 4 ngày 3 đêm để trải nghiệm những điều tuyệt vời nhất.
+            </p>
+            <div class="text-center">
+                <p><b>GIÁ TOUR CHỈ TỪ (VNĐ/KHÁCH)</b></p>
+                <i>(Giá áp dụng cho ghép khách lẻ đoàn từ 25 người trở lên)</i>
+            </div>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger" style="border: 1px black solid;">Giá người lớn</th>
+                        <th class="text-danger"style="border: 1px black solid;">TRẺ EM <br>(dưới 11 tuổi)</th>
+                        <th class="text-danger"style="border: 1px black solid;">PHÒNG ĐƠN</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;"><b class="text-danger">22/06</b> <br>
+                            Ưu đãi DUY NHẤT
+                        </td>
+                        <td style="border: 1px black solid;"> <strike>17.590.000 VNĐ</strike> <br>
+                            <b class="text-danger">12.990.000 VNĐ</b>
+                        </td>
+                        <td style="border: 1px black solid;">90%</b>
+                        </td>
+                        <td style="border: 1px black solid;">2.000.000 VNĐ
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">06/07</td>
+                        <td style="border: 1px black solid;">15.990.000 VNĐ</td>
+                        <td style="border: 1px black solid;">90%</b>
+                        </td>
+                        <td style="border: 1px black solid;">2.000.000 VNĐ
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">13, 20, 27/07
+                            03, 10/08</td>
+                        <td style="border: 1px black solid;">17.590.000 VNĐ</td>
+                        <td style="border: 1px black solid;">90%</b>
+                        </td>
+                        <td style="border: 1px black solid;">3.000.000 VNĐ
+                        </td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour34/LG_Shangrila1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <b>Lệ Giang</b> là một địa điểm du lịch nổi tiếng tại tỉnh Vân Nam Trung Quốc.
+                Với vô vàn hoạt động thú vị đang chờ bạn đến khám phá, được biết đến 
+                với những thị trấn cổ, phong cảnh thiên nhiên đẹp như hoạ và lối sống nhẹ nhàng sâu lắng.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour34/LG_Shangrila2.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Lệ Giang, nơi bẳt nguồn của văn hóa cổ Vân Nam với những cảnh sắc đắm say lòng người. 
+                Ai cũng ao ước một lần đến Lệ Giang - cố đô của vương quốc Naxi, cao 2.410 mét so với 
+                mực nước biển và nằm trên Cao nguyên Tây Bắc Vân Nam ở miền Tây Nam Trung Hoa, để nghe 
+                kể truyền thuyết tình yêu của người dân tộc Nạp Tây, để tới quán bar “ Nhất Mễ Dương Quang” 
+                thưởng thức một ly cocktail “Thiên trường địa cửu”, để một lần trèo lên đỉnh Ngọc Long tuyết 
+                sơn hùng vĩ, đứng chênh vênh bên bờ vực Tình Nhân....
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour34/LG_Shangrila10.jpg" alt="">
+                <p><i><b>Lam Nguyệt Cốc</b></i></p>
+            </div>
+            <b class="mt-1 fs-5 text-primary">Điểm nhấn của Tour Lệ Giang - Shangrila 4 ngày 3 đêm từ Hà Nội:</b>
+            <p class="px-3">
+                - Trải nghiệm chặng bay thẳng Hà Nội – Lệ Giang hãng hàng không Bamboo Airways <br>
+
+                - Check in tại các địa điểm hot nhất Lệ Giang, Shangrila. <br>
+                
+                - Trải nghiệm Núi tuyết Ngọc Long quanh năm bao phủ bởi tuyết, dưới chân núi tuyết là thung lũng Lam Nguyệt có màu xanh độc đáo, uốn lượn <br>
+                
+                - Tham quan Shangrila – vùng đất bất tử - chân trời bị lãng quên với Tu viện Songzanlin, vườn quốc gia Potatso, thành cổ Dukezong (thành cổ Ánh Trăng), … <br>
+                
+                - Tặng vé cáp treo lên đỉnh Vân Sơn Bình. <br>
+                
+                - Tặng vé xem show “Ấn tượng Lệ Giang” của đạo diễn Trương Nghệ Mưu.       <br>     
+            </p> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - LỆ GIANG - SHANGRILA (Ăn nhẹ tại sân bay, tối)</h5>
+                <p class="fs-5">
+                    <b>06h00:</b> Xe và hướng dẫn viên đón Quý khách tại điểm hẹn, 
+                    đưa Quý khách khởi hành đi sân bay Nội Bài, đáp chuyến bay <b>QH802(10:15-13:15) </b>
+                    đến Lệ Giang. Quý khách dùng bữa ăn nhẹ tại sân bay. <br><br>
+
+                    <b>13h15:</b> Quý khách hạ cánh tại Lệ Giang. Xe đón đoàn đi Shangrila tham quan: <br><br>
+
+                    <b>Thành cổ Độc Khắc Tông (DuKesong)</b> - Nơi tập trung sinh sống lâu đời của người 
+                    Tạng có tuổi đời trên 1.300 năm được bảo tồn tốt nhất ở Trung Quốc. Tới nơi đây, 
+                    du khách sẽ được chiêm ngưỡng hàng trăm căn nhà kiểu Tây Tạng cổ xưa được gìn giữ cẩn thận, 
+                    được những người Tạng hiếu khách giới thiệu những nét văn hóa đặc trưng, nếp sống sinh hoạt 
+                    thường ngày và nhiệt tình giúp đỡ.
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour34/LG_Shangrila5.jpg" alt="">
+                    </div>
+                    <p>
+                        <b>Tối:</b> Quý khách dùng bữa tối tại nhà hàng. Sau đó, đoàn về khách sạn nhận phòng và nghỉ ngơi
+                    </p>
+                    <i><b>Nghỉ đêm tại khách sạn ở Shangrila.</b></i>
+                </p>
+
+                <h5 class="text-primary">NGÀY 02: SHANGRILA - LỆ GIANG (Ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    <p>
+                        <b>Sáng:</b>Quý khách làm thủ tục trả phòng và ăn sáng tại khách sạn. Quý đoàn đi tham quan: <br> <br>
+                        <b>Tu viện Songzanlinsi (Tùng Tán Lâm):</b> Được biết đến như phiên bản thu nhỏ của Cung điện Potala tại Lhasa, Tây Tạng. 
+                        Tu viện này là tu viện Phật giáo Tây Tạng lớn nhất tại vùng Vân Nam, do vị Đạt Lai Lạt Ma đời thứ 5 
+                        xây dựng vào năm 1679, hiện là trụ xứ của hơn 700 tăng sĩ... Đến thăm tu viện Songzanlin, Quý khách 
+                        sẽ phải được chiêm ngưỡng nét đẹp tinh túy của những pho tượng Phật đồ sộ, những tấm phướn rực rỡ đa dạng, 
+                        trần các sảnh thờ được tô vẽ cầu kỳ cùng kỹ thuật điêu khắc tinh xảo theo văn hóa đặc trưng của người Tạng.    
+                    </p>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour34/LG_Shangrila11.jpg" alt=""> <br> <br>
+                    </div>
+                    <p>
+                        <b>Trưa:</b> Đoàn dùng bữa tại nhà hàng.<br> <br>
+                    </p>
+                    <p>
+                        <b>Chiều:</b> Quý đoàn tiếp tục hành trình tham quan:
+                    </p>
+                    <p><b>Tối:</b> Quý khách dùng bữa tối tại nhà hàng. Sau đó, đoàn về khách sạn nhận phòng và nghỉ ngơi</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Chặng bay thẳng Hà Nội - Lệ Giang hãng hàng không Bamboo Airways, bao gồm 07 kg hành lý xách tay + 15 kg hành lý ký gửi. <br>
+                - Khách sạn tiêu chuẩn 4* địa phương (tiêu chuẩn 2 người một phòng Double/Twin). Nếu khách đi lẻ mà không có người cùng giới 
+                trong đoàn để ghép chung, thì Quý khách sẽ ở phòng đơn và chịu phụ phí hoặc nếu có thể ghép 3 người/một phòng thì sẽ ở phòng Double/Twin + 
+                1 Extra bed, vì phòng Triple (3 giường) rất ít, tùy từng khách sạn. <br>
+                - Các bữa ăn trọn gói theo chương trình (mức 40 NDT/bữa chính). <br>
+                - Vé thăm quan các điểm theo chương trình. <br>
+                - Xe du lịch hiện đại, điều hòa theo chương trình. <br>
+                - Hướng dẫn tiếng Việt nhiệt tình, giàu kinh nghiệm đi suốt tuyến. <br>
+                - Bảo hiểm mức bồi thường tối đa 200.000.000đ/trường hợp. 
+                (cho bảo hiểm do tai nạn rủi ro, không bảo hiểm cho các loại bệnh mãn tính và bệnh phát cấp tính). 
+                Khách trên 65 tuổi mức bảo hiểm 50%. <br>
+                - Visa nhập cảnh Trung Quốc (visa đoàn) <br>
+                - Nước uống trên xe 1 chai/khách/ngày. <br>   
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Chi tiêu cá nhân, phí hộ chiếu, đồ uống, chi phí điện thoại, giặt là trong khách sạn. <br>
+                - Thuế VAT <br>
+                - Chi phí phòng đơn <br>
+                - Visa tái nhập cho khách Việt kiều và khách nước ngoài. <br>
+                - Tip cho lái xe và Hướng dẫn viên là: 5 USD/người/ngày <br>
+                - Vé tham quan các điểm không đề cập trong chương trình. <br>
+                - Chi phí khách: <br>
+                    + Cáp treo lớn lên đỉnh Ngọc Long Tuyết Sơn: 350RMB/Khách <br>
+                    + Xe điện tam quan Lam Nguyệt Cốc: 60 RMB/khách <br>
+                    + Thang máy Khe Hổ Nhảy: 70RMB/khách. <br>    
+            </p> 
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 2 tuổi, tính phí 50.000đ/bé phí sổ thông hành sang Đông Hưng, ngủ chung giường với bố mẹ. <br>
+                - Trẻ em từ 2 tuổi đến dưới 5 tuổi giá tour 60% giá tour <br>
+                - Trẻ em từ 5 tuổi đến dưới 11 tuổi giá tour là 90% giá tour. (Tiêu chuẩn: 01 suất ăn + 01 ghế ngồi và ngủ ghép chung phòng với gia đình).<br>
+                - Trẻ từ 11 tuổi trở lên, tính bằng chi phí người lớn.<br>
+                - Vé máy bay tính theo quy định của hãng hàng không.<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>

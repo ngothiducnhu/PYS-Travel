@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+    .col-md-4 {
+        height: 250px;
+    }
+
+    .row img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    h4 {
+        color: #07667e;
+    }
+
+    hr {
+        width: 55px;
+    }
+
+    span {
+        color: gray;
+    }
+
+    h5 {
+        color: red;
+    }
+
+    .dat-tour {
+        color: white;
+        background-color: orange;
+        border-radius: 3px 3px;
+        border: 0;
+        width: 110px;
+        height: 30px;
+    }

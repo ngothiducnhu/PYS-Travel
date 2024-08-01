@@ -1,0 +1,112 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+              Tour Campuchia - Lào 4 ngày 3 đêm của PYS Travel khám phá hai quốc gia được mệnh danh là đất nước Phật giáo và đất nước Chùa Tháp chắc chắn sẽ mang đến sự thích thú đến ngỡ ngàng cho những ai muốn tìm hiểu về nền văn hóa đặc sắc mà linh thiêng này. <br>
+
+Lào được mệnh danh là "đất nước Triệu Voi", là điểm đến lý tưởng cho những ai yêu thích sự bình yên và tĩnh lặng. Với những ngôi chùa cổ kính, nụ cười hiền hậu của người dân và những món ăn đậm đà hương vị, Lào mang đến cho du khách một trải nghiệm du lịch độc đáo và đáng nhớ.<br>          </p>
+
+	    <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour33/Cam_Lao1.jpg" alt="">
+            </div>
+                        
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01:  TP. HCM - SIÊM RIỆP  (ăn sáng, trưa, tối)  </h5>
+                <p class="fs-5">
+                   Sáng: Hướng dẫn viên đón khách tại điểm hẹn khởi hành đi Cambodia. Ăn sáng tại Trảng Bàng với đặc sản bánh canh nổi tiếng. Qua cửa khẩu biên giới Việt Nam – Cambodia làm thủ tục nhập cảnh<br>
+
+9h00: Sau đó tiếp tục men theo quốc lộ 8 qua tỉnh Prey Veng. Đến tỉnh Kompong Cham qua cầu Japanese - Cambodia bắc ngang sông Tonle Bat. Dùng cơm trưa tại nhà hàng địa phương sau đó tiếp tục khởi hành đi Siem Riep<br>
+
+Chiều: Về khách sạn nhận phòng nghỉ ngơi. Dùng cơm tối ở nhà hàng tại Siem Riep<br>
+                </p>
+		
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour33/Cam_Lao2.jpg" alt="">
+            	</div>
+
+                <h5 class="text-primary">NGÀY 02:  SIÊM RIỆP (ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    	Sáng: Ăn sáng buffet tại khách sạn. Sau đó xe đưa đoàn đi tham quan cổng nam Angkor Thom, một ngôi đền cổ rộng lớn với những điêu khắc và hoa văn độc đáo trên từng cm2 gắn liền với sự tích văn hoá và phát triển của dân tộc Khmer.<br>
+
+Đền Bayon – tượng Bayon 4 mặt thể hiện “hỷ, nộ, ái, ố” trên từng nét mặt, với những tranh điêu khắc dài hàng trăm mét diễn tả lịch sử và xã hội Khmer thời xa xưa. Chiêm ngưỡng nghệ thuật kiến trúc Angkor hùng vĩ. Xe đưa qúy khách đi ngang qua Quảng trường đấu Voi – nơi tổ chức các lễ hội truyền thống của Người Khmer cổ, tháp 12 con giáp.<br>
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour33/Cam_Lao3.jpg" alt="">
+            	</div>
+                    
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour33/Cam_Lao4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+              - Chi Phí xuất nhập cảnh Cam<br>
+
+- Khách sạn 4 – 3 sao( PP ):  Tiêu chuẩn 2 - 3 khách /phòng   <br>
+
+- Ăn uống theo chương trình: các buổi sáng dùng Buffet tại khách sạn. <br>
+
+- Xe đời mới, máy lạnh đưa đón theo chương trình.<br>
+
+- Hướng dẫn viên tiếng việt phục vụ suốt chương trình.<br>
+
+- Phí tham quan theo chương trình.<br>
+
+- Ăn Sáng tại VN<br>
+
+- Chi phí thủ tục cửa khẩu Việt - Cam<br>
+
+- Quà tặng: nón du lịch.<br>
+
+- Nước uống + khăn lạnh: số lượng 01/khách/ngày.<br>
+
+- Quý khách được hưởng chế độ Bảo Hiểm Du Lịch với mức 10.000$/khách<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+               - Các chi phí cá nhân: ăn uống ngoài chương trình, điện thoại, giặt ủi…<br>
+
+- Tiền tip cho hướng dẫn viên và tài xế địa phương: 3 USD/khách/ngày.<br>
+
+- PHỤ THU PHÒNG ĐƠN 1.200.000Đ<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+               - Trẻ em dưới 02 tuổi: 20 % giá tour (ngủ chung giường với cha mẹ)<br>
+- Trẻ em từ 2 đến dưới 11 tuổi: 90 % giá tour (ngủ chung gường với cha mẹ)<br>
+- Trẻ em trên 11 tuổi: Giá tour như người lớn<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+ </div>

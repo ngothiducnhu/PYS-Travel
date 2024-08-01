@@ -1,0 +1,152 @@
+
+   <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Tour du lịch Móng Cái - Trà Cổ - Đông Hưng Trung Quốc 4 ngày 3 đêm của PYS Travel 
+                sẽ đưa du khách đến với bãi biển Trà Cổ có khung cảnh cực kỳ nên thơ, non nước hữu tình, 
+                thiên nhiên trong lành tươi mới. Bên cạnh đó, với điểm đến là thành phố Đông Hưng Trung Quốc,
+                 du khách sẽ có những trải nghiệm du lịch nước bạn hoàn toàn mới mẻ, cơ hội mua sắm với giá 
+                 cực vừa túi tiền và văn hóa ẩm thực cũng vô cùng phong phú.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">7.390.000 VNĐ/Khách</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                <b>Móng Cái - Thành phố biên giới nhộn nhịp</b> <br>
+                Bắt đầu hành trình, Móng Cái là điểm dừng chân đầu tiên trong tour du lịch 
+                4 ngày 3 đêm của PYS Travel. Nằm ở tỉnh Quảng Ninh, Việt Nam, Móng Cái nổi 
+                tiếng với bầu không khí nhộn nhịp quanh năm và những hoạt động giao thương sôi động. 
+                Du khách sẽ có cơ hội tham quan chợ Móng Cái sầm uất, nơi bạn có thể mua sắm vô số mặt hàng 
+                từ quần áo, đồ điện tử đến các đặc sản địa phương. Ngoài ra, điểm đến này còn thu hút bởi những 
+                bãi biển hoang sơ như Trà Cổ, nơi bạn có thể thả mình vào làn nước trong xanh và tận hưởng 
+                không gian yên bình, thoải mái.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour1/MC_TC8.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <b>Trà Cổ - Bãi biển hoang sơ và thơ mộng</b> <br>
+                Bắt đầu hành trình, Móng Cái là điểm dừng chân đầu tiên trong tour du lịch 
+                4 ngày 3 đêm của PYS Travel. Nằm ở tỉnh Quảng Ninh, Việt Nam, Móng Cái nổi 
+                tiếng với bầu không khí nhộn nhịp quanh năm và những hoạt động giao thương sôi động. 
+                Du khách sẽ có cơ hội tham quan chợ Móng Cái sầm uất, nơi bạn có thể mua sắm vô số mặt hàng 
+                từ quần áo, đồ điện tử đến các đặc sản địa phương. Ngoài ra, điểm đến này còn thu hút bởi những 
+                bãi biển hoang sơ như Trà Cổ, nơi bạn có thể thả mình vào làn nước trong xanh và tận hưởng 
+                không gian yên bình, thoải mái.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour1/MC_TC12.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <i class="text-primary">Bãi Biển Trà Cổ</i> – bãi biển được mệnh danh là "trữ tình nhất Việt Nam" – 
+                một vẻ đẹp còn vẹn nguyên, hài hòa, bình dị với bãi cát trắng mịn màng 
+                trải dài phẳng lặng trong nền nước biển xanh biếc bốn mùa. Đến đây, bạn 
+                sẽ tìm được những khoảnh khắc bình yên, 
+                thơ mộng và tha hồ thả hồn mình vào nắng, vào gió.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour1/MC_TC15.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách tập trung tại sân bay Tân Sơn Nhất, làm thủ tục chuyến bay đến Hà Nội. 
+                    Đến Hà Nội, xe đón quý khách từ sân bay Nội Bài về khách sạn nghỉ ngơi. 
+                    Quý khách tự do vui chơi và khám phá Phố Cổ <b>(chi phí vui chơi và ăn uống tự túc)</b>. 
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - MÓNG CÁI - TRÀ CỔ (ĂN TRƯA- TỐI)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Xe và HD PYS Travel sẽ đón quý khách tại điểm hẹn khởi hành tour du lịch Trà Cổ – Móng Cái. 
+                    Trên đường đi quý khách sẽ dừng chân nghỉ ngơi, ăn sáng (chi phí tự túc). <br> <br>
+
+                    <b>Trưa:</b> Đoàn dừng chân ăn trưa tại Quảng Ninh. <br> <br>
+                    <b>14h30:</b> Đến Móng Cái, Quý khách nhận phòng, nghỉ ngơi tại Khách sạn.  <br><br>
+                    <b>15h30:</b> Xe sẽ đưa đoàn <b>Mũi Sa Vĩ</b> nơi đặt nét vẽ đầu tiên trên bản đồ Tổ quốc Việt 
+                    Nam – chụp hình lưu niệm và tự do tắm biển tại bãi biển Trà Cổ.<br>.
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour1/MC_TC1.jpeg" alt=""> <br> <br>
+                        <p class="text-center">Mũi Sa Vĩ - Nơi địa đầu Tổ Quốc</p>
+                    </div>
+                    <p class="fs-5"><b>Tối:</b>Quý khách ăn tối tại Khách sạn. Sau bữa tối, quý khách tự do dạo chơi và khám phá phố đi bộ tại Móng Cái về đêm.</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Xe ô tô đi theo chương trình<br>
+                - Vé máy bay khứ hồi HCM – HÀ NỘI có 7 ký hành lý xách tay<br>
+                - Khách sạn tiêu chuẩn 3* địa phương: 2 Khách/Phòng (lẻ nam hoặc nữ ngủ phòng 3 tính cả hướng dẫn viên suốt tuyến).<br>
+                - Chi phí thăm quan Đông Hưng: giấy thông hành, hướng dẫn viên, xe điện…<br>
+                - Ăn uống các bữa chính theo chương trình: 02 bữa sáng 40,000 vnđ/bữa, 05 bữa ăn chính<br>
+                - Hướng dẫn viên: HDV suốt tuyến<br>
+                - Quà tặng: Nước uống 01 chai/ ngày/ người<br>
+                - Tham quan: Bao gồm phí tham quan vào cửa 1 lần tại tất cả các điểm theo chương trình.<br>
+                - Bảo hiểm du lịch quốc tế với mức đền bù lên tới 10,000 usd/1 sự vụ.<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé tham quan các điểm ngoài chương trình. <br>
+                - Visa tái nhập đối với khách mang quốc tịch nước ngoài<br>
+                - Các chi phí cá nhân khách như: điện thoại, giặt ủi, mua sắm, nước uống.<br>
+                - Tiền TIP cho tài xế và HDV địa phương.<br>
+                - Hóa đơn tài chính VAT<br>
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 2 tuổi, tính phí 50.000đ/bé phí sổ thông hành sang Đông Hưng, ngủ chung giường với bố mẹ. <br>
+                - Trẻ em từ 2 tuổi đến dưới 5 tuổi giá tour 60% giá tour <br>
+                - Trẻ em từ 5 tuổi đến dưới 11 tuổi giá tour là 90% giá tour. (Tiêu chuẩn: 01 suất ăn + 01 ghế ngồi và ngủ ghép chung phòng với gia đình).<br>
+                - Trẻ từ 11 tuổi trở lên, tính bằng chi phí người lớn.<br>
+                - Vé máy bay tính theo quy định của hãng hàng không.<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+

@@ -1,0 +1,103 @@
+@charset "utf-8";
+*{
+    box-sizing: border-box;
+}
+.nav-top-background{
+    background-color: #00506C;
+    height: 35px;
+    z-index: -1;
+    width: 100%;
+}
+.nav-top-infor{
+    z-index: 1;
+    background: none;
+}
+.phone{
+    line-height: 35px;
+    height: 35px;
+}
+.phone>p{
+    line-height: 35px;
+    height: 35px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.phone > a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+.infor > a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+}
+.infor > a:hover{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+header  .background{
+    height: 600px;
+}
+header  .background >img{
+    z-index: -2;
+    object-fit: cover;
+}
+.logo> img{
+    height: 57px;
+    width: 175px;
+}
+.header-menu li{
+    height: 50%;
+    margin-left: 20px;
+}
+.header-menu .ruler{
+    border-bottom: 2px #ff9933 solid;
+    display: none;
+    height: 50%;
+    width: 100%;
+}
+
+.header-menu li:hover .ruler{
+    display: block;
+}
+.header-menu  a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+header .title{
+    margin-top: 100px;
+}
+.title > h1,h5{
+    color: white;
+}
+.row{
+    padding: 0 !important;
+}
+.input-group{
+    padding: 0px !important;
+    height: 50px;
+}
+
+.input-group button{
+    width: 15% !important;
+}
+.search-menu > input {
+    width: 30% !important;
+    border: none;
+}
+.search-menu > input:focus{
+    border: none;
+    outline: none;
+} 
+.search-button{
+    background-color: #0B5ED7;
+    border: none;
+}

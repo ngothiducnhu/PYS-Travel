@@ -1,0 +1,169 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Tour du lịch Nam Cát Tiên 2 ngày 1 đêm của PYS Travel sẽ đưa du khách đến 
+                nơi bảo tồn nhiều loại cây rừng và động vật quý hiếm. Đây còn là nơi 
+                thăm quan, hấp dẫn rất nhiều khách du lịch chính bởi không khí trong 
+                lành và yên tĩnh của khu rừng hoang sơ Nam Cát Tiên.            
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center text-dark my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;"><th colspan="2">GIÁ TOUR TRỌN GÓI (VNĐ/KHÁCH) <br>
+                        (Áp dụng cho đoàn từ 40 người trở lên)</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger"  >Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 7 hàng tuần</td>
+                        <td style="border: 1px black solid;">2.150.000 VNĐ/Khách</td>
+                    </tr>
+                </table>
+                <div class="row text-danger my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            Các chương trình Khuyến mãi dành cho tour Nam Cát Tiên <br>
+                            (Không áp dụng đồng thời các chương trình Khuyến mãi khác)
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                <b>Vườn quốc gia Nam Cát Tiên</b> là khu bảo tồn thiên nhiên toạ lạc trên địa bàn 5 huyện: 
+                Tân Phú, Vĩnh Cửu (Đồng Nai), Cát Tiên, Bảo Lộc (Lâm Đồng) và Bù Đăng (Bình Phước),
+                cách TP.HCM 150 km về phía bắc và chỉ mất khoảng 2,5 giờ lái xe.            
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour2/NCT1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Khu đất ngập nước Bàu Sấu cách trung tâm Vườn 14 km. Đây cũng là nơi khiến mọi người lưu luyến 
+                nhất Vườn quốc gia Nam Cát Tiên bởi vẻ đẹp bình yên nhưng cũng không kém phần hoang dã. Nằm trong  danh sách Ramsar bảo tồn thế giới, 
+                thánh địa cá sấu Bàu Sấu là điểm đến độc đáo để tìm hiểu đời sống hoang dã của loài bò sát này.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour2/NCT11.jpg" alt="">
+            </div>
+
+            <b class="mt-1 fs-5 text-primary">ĐIỂM NỔI BẬT TRONG HÀNH TRÌNH:</b>
+            <p class="px-3">
+                - Thưởng ngoạn Thác Trời hùng vĩ <br>
+                - Ngắm rừng Bằng Lăng Đạ Cộ<br>
+                - Cùng tìm hiểu về tên gọi các cây Tùng cổ thụ - Cây Gõ Bác Đồng – cây Đa Lộc Giao<br>
+                - Cùng chiêm ngưỡng bộ rễ khổng lồ của cây Si trăm thân<br>
+                - Hòa mình cùng làn nước trong xanh ở hồ nước tự nhiên cây Si
+                <p class="text-danger">- Đặc biệt:<br>
+                    + Trải nghiệm NGẮM THÚ ĐÊM - chỉ có duy nhất tại VQG Cát Tiên<br>
+                    + Trekking Bàu Sấu - Tận mắt nhìn thấy những chú cá Sấu hoang dã tại Bàu Sấu<br>   
+                </p> 
+            </p>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: TP.HCM - NAM CÁT TIÊN: CÂY ĐA LỘC GIAO – CÂY SI TRĂM THÂN - NGẮM THÚ ĐÊM (OPTION) (Ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Xe và Hướng Dẫn Viên PYS Travel đón Quý khách tại điểm hẹn khởi hành Nam Cát Tiên. 
+                    Trên đường, đoàn nghe thuyết minh về các địa danh nổi tiếng cũng như 
+                    giá trị kinh tế của vùng đất đi ngang qua <br>
+
+                    Đoàn ăn sáng, tiếp tục hành trình ngang qua làng cá bè La Ngà, đá Ba Chồng, rừng cây giá tỵ… <br>
+                    
+                    <b>Trưa:</b> Đến Nam Cát Tiên, đoàn đi thuyền vượt nhánh sông Đồng Nai. <br>
+                    
+                    Ăn trưa, nhận phòng nghỉ ngơi 
+                    <div class="row my-3 px-2">
+                        <img src="/views/static/Tours/Tour2/NCT3.jpg" alt="">
+                    </div>
+                    <p class="fs-5"><b>Chiều:</b> Đoàn bắt đầu hành trình khám phá rừng bằng tuyến cây Tung cổ thụ - Gõ Bác Đồng – 
+                        cây đa Lộc Giao – cây Si Trăm thân.
+                        Tiếp tục hành trình “lạc bước rừng Cát Tiên”, dưới sự dẫn dắt của người HDV giàu kinh nghiệm, quý khách sẽ được chiêm ngưỡng cây Tung cổ thụ với tuổi đời 400 năm
+                        , bộ rễ nổi lên mặt đất nhìn như những con đại mãng xà đang uốn lượn.
+                    </p>
+                </p>
+
+                <h5 class="text-primary">NGÀY 02: ĐẠP XE TẮM RỪNG - TREKKING BÀU SẤU (OPTION) - TP.HCM (ĂN SÁNG, TRƯA)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Dùng bữa sáng. Đoàn nhận xe đạp từ HDV, bắt đầu trải nghiệm “tắm rừng” với hành trình tham quan <i><b>tuyến Thác Trời - rừng Bằng Lăng Đạ Cộ.</b></i> <br><br>
+
+                    Khi băng qua những cánh rừng già trên đường đến Thác Trời với những vẻ đẹp quyến rũ của những loài nấm lạ, những loài hoa rừng với hương sắc tự nhiên. Đặc biệt, nếu tham quan vào thời điểm tháng 6, bạn sẽ có cơ hội được nhìn ngắm vẻ đẹp của những cánh bằng lăng với sắc tím mông mơ, điểm xuyến lẫn trong màu xanh của núi rừng hùng vĩ.
+                    <div class="row my-3 px-2">
+                        <img src="/views/static/Tours/Tour2/NCT4.jpg" alt="">
+                    </div>
+                    <p class="fs-5"><b>Trưa:</b> Đoàn trả phòng, Ăn trưa tại nhà hàng. <br></p>
+                    <p class="fs-5">
+                        Sau bữa trưa, đoàn lên xe khởi hành về lại Hồ Chí Minh.<br><br>
+
+                        Về tới TP.HCM, kết thúc chuyến <b>tour du lịch Nam Cát Tiên 2 ngày 1 đêm</b> ,
+                        PYS Travel chào tạm biệt Quý khách và hẹn gặp lại Quý khách trong các 
+                        tour du lịch tiếp theo.<br><br>
+    
+                        <b>Lưu ý:</b> Thứ tự chương trình có thể thay đổi theo sự sắp xếp của công ty để phù 
+                        hợp với tình hình thực tế nhưng vẫn đảm bảo đầy đủ các điểm tham quan đã nêu 
+                        trong chương trình.<br><br>    
+                    </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vận chuyển: Xe ô tô đưa đón quý khách theo lịch trình <br>
+                    + 03 bữa Ăn Chính 120.000đ/bữa/khách.<br>
+                    + Bữa sáng: Bún, phở, hủ tiếu,….<br>
+                - Nghỉ đêm tại rừng Nam Cát Tiên<br>
+                - Bảo hiểm du lịch trọn tour: 30.000.000/trường hợp.<br>
+                - HDV: Nhiệt tình, vui vẻ, thuyết minh suốt tuyến.<br>
+                - Vé tham quan theo chương trình.<br>
+                - Xe ô tô tham quan tuyến cây Tung cổ thụ - Gõ Bác Đồng - Cây đa Lộc Giao - Cây Si Trăm thân<br>
+                - Xe đạp tham quan nửa ngày<br>
+                - Khăn lạnh, nước suối đóng chai/khách/ngày.<br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Chi phí ngoài chương trình <br>
+                - Ăn uống ngoài chương trình, TIP.<br>
+                - Phụ phí phòng đơn 300.000 vnđ/khách/đêm<br>
+                - Không bao gồm vé thăm quan thú đêm, vé tham quan Bàu<br>
+                - VAT 8%<br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em từ 0 - 5 tuổi: Miễn phí tour, ăn ngủ chung với bố mẹ. (Hai người lớn chỉ được kèm 01 trẻ em. Từ trẻ em thứ 2 phụ thu 50% người lớn). <br>
+                - Trẻ em từ 5 - dưới 11 tuổi: Phụ thu 75% tour (ngủ chung giường với bố mẹ, có ghế ngồi và suất ăn riêng). Hai người lớn chỉ được kèm 01 suất trẻ em từ 5-11 tuổi. - Trẻ em thứ 2 trở lên tính giá như người lớn. <br>
+                - Trẻ em từ 11 tuổi: Tính như người lớn.<br>
+                - Khách nước ngoài phụ thu 15 USD/người/ngày, khi đi mang theo 2 bản photo hộ chiếu và bản gốc để đối chiếu.<br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour.<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour.<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.<br>
+                    
+            </p>
+        </div>
+    </div>
+

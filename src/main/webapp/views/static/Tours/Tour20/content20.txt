@@ -1,0 +1,123 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Mỗi năm 1 lần duy nhất, ruộng bậc thang mù cang chải bước vào mùa lúa chín. Với hình thế ruộng bậc thang được ghi nhận là độc đáo nhất thế giới, cộng với khung cảnh thiên nhiên hùng vĩ và tiết trời thu trong xanh, đừng bỏ lỡ cơ
+            </p>
+
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR TRỌN GÓI</th></tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 6 hàng tuần</td>
+                        <td style="border: 1px black solid;">2.680.000 VNĐ</td>
+                    </tr>
+                </table>
+            </div>
+           
+            <p class="fs-5">
+                Tự hào là nhà tổ chức tour Mù Cang Chải kinh nghiệm - uy tín - chất lượng hàng đầu, hãy đồng hành cùng PYS Travel để có những trải nghiệm đáng nhớ nhất.
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour20/MCC1.jpg" alt="">
+                </div>            
+            </p> 
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour20/MCC2.jpg" alt="">
+            </div>
+            
+            <p class="fs-5">
+                Trong nắng thu vàng, Mù Cang Chải trở nên quyến rũ hơn bởi những thửa ruộng lúa bậc thang hệt như một tấm thảm mềm mại. Cả con đường quốc lộ xanh mướt một màu, 
+                màu của những thửa ruộng bậc thang trải rộng đến tận sát con suối dưới thung, của những vạt nắng vàng như mật. Đây chính là “kỳ quan nhân tạo” mà không phải ở nơi nào trên trái đất này có được. <br>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour20/MCC3.jpg" alt="">
+                </div>            
+            </p>
+            <p>
+                Tháng 9, núi đồi Mù Cang Chải được thêu dệt sắc màu quyến rũ như tấm thảm mềm mại, hòa quyện với những vạt nắng vàng óng như mật. Người ta lại nô nức hẹn nhau ngày trở lại để trôi theo những bậc 
+                thang vàng lên mây ở Mù Cang Chải.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour20/MCC4.png" alt="">
+            </div>  
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - TRẠM TẤU - NGHĨA LỘ (Ăn trưa, tối)</h5>
+            
+                    <strong>Sáng 6h30:</strong>Xe ôtô đón quý khách điểm hẹn khởi hành đi Nghĩa Lộ, Yên Bái theo quốc lộ 32 theo hướng Sơn Tây. Quý khách ăn sáng trên đường đi (Chi phí tự túc). <br> <br>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="./static/19/TbParagon5.jpg" alt="">
+                    </div>  
+                    Trưa: Quý khách dùng bữa trưa tại nhà hàng, nghỉ ngơi tại nhà sàn. <br><br>
+                   
+                    Quý khách khởi hành đi thăm quan và tắm suối khoáng nóng Trạm Tấu nằm cách trung tâm thị trấn Trạm Tấu – 
+                    Yên Bái gần 2km. Với vị trí vô cùng đặc biệt, nằm lọt thỏm giữa khung cảnh thiên nhiên hùng vĩ đây là 
+                    suối khoáng nóng tự nhiên chảy ra từ lòng đất nên nguồn nước vô cùng sạch, tốt cho sức khoẻ, 
+                    nhiệt độ của nước vào khoảng 43-45 độ C. Nước suối rất trong có thể nhìn thấy tận đáy,
+                     lấp lánh những viên đá cuội. Sau đó Quý khách khởi hành về Nghĩa Lộ nhận phòng nghỉ ngơi
+
+                    Chiều: Xe đưa quý khách về tới điểm đón ban đầu. Kết thúc chương trình Tour du lịch Paragon Hill resort. Chia tay và Hẹn gặp lại quý khách trong các chương trình du lịch tiếp theo.
+         
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour20/MCC6.jpg" alt="">
+                   
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

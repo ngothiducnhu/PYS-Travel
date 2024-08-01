@@ -1,0 +1,153 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Hành trình khám phá cung đường <b>Đông Bắc</b> sẽ đưa bạn đến 
+                với những thắng cảnh non cao hùng vĩ của <b>Hà Giang</b>, hay 
+                thác nước cuồn cuộn và tuyệt đẹp của <b>Cao Bằng</b> và không 
+                quên ghé qua thăm khung cảnh thiên nhiên thơ mộng, hữu tình
+                 tại <b>Hồ Ba Bể (Bắc Kạn)</b>. Đông Bắc còn nổi tiếng với những món 
+                 ăn đặc sản vùng cao, những lễ hội dân gian và mùa hoa Tam giác mạch, 
+                 hoa cải nở rực, tất cả làm nổi bật lên bức tranh phong cảnh tuyệt đẹp của núi rừng Đông Bắc.            
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center text-dark my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger"style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">9.330.000 VNĐ/Khách</td>
+                    </tr>
+                </table>
+            </div> 
+            <p class="fs-5">
+                Tự hào là vùng sở hữu nhiều danh lam thắng cảnh, với những dãy núi cao hùng vĩ chạy hai bên cung 
+                đường đèo hiểm trở nhất Việt Nam. Điều đó chắc chắn đã thôi thúc bạn xách vali lên và khám phá ngay 
+                những cảnh đẹp thơ mộng và quyến rũ ở các tỉnh vùng núi Đông Bắc - nơi địa đầu của tổ quốc Việt Nam.
+                Vi vu Đông Bắc vào mùa nào cũng thơ mộng và xứng đáng trở thành những cảnh đẹp hàng đầu của Việt Nam.            
+            </p> <br><br>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour3/HG_DB1.jpg" alt=""> <br>
+                <p class="fs-5"><i><b>Hà Giang, nơi có con sông Nho Quế thơ mộng, êm đềm</b></i></p>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour3/HG_DB2.jpg" alt=""> <br>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour3/HG_DB3.jpg" alt=""> <br>
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour3/HG_DB6.jpg" alt=""> <br>
+            </div>
+            <br><br>
+            <b class="mt-1 fs-5 text-dark"><i>Những điểm nổi bật trong Tour Đông Bắc: Hà Giang - Cao Bằng - Bắc Kạn 5 ngày 5 đêm:</i></b>
+            <p class="px-3">
+                - Ghé thăm Hà Giang - vùng đất thiên nhiên hùng vĩ <br>
+                - Cảm giác được chạm đến mây trời, chênh chao giữa đèo dốc khói phủ sương mờ tại cổng trời Quản Bạ<br>
+                - Chinh phục Lũng Cú - Nơi địa đầu Tổ Quốc<br>
+                - Ghé thăm khu phố cổ Đồng Văn - mang đậm lối kiến trúc của người Hoa<br>
+                - Dừng chân ngắm một trong "tứ đại đỉnh đèo" Mã Pí Lèng<br>
+                - Động Ngườm Ngao – một trong những động dài và đẹp nhất Việt Nam.<br>
+                - Thác Bản Giốc, được coi là thác đẹp nhất Việt Nam và là thác lớn nhất Đông Nam Á <br>           
+            </p>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary"> NGÀY 01: HÀ NỘI - BẮC KẠN - HỒ BA BỂ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b>Quý khách tập trung tại điểm hẹn, Xe và HDV đón quý khách khởi hành 
+                    đi Bắc Kạn, trên đường đi quý khách sẽ dừng chân ăn sáng tại nhà hàng (chi phí tự túc). <br><br>
+
+                    <b>Trưa:</b> Quý khách dùng bữa trưa tại nhà hàng tại Ngã ba chợ Rã.<br><br>
+                    
+                    <b>Chiều:</b> Đến bến Buốc Lốm, hồ Ba Bể. Thăm quan hồ Ba Bể bằng thuyền với 
+                    những cảnh điểm đặc sắc. Đoàn nhận phòng nghỉ ngơi tại nhà sàn sinh thái 
+                    trong bản Pác Ngòi của khu du lịch Ba Bể. Ăn tối tại nhà hàng.                
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour3/HG_DB8.jpg" alt=""> <br>
+                    <p class="fs-5"><i><b>Tham quan hồ Ba Bể bằng thuyền tại những địa điểm nổi tiếng (Ảnh: Photo tour PYS Travel)</b></i> </p>
+                </div>
+                <h5 class="text-primary">NGÀY 02: BẮC KẠN - CAO BẰNG - BẢN GIỐC - PÁC BÓ (Ăn sáng, trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Sau bữa sáng, Xe và HDV đưa Quý khách khởi hành đi Cao Bằng. <br><br>
+
+                    <b>Trưa:</b> Quý khách dùng bữa trưa tại nhà hàng.<br><br>
+
+                    <b>Chiều:</b> Quý khách thăm Thác Bản Giốc, thác có độ cao 53m, chia làm 3 tầng được coi là thác đẹp nhất Việt Nam 
+                    và là thác lớn nhất Đông Nam Á. Thác cũng là nơi giáp ranh với nước bạn Trung Hoa với cột mốc chủ quyền thiêng liêng của Tổ Quốc. <br><br>
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour3/HG_DB9.jpg" alt=""> <br>
+                    <p class="fs-5"><i><b>Thác Bản Giốc, thác lớn nhất Đông Nam Á (Ảnh: Photo tour PYS Travel)</b></i> </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi có 7kg hành lý xách tay. <br>
+                - Vận chuyển: Xe 29 chỗ, 16 chỗ, đưa đón theo chương trình, 
+                lái xe có kinh nghiệm vùng cao. (tùy theo số lượng khách PYS sẽ sắp xếp xe cho phù hợp)<br>
+                - 03 đêm khách sạn tiêu chuẩn tại Yên Minh/Quản Bạ, Mèo Vạc/Đồng Văn và Cao Bằng 
+                (phòng có điều hòa, nước nóng lạnh, 02 người/phòng). 01 đêm lưu trú tại KDL Hồ Ba Bể 
+                (ngủ nhà sàn cộng đồng)<br>
+                - Ăn sáng: 04 bữa ăn sáng<br>
+                - Ăn chính: 09 bữa ăn chính (04 bữa thực đơn 120.000đ/suất + 
+                05 bữa thực đơn 150.000đ/suất (thực đơn cập nhật sau)).<br>
+                - Vé vào cổng các điểm tham quan theo chương trình (vé tham quan 1 lần)<br>
+                - HDV chuyên nghiệp, phục vụ suốt tuyến đón đoàn từ Hà Nội, nhiệt tình, vui vẻ.<br>
+                - Bảo hiểm du lịch trọn tour 30.000.000đ/trường hợp<br>
+                - Nước suối, khăn lạnh (số lượng 01/ khách/ ngày)<br>
+                - 01 đêm khách sạn tại Hà Nội<br>
+                - Xe đưa đón sân bay Nội Bài - Hà Nội. <br>           
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - VAT 8% <br>
+                - Phòng đơn 1.200.000 VNĐ <br>
+                - Các chi phí cá nhân khác ngoài chương trình<br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 2 tuổi : giá tour là 300.000đ/ bé. <br>
+                - Trẻ em dưới 5 tuổi: giá tour là 60% giá tour, hai người lớn chỉ được 
+                kèm 1 trẻ em, nếu trẻ em đi kèm nhiều hơn thì từ em thứ 02 trở lên giá tour là 5.790.000đ/bé. <br>
+                - Từ 5 - 11 tuổi: giá tour 90% giá tour (gồm vé máy bay, suất ăn riêng, nhưng ngủ ghép với bố mẹ).<br>
+                - Từ 11 tuổi trở lên, giá tour tính như người lớn.            <br>
+            </p> 
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour + Vé máy bay khứ hồi. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour + Vé máy bay khứ hồi.<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour + Vé máy bay khứ hồi.<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour + Vé máy bay khứ hồi.<br>
+                - Riêng vé máy bay không hoàn, không hủy theo quy định của hãng hàng không.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.<br>
+            </p>
+        </div>
+    </div>
+

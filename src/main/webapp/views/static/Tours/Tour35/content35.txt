@@ -1,0 +1,218 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Tour du lịch Đại Lý - Lệ Giang - Shangrila 6 ngày 5 đêm của PYS Travel, quý khách sẽ có cơ hội 
+                đến với Lệ Giang - cố đô của vương quốc Naxi trên cao nguyên Tây Bắc Vân Nam và đặc biệt không 
+                thể bỏ qua cơ hội đến với Shangrila - thủ phủ châu tự trị dân tộc Tạng Địch Khánh. Đây xứng đáng
+                là hành trình dành cho những người thích khám phá.            
+            </p>
+            <div class="text-center">
+                <p><b>GIÁ TOUR CHỈ TỪ (VNĐ/KHÁCH)</b></p>
+                <i>(Giá áp dụng cho ghép khách lẻ đoàn từ 25 người trở lên)</i>
+            </div>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger" style="border: 1px black solid;">Giá người lớn</th>
+                        <th class="text-danger"style="border: 1px black solid;">TRẺ EM <br>(dưới 11 tuổi)</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">07, 09, 14, 16, 21, 28, 30/06</td>
+                        <td style="border: 1px black solid;">19.990.000 VNĐ</b></td>
+                        <td style="border: 1px black solid;">90%</td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">05, 12, 14, 19, 21, 28/07</td>
+                        <td style="border: 1px black solid;">18.990.000 VNĐ</td>
+                        <td style="border: 1px black solid;">90%</b>
+                    </tr>
+                    
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Khám phá vẻ đẹp thành <b>Đại Lý</b> - thắng cảnh Vân Nam nên thơ và diễm lệ. Hay Lệ Giang – Shangrila 
+                là vùng đất cổ kính, với những nếp nhà tĩnh lặng mang phong cách kiến trúc truyền thống của dân 
+                tộc Nạp Tây, với rất nhiều loài hoa lạ, từ hồng cánh mỏng, yểu điệu, cho đến những bông cúc vươn
+                dài, nhưng không kém phần thanh nhã.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour35/LG_DL3.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Một Đại Lý với các di tích lịch sử, nhiều tòa nhà, đền miếu cổ, 
+                với nhiều sản phẩm thủ công địa phương. Một Lệ Giang trong trẻo, 
+                hiền hòa về xinh đẹp đến nao lòng. Là nét đẹp của khung cảnh cổ kính, 
+                của từng viên gạch lát đường, những bông hoa xinh xẻo, đường phố hiện đại 
+                sạch đẹp, người dân đôn hậu.
+            </p>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour35/LG_DL10.jpg" alt="">
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour35/LG_DL11.jpeg" alt="">
+            </div>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour35/LG_DL14.jpg" alt="">
+            </div>
+            <b class="mt-1 fs-5 text-primary">Điểm nổi bật trong Tour Đại Lý - Lệ Giang - Shangrila 6 ngày 5 đêm:</b>
+            <p class="px-3">
+                - NO SHOPPING <br><br>
+
+                - Bay 3 chặng cùng Hàng không China Eastern Airlines, tiết kiệm thời gian di chuyển so với các hành trình khác. Thời gian bay chỉ 1h30 phút. <br><br>
+                
+                - Tặng xem màn trình diễn đặc sắc “ Ấn tượng Lệ Giang“ của đạo diễn Trương nghệ Mưu  với giá 1200.000 VNĐ <br><br>
+                
+                - 03 ĐÊM LỆ GIANG <br><br>
+                
+                - Khám phá thành cổ Lệ Giang thơ mộng <br><br>
+                
+                - Trải nghiệm tàu cao tốc 300km/h chặng Đại Lý – Côn Minh <br><br>
+                
+                - Trải nghiệm Núi tuyết Ngọc Long quanh năm bao phủ bởi tuyết, dưới chân núi tuyết là thung lũng Lam Nguyệt có màu xanh độc đáo, uốn lượn <br><br>
+                
+                - Đi tìm “Đường chân trời đã mất” ở Shangrila, nơi đất và trời hòa vào làm một<br><br>
+                
+                - Lịch trình thông minh, tiết kiệm thời gian      <br>      
+            </p> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HÀ NỘI - LỆ GIANG - ĐẠI LÝ (ĂN TỐI)</h5>
+                <p class="fs-5">
+                    <b>06h00:</b> Xe và hướng dẫn viên đón Quý khách tại điểm hẹn, 
+                    đưa Quý khách khởi hành đi sân bay Nội Bài, đáp chuyến bay <b>QH802(10:15-13:15) </b>
+                    đến Lệ Giang. Quý khách dùng bữa ăn nhẹ tại sân bay. <br><br>
+
+                    <b>13h15:</b> Quý khách hạ cánh tại Lệ Giang.  Xe đón đoàn khởi hành đi <b>Đại Lý</b> - một nơi sở hữu phong cảnh thanh bình và nhẹ nhàng. 
+                    Nơi đây được ví như điểm hẹn bình yên giúp bạn quên đi những mệt mỏi của đời sống thường nhật.<br><br>
+                    <div class="row my-3 px-2 text-center">
+                        <img src="/views/static/Tours/Tour35/LG_DL5.jpg" alt="">
+                    </div>
+                    <p>
+                        <b>Tối:</b> Quý khách dùng bữa tối tại nhà hàng. Sau đó, đoàn về khách sạn nhận phòng và nghỉ ngơi
+                    </p>
+                    <i><b>Nghỉ đêm tại khách sạn ở Shangrila.</b></i>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Khách sạn tiêu chuẩn 4* địa phương (tiêu chuẩn 2 người một phòng Double/Twin). 
+                Nếu khách đi lẻ mà không có người cùng giới trong đoàn để ghép chung, thì Quý khách 
+                sẽ ở phòng đơn và chịu phụ phí hoặc nếu có thể ghép 3 người/một phòng  thì sẽ ở phòng 
+                Double/Twin + 1 Extra bed, vì phòng Triple (3 giường) rất ít, tùy từng khách sạn. <br><br>
+
+                - Các bữa ăn trọn gói theo chương trình (mức 40 NDT/bữa chính). <br><br>
+                
+                - Vé thăm quan các điểm theo chương trình.<br><br>
+                
+                - Xe du lịch hiện đại, điều hòa theo chương trình.<br><br>
+                
+                - Hướng dẫn tiếng Việt nhiệt tình, giàu kinh nghiệm đi suốt tuyến.<br><br>
+                
+                - Bảo hiểm mức bồi thường tối đa 200.000.000đ/trường hợp. 
+                (cho bảo hiểm do tai nạn rủi ro, không bảo hiểm cho các loại bệnh mãn tính 
+                và bệnh phát cấp tính). Khách trên 65 tuổi mức bảo hiểm 50%. <br><br>
+                
+                - Nước uống trên xe 1 chai/khách/ngày.            
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Chi tiêu cá nhân, phí hộ chiếu, đồ uống, chi phí điện thoại, giặt là trong khách sạn <br><br>
+
+                - Thuế VAT <br><br>
+                
+                 -Chi phí phòng đơn<br><br>
+                
+                - Tip cho lái xe và Hướng dẫn viên là: <b>5 USD/người/ngày</b><br><br>
+                
+                - Vé tham quan các điểm không đề cập trong chương trình.<br><br>
+                
+                - Chi phí khách:<br>
+                
+                + Cáp treo lớn lên đỉnh Ngọc Long Tuyết Sơn: 100RMB/Khách, ngày lễ/Tết 280RMB/khách. <br>
+                
+                + Xe điện tam quan Lam Nguyệt Cốc: 50 RMB/khách <br>
+                
+                + Thang máy Khe Hổ Nhảy: 50RMB/khách.      <br>      
+            </p> 
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Giá tính cho trẻ em ngủ chung giường với bố mẹ, nếu Quý khách có yêu cầu 
+                ngủ riêng cho trẻ em vui lòng thanh toán 100% giá tour. <br><br>
+
+                - Do tính chất là đoàn ghép khách lẻ, Công ty sẽ có trách nhiệm thu 
+                nhận khách cho đủ đoàn (từ 25 khách người lớn trở lên) thì đoàn sẽ khởi 
+                hành đúng lịch trình. Nếu số lượng đoàn dưới 25 khách, Công ty sẽ thông 
+                báo cho khách và sẽ thỏa thuận lại ngày khởi hành mới, hoặc hoàn trả lại 
+                toàn bộ số tiền cho khách đã thanh toán trước đó<br><br>
+                
+                - Trong trường hợp chỉ có 1 khách (người lớn) đi với 1 trẻ em dưới 12 tuổi 
+                (không có chế độ giường riêng), Quý khách vui lòng thanh toán theo giá người 
+                lớn để bé có chế độ giường riêng<br><br>
+                
+                - Trường hợp Quý khách không được xuất cảnh và nhập cảnh vì lý do cá nhân 
+                (như hình ảnh, thông tin giấy tờ trong bản gốc bị mờ, không rõ ràng, passport 
+                hết hạn, không đúng quy định,…) Công ty sẽ không chịu trách nhiệm và sẽ không 
+                hoàn trả tiền tour. Hướng dẫn viên Công ty sẽ hỗ trợ và tìm biện pháp giải 
+                quyết tốt nhất cho Quý khách, mọi chi phí phát sinh do khách hàng chi trả<br><br>
+                
+                - Đối với trường hợp khách làm phẫu thuật thẩm mỹ khuôn mặt, bắt buộc phải làm lại hộ chiếu. 
+                Trường hợp khách không làm lại hộ chiếu công ty sẽ không chịu trách nhiệm về vấn đề xuất nhập 
+                cảnh của khách. Mọi chi phí về hủy phạt dịch vụ khách hàng sẽ phải tự chịu trách nhiệm.<br><br>
+                
+                - Chương trình bao gồm các điểm shopping: Cửa hàng dược liệu, Cửa hàng sản xuất thịt bò Yak. 
+                Quý khách vui lòng không bỏ qua các điểm shopping chỉ định trong chương trình 
+                (Nếu bỏ điểm phụ phí 30USD/Khách)<br><br>
+                
+                - Hộ chiếu phải còn thời hạn sử dụng trên 6 tháng (Tính từ ngày khởi hành)<br><br>
+                
+                - Chương trình có thể thay đổi thứ tự theo tình hình thực tế, 
+                nhưng vẫn bảo đảm đi đầy đủ điểm tham quan<br><br>
+                
+                - Suốt hành trình quý khách không được tự ý rời đoàn. 
+                Nếu quý khách có người nhà tại nước sở tại muốn đi theo chương trình, 
+                vui lòng liên hệ với công ty du lịch trước khi khởi hành.  <br><br>          
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>

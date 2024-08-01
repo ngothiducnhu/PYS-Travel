@@ -1,0 +1,120 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tour du lịch Phú Quốc 3 ngày 2 đêm sẽ mang lại cho bạn và gia đình 1 kỳ nghỉ tuyệt vời với chương 
+                trình lặn ngắm thảm san hô tuyệt đẹp của đảo ngọc. <br> <br>
+                Đảo Ngọc Phú Quốc của Việt Nam hút khách du lịch nhờ những bãi biển đẹp mà thưa vắng, thiên nhiên nguyên sơ và 
+                thiên đường hải sản. Nơi đây không chỉ thu hút du khách bởi bờ biển dài trong veo, những khu resort sang trọng, 
+                những món ngon chẳng nơi nào có...Đồng hành cùng PYS Travel trong hành trình trình khám phá đảo ngọc Phú Quốc. <br>
+            </p>
+
+            <p>
+                Với hơn 20 hòn đảo lớn nhỏ nằm trong quần đảo An Thới cùng hệ sinh thái đa dạng, và theo đánh giá của các nhà khoa học, 
+                vùng biển Phú Quốc còn lưu giữ được hệ sinh thái tương đối nguyên sơ, với những rạn san hô tuyệt đẹp có thể 
+                hình thành các khu bảo tồn hay qui hoạch thành vùng du lịch lặn biển ngắm san hô rất hấp dẫn. 
+            </p>
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour15/PQ1.jpg" alt="">
+            </div>
+           
+            <p class="fs-5">
+                Các rặng san hô này chiếm đến 41% diện tích. Đã thống kê được 89 loài san hô cứng, 19 loài san hô mềm, 125 loài cá ở 
+                rặng san hô, 132 loài thân mềm, 32 loài da gai và 62 loài rong biển, trong đó nhiều loài quan trọng như trai tai tượng và ốc đun cái….
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour15/PQ2.jpg" alt="">
+                </div>            
+            </p>  
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour15/PQ3.jpg" alt="">
+            </div>     
+         
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: ĐẾN ĐẢO NGỌC PHÚ QUỐC - GRANDWORD (Ăn Sáng - Trưa – Tối)</h5>
+                <p class="fs-5">
+                    <strong>Sáng:</strong> Xe và HDV đón khách tại sân bay Dương Đông. Đoàn dùng bữa sáng  <br> <br>
+
+                    <strong>Trưa:</strong> Ăn trưa với món đặc sản Gỏi Cá Trích. Nhận phòng khách sạn. Nghỉ ngơi 
+                    (Hỗ trợ check in sớm nếu có phòng khách sạn) <br><br>
+
+                    <strong>Chiều:</strong> Tham quan các làng nghề truyền thống nổi tiếng trên đảo: <br> <br>
+                    <strong>Hồ tiêu Phú Quốc:</strong> tìm hiểu về cách trồng tiêu tại vườn. Tiêu Phú Quốc nổi tiếng với hạt to, đen và cay thơm. 
+                    Du khách có thể mua tiêu về làm quà tại nhà vườn.
+                </p>
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour15/PQ4.jpg" alt="">
+                   
+                </div>
+                <p class="fs-5">
+                    Nhà thùng nước mắm: Tìm hiểu cách ủ và chế biến nước mắm cá cơm rất nổi tiếng trong và ngoài nước theo cách làm truyền thống của 
+                    người dân Phú Quốc với hàm lượng dinh dưỡng rất cao.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour15/PQ5.jpeg" alt="">
+                </div>
+                <p class="fs-5">
+                    <b>Note :</b> <br> <br>
+                    Những khách muốn trải nghiệm buổi tối tại Grand Word sẽ tự túc ăn tối - Hoàn lại tiền ăn. <br> <br>
+                    Qúy khách di chuyển về bằng xe Bus của VinBus <br> <br>
+                    Những khách ăn tối tại thị trấn sẽ cùng xe và hdv về lại trung tâm thành Phố cùng đoàn trước 17h30
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi HCM – Phú Quốc , bao gồm 7kg xách tay + 20kg hành lý ký gửi <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

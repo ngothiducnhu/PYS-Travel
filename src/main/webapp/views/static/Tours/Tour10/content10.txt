@@ -1,0 +1,123 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Đảo Cô Tô - Hòn đảo xinh đẹp nằm ở phía Đông Bắc Tổ quốc thuộc tỉnh Quảng Ninh, một vài năm trở lại đây có sức đặc biệt với du khách khắp nơi. Với nhiều bãi biển trong xanh cùng với sự phát triển nhiều loại hình vui chơi giải trí nơi đây phù hợp cả nghỉ dưỡng hay khám phá.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 6 hàng tuần</td>
+                        <td style="border: 1px black solid;">3.580.000 VNĐ</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Không phải ngẫu nhiên mà Cô Tô được nhiều người ưu ái với tên gọi ‘thiên đường du lịch biển miền Bắc. Đây là điểm đến dành cho bất cứ ai mong muốn trở về với thiên nhiên hoang sơ, bình yên, để tâm trí được vỗ về, quên hết mọi âu lo thường nhật. Đến với tour du lịch Cô Tô 3 ngày 2 đêm của PYS Travel, Quý khách có cơ hội khám phá những cảnh đẹp trứ danh nơi đây như bãi đá Móng Rồng, tượng đài Bác Hồ, bãi đá Cầu Mỵ, Mũi Ông Minh... Được yêu thích nhất tại Cô Tô là bãi Vàn Chảy. Địa danh này nằm tại phía Tây đảo, nổi bật với bờ biển uốn cong, bãi cát trắng mịn, sóng xô êm dịu, đủ để du khách thoải mái nô đùa/
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour10/CT1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Bên cạnh đó, bãi Hồng Vàn cũng là một trong những thắng cảnh nhất định phải ghé thăm khi đến với Cô Tô. Nơi đây nước lặng êm ả, lăn tăn như nước hồ, bờ cát mềm mại với những thảm hoa muống biển tím mộng mơ. Bãi đá Móng Rồng độc đáo, kỳ vĩ với sự kết hợp hài hòa của đá và nước, mang lại vẻ đẹp lãng mạn, nơi du khách không thể bỏ lỡ khi du lịch Cô Tô. Không chỉ thu hút về cảnh quan, Cô Tô còn có nguồn hải sản phong phú với gần 1000 loài cá, trong đó thơm ngon nhất phải kể đến Mực Ống, Cá Hồng, Cá Mú, Cá Trích...Đồng hành cùng PYS Travel trong tour du lịch Cô Tô 3 ngày 2 đêm, Quý khách sẽ được thưởng thức những món hải sản thơm ngon, hấp dẫn, được chế biến bởi những đầu bếp giàu kinh nghiệm.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour10/CT2.jpg" alt="">
+            </div>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour10/CT3.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HÀ NỘI - ĐẢO CÔ TÔ - BÃI TẮM VÀN CHẢY (Ăn trưa. tối)</h5>
+                <p class="fs-5">
+                   Quý khách tập trung tại điểm hẹn. Xe và Hướng Dẫn Viên (HDV) PYS Travel cùng Quý khách xuất phát đi Vân Đồn. Quý khách dừng xe ăn sáng tự túc tại nhà hàng tại Sao Đỏ, Hải Dương (chi phí tự túc)
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - BẢN NẬM HỒNG - HỒ THẦU (ĂN TRƯA, TỐI)</h5>
+                <p class="fs-5">
+                    <b>Sáng 5h00:</b> Đoàn tới cảng Ao Tiên và dùng bữa trưa tại nhà hàng với các món ăn chế biến từ hải sản.<br> <br>
+
+                   <b>12h50:</b>Quý khách lên tàu cao tốc thăm đảo Cô Tô. Trên hành trình Quý khách đi qua vịnh Bái Tử Long và ngắm cảnh trên vịnh. Giờ dự kiến 13h00 – 13h30 (Giờ tàu có thể thay đổi phụ thuộc vào điều kiện thời tiết và cảng vụ). Thời gian đi tàu ~ 90’.<br>
+		        <b>14h30:</b>Tàu cập bến cảng, quý khách tập trung để lên xe điện, di chuyển về khách sạn. Đến khách sạn, đoàn nhận phòng trên đảo ngay tại trung tâm thị trấn Cô Tô. Sau thời gian nghỉ ngơi tại khách sạn. Đoàn có thời gian tản bộ, đi bộ thăm quan thị trấn Cô Tô. <br>
+		        <b>15:00:</b>Xe và HDV đón quý khách đi tham quan biển Vàn Chảy cách 6km – miền biển đẹp hoang sơ, tinh khôi, thanh bình nhất phía Bắc hiện nay. Trên đường di chuyển đến bãi tắm, du khách có thể chiêm ngưỡng những cảnh quan núi non và cây cối xanh tươi, đón ánh nắng hiền hòa trong thời tiết và không gian trong lành. Vàn Chảy thì cát trắng và nước xanh biếc, sóng khá to nên đoàn chú ý không tắm quá xa bờ, trong phạm vi an toàn được quy định tại đó.<br>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour10/CT4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    <p class="fs-5"><b>Tối:</b>Quý khách ăn tối hải sản tại nhà hàng, sau đó đi dạo tự do trên biển, tham gia các hoạt động giao lưu karaoke, cafe chi phí tự túc.</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                 - Xe du lịch đời mới, điều hòa, tiện nghi Hà Nội - Ao Tiên - Hà Nội.<br>
+					- Khách sạn trên đảo Cô Tô 2** tiêu chuẩn 2 người/phòng, lẻ nam/nữ ngủ ba, điều hòa, tiện nghi đầy đủ.<br>
+					- 04 Bữa ăn chính theo lịch trình suất 150.000 vnđ/người + 1 bữa BBQ 250.000 vnđ/người + 2 bữa sáng 40.000VNĐ/bữa phụ.<br>
+					- Tàu cao tốc Ao Tiên – Cô Tô – Ao Tiên khứ hồi.<br>
+					- Xe (ô tô hoặc xe điện) thăm quan theo lịch trình trên đảo.<br>
+					- Vé thắng cảnh thăm quan theo chương trình.<br>
+					- Bảo hiểm du lịch mức 50.000.000 vnđ/người/vụ<br>
+					- HDV tiếng Việt nhiệt tình, kinh nghiệm. <br>
+					- Nước uống trên xe tiêu chuẩn 1 chai/người/ngày<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+              - Đồ uống gọi thêm trong các bữa ăn. <br>
+					- Chi phí cá nhân (giặt là, quà tặng…).<br>
+					- Thuế VAT 10%<br>
+					- Chi phí thăm Cô Tô con<br>
+
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em từ 0 - 5 tuổi: Miễn phí tour, ăn ngủ chung với bố mẹ. (Hai người lớn chỉ được kèm 01 trẻ em. Từ trẻ em thứ 2 phụ thu 50% người lớn). Trẻ em từ 1 tuổi trở lên đóng 500.000VND vé tàu cao tốc<br>
+					- Trẻ em từ 6 -10 tuổi: Phụ thu 75% tour<br>
+					- Trẻ em từ 11 tuổi trở lên: Tính như người lớn.<br>
+					- Khách nước ngoài phụ thu 10 USD/người/ngày, khi đi mang theo 2 bản photo hộ chiếu và bản gốc để đối chiếu.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+         </div>
+     </div>

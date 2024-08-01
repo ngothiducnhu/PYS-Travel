@@ -1,0 +1,127 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+            padding: 5px 0px 5px 10px;
+            color: #00506c;
+            margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Tour du lịch Hungary - Slovakia - Áo - Séc - Đức 10 ngày 9 đêm từ TP.HCM của PYS Travel thiết kế kết hợp cung đường phía Tây và Đông Âu với những điểm đến hấp dẫn, xen kẽ giữa nét đẹp cổ kính của kiến trúc và sự thanh bình nên thơ của làng quê Châu Âu                
+            </p>
+            <p class="fs-5">
+                <b>Hungary</b> - trái tim của châu Âu, được nhớ đến và làm xao xuyến bao trái tim của du khách 
+                trên khắp thế giới bởi những khung cảnh vô cùng lãng mạn. Cùng với đó, nơi đây còn có những 
+                kiến trúc kì vĩ, đồ sộ bậc nhất thế giới. 
+                Chính bởi vậy mà du lịch Hungary luôn là niềm ao ước của bao người.            
+            </p>             
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour40/Hun_Slo_Ao1.jpg">
+            </div> 
+            <br> <br>
+            <p class="fs-5">
+                Du lịch <b>Áo</b> luôn là niềm ao ước của bao người vì nơi đây không chỉ sở hữu cảnh sắc thiên nhiên, núi rừng 
+                hùng vĩ mà còn bởi những tòa nhà mang đậm chất cổ kính. Bên cạnh đó, 
+                thủ đô của nước Áo là Viena còn được mệnh danhlà “bản giao hưởng âm nhạc” thu hút bao người yêu nghệ thuật.            </p><br><br>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour40/Hun_Slo_Ao6.jfif" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: TP.HỒ CHÍ MINH – BUDAPEST (Nghỉ đêm và ăn uống trên Máy bay)</h5>
+                <p class="fs-5">
+                    <b>17h00</b>: Quý khách tập trung có mặt tại nhà ga Quốc tế <b>Sân bay Tân Sơn Nhất</b>. Hướng dẫn viên 
+                    đón và làm thủ tục cho Quý khách lên chuyến bay khởi hành từ TP.Hồ Chí Minh đi Budapest, 
+                    thủ đô của Hungary
+                    <br><br>
+                    <b>19h30</b>: Chuyến bay mã hiệu QR977 của hãng hàng không Qatar Airways cất cánh, đưa quý khách 
+                    tới Berlin (chuyển chặng 3 tiếng 30 phút tại Doha).
+                    <br><br>
+                    Chặng 1: QR971 SGN DOH  1940 2345
+                    <br><br>
+                    Chặng 2: QR201 DOH BUD 0240 0620 
+                    <br><br>
+                    Đoàn nối chuyến tại <b>sân bay quốc tế Hamad</b> – Doha, sân bay đã được Skytrax bình chọn 
+                    là sân bay tốt nhất thế giới hai lần liên tiếp vào các năm 2021 và 2022.
+                    <br><br>
+                    (Quý khách được phục vụ ăn uống trên máy bay)                
+                </p>
+
+                <h5 class="text-primary">NGÀY 02: BUDAPEST (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <p>
+                        <b>07h00</b>: Quý khách hạ cánh sân bay quốc tế Budapest, làm thủ tục nhập cảnh.
+                        <br><br>
+                        <b>09h00</b>: Xe đón quý khách tại sân bay Berlin và bắt đầu hành trình <b>thành phố Budapest</b> – thủ đô Hungary, 
+                        được mệnh danh là Paris của Phương Đông nhờ vẻ đẹp diễm lệ gần giống với nước Pháp hoa lệ.      
+                        <br><br>    
+                        <div class="row my-3 px-2 text-center">
+                            <img src="/views/static/Tours/Tour40/Hun_Slo_Ao8.jfif" alt="">
+                        </div>    
+                        <br><br>    
+                    </p>
+                    <p>
+                        <b>12h00</b>: Đoàn ăn trưa tại nhà hàng địa phương
+                    </p>
+                    <p>
+                        <b>18h00</b>: Đoàn ăn tối tại nhà hàng địa phương. <br><br>
+
+                        Sau bữa tối, xe đưa Quý khách về khách sạn nhận phòng nghỉ ngơi. <br><br>
+
+                        Nghỉ đêm tại khách sạn Leonardo Hotel Budapest 4**** tại Budapest hoặc tương đương<br><br>
+                    </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi hạng phổ thông <b>HCM - FRANKFURT // PARIS - HCM : VIETNAM AIRLINE</b> <br>
+                - Các phụ phí thuế phi trường; thuế an ninh; phụ phí xăng dầu…<br>
+                - Hành lý xách tay  + hành lý kí gửi theo đoàn<br>
+                - <b>Khách sạn tiêu chuẩn 4*:</b> 2 khách/phòng<br>
+                - Các bữa ăn theo chương trình tại nhà hàng Việt, Hoa, Âu<br>
+                - <b>Vé cáp treo Núi Tuyết Titlis</b><br>
+                - <b>Vé du thuyền sông Sein</b><br>
+                - Xe vận chuyển theo chương trình quy định.<br>
+                - Nước uống mỗi ngày trên xe, 1 người/chai/ngày<br>
+                - Trưởng đoàn từ Việt Nam thân thiện, chuyên nghiệp theo đoàn suốt tuyến.<br>
+                - Quà tặng lưu niệm: nón du lịch.<br>
+                - Bảo hiểm du lịch có bao gồm Covid trị giá 1 tỷ/người    <br>        
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Hộ chiếu (giá trị trên 6 tháng tính theo ngày về). <br>
+                - <b>Phí visa Schengen + Tiền TIP HDV và tài xế địa phương: 7,000,000/khách/tour. (đóng ngay khi đăng ký tour)<br>
+                - Chi phí cá nhân (hành lý quá cước, điện thoại, giặt ủi, tham quan ăn uống ngoài </b>
+                chương trình, Nước uống rượu bia trong bữa ăn, chi phí khuân vác hành lý….).<br>
+                - Phụ thu xe vận chuyển ngoài giờ quy định<br>
+                - Chi phí dời ngày, đổi chặng bay, nâng hạng vé máy bay, hành lý quá cước theo quy định hàng không. <br>
+                - Phụ phí phòng đơn. (trường hợp khách đăng ký đi lẻ 1 mình, nếu đoàn khởi hành có 2 - 3 
+                khách lẻ nam hoặc 2 - 3 khách lẻ nữ chúng tôi sẽ linh động ghép vào thành 1 phòng 2 – 3 khách, 
+                trong trường hợp không có khách lẻ nào khác để ghép với quý khách, quý khách vui lòng đóng phí ở phòng đơn).<br>            </p> 
+            <br>
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                Trong trường hợp không thể tham dự được tour, quý khách vui lòng thông báo cho Công 
+                ty và chịu phí huỷ như sau: <br>
+
+                - Huỷ ngay sau khi đăng ký: 20% tổng giá thành tour. <br>
+                - Huỷ trước 15 ngày (không tính thứ 7, chủ nhật): 50% tổng giá thành tour<br>
+                - Hủy trước trong vòng 15 ngày trước ngày khởi hành (không tính thứ 7, chủ nhật): 100% 
+                tổng giá thành tour.            
+            </p>
+        </div>
+    </div>

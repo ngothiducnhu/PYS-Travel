@@ -1,0 +1,124 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Tạo hóa đã ban tặng cho miền Tây cái đẹp mộc mạc mà nên thơ, với những cánh đồng xanh bát ngát, những miệt vườn sai quả, 
+                những ngả đường trĩu nặng phù sa. Đặc biệt, du khách sẽ được xuôi về miền sông nước hữu tình này để chu du, thưởng ngoạn 
+                và trải nghiệm những điều bình dị, chân phương. <br> <br>
+                Khám phá Côn Đảo – hòn đảo từng được mệnh danh là ‘Địa ngục trần gian’, nơi ghi dấu những địa danh thấm đẫm máu đào của những 
+                người con yêu nước. Nơi đây cũng gây ngỡ ngàng khi mang vẻ đẹp tuyệt vời và bình yên đến lạ, níu chân du khách phương xa <br> 
+            </p>
+            <b>Những điểm hấp dẫn trong hành trình:</b>
+            <p>
+                - Viếng mộ cô Sáu nổi tiếng linh thiêng và huyền bí. Đây là nghĩa trang duy nhất có phong tục viếng vào lúc 23 giờ trở đi. Ai đến 
+                Côn Đảo cũng từng đến đây vào giữa đêm để nguyện cầu công việc kinh doanh được thuận lợi. <br><br>
+                - Khám phá Dinh chúa Đảo, nơi quy tụ cơ ngơi của các đời chúa Đảo, xem các hiện vật gốc được trưng bày. <br> <br>
+                - Tự do ngắm biển Côn Đảo và tận hưởng không gian thư thái, gió biển trong lành. <br> <br>
+                - Trải nghiệm nét văn hóa mua bán trên sông đặc thù của người dân Nam Bộ tại chợ nổi Cái Răng – một trong những khu chợ lớn nhất Đồng Bằng sông Cửu Long. <br><br>
+                - Khám phá Miệt Vườn Nam Bộ với cây trái xum xuê – lò hủ tiếu. <br>
+            </p>
+            
+            <div class="row text-center my-3 bg-grey px-3">
+                <table border="1">
+                    <tr><th colspan="2">GIÁ TOUR GHÉP ĐOÀN</th></tr>
+                    <tr style="border: 1px black solid;">
+                        <th class="" style="border: 1px black solid;">LỊCH KHỞI HÀNH</th>
+                        <th class="">GIÁ CHỈ TỪ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Hàng tháng</td>
+                        <td style="border: 1px black solid;">6.990.000đ/khách </td>
+                    </tr>
+                </table>
+            </div>
+           
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">Ngày 01: HÀ NỘI – CẦN THƠ (ĂN TRƯA, TỐI)</h5>
+                <p class="fs-5">
+                    <strong>04h00 </strong> Xe và hướng dẫn viên đón đoàn tại Cổng Công Viên Thống Nhất – Đường Trần Nhân Tông –Quận Hai Bà Trưng – 
+                    Tp Hà Nội đi sân bay Nội Bài, đáp chuyến bay VN1201/VN1203 lúc 06h45 hoặc 07h15 đi sân bay Cần Thơ.  <br> <br>
+
+                    <strong>09h00</strong> Đến Sân bay Cần Thơ, xe và HDV đón khách đi thăm quan: Thiền Viện Trúc Lâm PhươngNam, 
+                    đây được coi là Thiền Viện lớn nhất của vùng Tây Nam Bộ. Quý khách thăm quan, lễ Phật, vãn cảnh. <br><br>
+
+                    <strong>11h30</strong>11h30 Đoàn dùng bữa trưa tại khu du lịch Mỹ Khánh. Chiều Quý khách thăm quan khu du lịch Mỹ Khánh, 
+                    cùng dạo chơi, chụp ảnh và xem các trò diễn xiếc thú. <br> <br>
+
+                    <strong>15h00</strong>15h00 Đoàn về lại trung tâm thành phố Cần Thơ, 
+                    nhận phòng khách sạn 4 sao trung tâm thành phố, gần chợ đêm Ninh Kiều.
+                </p>
+              
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour16/HN_CT_CD_HN1.jpg" alt="">
+                   
+                </div>
+                <p class="fs-5">
+                    <strong>17h00</strong> Quý khách tập trung tại sảnh khách sạn, xe và HDV đón đoàn đi thăm Chùa Ông – Ngôi chùa của người Hoa Kiều sống tại Tp Cần Thơ. 
+                    Được xem là ngôi chùa mỹ lệ nhất, màu sắc nhất, mang đúng kiến trúc Trung Hoa, là địa điểm không thể bỏ qua khi đến Cần Thơ. Quý khách thắp hương, lễ Phật.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour16/HN_CT_CD_HN2.jpg" alt="">
+                </div>
+                <p class="fs-5">
+                    <strong>18h30</strong> Đoàn dùng bữa tối tại NH du thuyền Cần Thơ, thưởng thức những món ngon đất Nam Bộ và nghe nhạc Bolero hấp dẫn. Ngắm toàn cảnh Tp Cần Thơ dọc đôi bờ sông Hậu.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour16/HN_CT_CD_HN3.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi HCM – Phú Quốc , bao gồm 7kg xách tay + 20kg hành lý ký gửi <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

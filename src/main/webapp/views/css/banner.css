@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+
+.banner{
+    height: 10px !important;
+}
+.banner .row{
+    height: 100%;
+}
+
+.banner .col-md-4 .img{
+    padding-right: 10px;
+}
+.banner .col-md-4 img{
+    height: 60px;
+    width: 60px;
+}
+
+.banner .col-md-4 h6{
+    display: block !important;
+    color: #52A6CC;
+}
+.banner .col-md-4 p{
+    color: gray;
+    margin: 0;
+}

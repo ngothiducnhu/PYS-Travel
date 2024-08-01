@@ -1,0 +1,104 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Đất nước Thái Lan được biết đến có nền văn hóa và lịch sử lâu đời, từ lâu Thái Lan đã được mệnh danh như “thiên đường du lịch” ở Châu Á. Nơi đây nổi tiếng với những danh lam thắng cảnh tuyệt đẹp và những món ăn đường phố luôn thu hút khách du lịch đến nơi đây.
+
+Tour du lịch Chiang Mai - Chiang Rai 5 ngày 4 đêm rất phù hợp với những du khách yêu thích ngắm nhìn, khám phá cảnh sắc thiên nhiên và không gian yên bình. Đến với Chiang Mai - Chiang Rai bạn sẽ được tìm hiểu về nền văn hóa đặc sắc, nhiều ngôi chùa và du lịch tâm linh tại Thái Lan.
+            </p>
+
+	    <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour28/CM_CR1." alt="">
+            </div>
+                        
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI - CHIANGMAI (ĂN TỐI)</h5>
+                <p class="fs-5">
+                    12h20: Xe và hdv công ty du lịch đón quý khách khởi hành ra sân bay, đáp chuyến bay FD871 lúc 15h20 - 17h10 đến Chiangmai. <br>
+
+17h05: Hạ cánh xuống sân bay Chiang Mai, quý khách làm thủ tục nhập cảnh. Hướng dẫn viên địa phương đón Đoàn tại sân bay quốc tế Chiang Mai và đưa đoàn vào trung tâm thành phố.<br>
+
+Buổi tối: Du khách dùng bữa tối Khantoke – phong cách ẩm thực đặc trưng của miền Bắc Thái Lan và thưởng thức chương trình biểu diễn nghệ thuật truyền thống đặc sắc của người dân địa phương. Nhận phòng và nghỉ đêm khách sạn tại Chiang Mai.<br>
+                </p>
+		
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour28/CM_CR2.png" alt="">
+            	</div>
+
+                <h5 class="text-primary">NGÀY 02: CHIANG MAI – CHIANG RAI (ĂN SÁNG, TRƯA, TỐI)</h5>
+                <p class="fs-5">
+                    	Sau bữa sáng tại khách sạn, theo con đường quốc lộ êm như trải thảm, xe đưa Đoàn đến với Chiang Rai tham quan:<br>
+			Vườn hoa Hoàng Gia (Royal Flora Garden), khu vườn rộng 80ha là nơi diễn ra lễ hội hoa Hoàng gia hằng năm tại Chiang Mai<br> <br>
+		<div class="row my-3 px-2">
+                	<img src="/views/static/Tours/Tour28/CM_CR3.jpg" alt="">
+            	</div>
+                    <b>Làng Cổ dài (Long Neck Village)</b> tham quan và tìm hiểu những tập tục truyền thống của người dân tộc thiểu số Karen. Người Karen vốn có nguồn gốc từ Myanmar, nhưng do những yếu tố về kinh tế và chính trị nên họ dần di chuyển sang Thái Lan sinh sống và định cư. Họ có tập tục độc đáo là đeo vòng trên cổ, vì theo quan niệm truyền thống người Karen là con cháu của Phượng hoàng nên cổ càng dài sẽ càng đẹp và thanh cao, ngoài ra số lượng vòng trên cổ càng nhiều càng chứng minh cho sự giàu có và sung túc của gia đình.Ăn trưa trên đảo<br> <br>
+
+
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour28/CM_CR4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+               - Vé máy bay khứ hồi với 20kg hành lý kí gửi và 7kg hành lý xách tay<br>
+- Khách sạn 4 sao địa phương, tiêu chuẩn 02 người/ phòng (nếu lẻ nam hay nữ, được tính cả HDV Việt Nam Suốt tuyến thì sẽ ghép phòng ba giường), bao gồm ăn sáng.<br>
+- Hotel Chiang Mai : Mercure, Ibiz, Furrama, Royal Peninsula....hoặc tương đương.<br>
+- Hotel Chiang Rai : Diamond Park Resort, Ariya Hotel, Welcome Resort ...hoặc tương đương.<br>
+- Các bữa ăn theo chương trình<br>
+- Vận chuyển bằng xe máy lạnh, đưa đón theo chương trình.<br>
+- Vé tham quan vào cửa (1 lần) các điểm trong chương trình<br>
+- Trưởng đoàn kinh nghiệm theo suốt tuyến (Áp dụng với đoàn trên 15 khách)<br>
+- Bảo hiểm du lịch quốc tế và covid theo chương trình (Không áp dụng cho khách hàng trên 75 tuổi)<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Ngủ phòng đơn<br>
+- Đồ quá cước.<br>
+- Phí visa tái nhập Việt Nam cho khách quốc tịch nước ngoài.<br>
+- Các chi phí cá nhân: điện thoại, bia, nước ngọt, giặt là… và các chi phí cá nhân khác.<br>
+- Xe vận chuyển ngoài chương trình.<br>
+- Thuế VAT.<br>
+- Tiền Tips cho HDV và tài xế điạ phương 05$/khách/ngày<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+               - Trẻ em dưới 02 tuổi: 20 % giá tour (ngủ chung giường với cha mẹ)<br>
+- Trẻ em từ 2 đến dưới 11 tuổi: 90 % giá tour (ngủ chung gường với cha mẹ)<br>
+- Trẻ em trên 11 tuổi: Giá tour như người lớn<br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
+ </div>

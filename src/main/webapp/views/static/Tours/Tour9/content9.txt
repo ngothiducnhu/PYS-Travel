@@ -1,0 +1,127 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                <strong>Với Tour đi Hà Giang 4 ngày 3 đêm (hoặc 4 ngày 4 đêm tùy vào giờ bay)</strong> của PYS Travel, bạn sẽ được đền đáp bằng những cảnh sắc thần tiên, hùng vĩ và bình yên, chắc chắn sẽ không làm bạn thất vọng bởi những trải nghiệm có 1-0-2 tại vùng đất bao quanh là "đặc sản" này.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 5 hàng tuần</td>
+                        <td style="border: 1px black solid;">7.130.000 VNĐ/khách</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Hà Giang cuốn hút người ta bởi những khúc đường đèo đầy ấn tượng, bởi những mùa hoa nở đẹp, những bản làng yên bình hay những phiên chợ rực rỡ sắc màu. Hành trình vượt cung mây đường đèo là những thử thách đầy mê hoặc và cuốn hút với những ai yêu thích khám phá những miền đất mới.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour9/HG_SNQ1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+               <p>- Khám phá, trải nghiệm đi thuyền trên sông Nho Quế đi qua Hẻm vực Tu Sản, hẻm vực sâu nhất Đông Nam Á nằm dưới chân đèo Mã Pí Lèng nổi tiếng.</p>
+	    	<p>- Khám phá các làng cổ, làng nghề truyền thống của đồng bào trên cao nguyên đá: Làng Văn hóa Lũng Cẩm , Làng văn hóa Thôn Tha.</p>
+	    	<p>- Chinh phục những con Dốc, con Đèo nổi tiếng như: Đèo Mã Pí Lèng, Dốc 9 Khoanh, Dốc Thẩm Mã, Dốc Bắc Sum, Dốc Cổng trời Quản Bạ…</p>
+	    	<p>Khám phá văn hóa vùng cao qua các phiên chợ nổi tiếng…</p>
+	    	<p>Checkin các địa danh nổi tiếng: Cột cờ Lũng Cú, Dinh Thự Nha Vương - Vua Mèo, Phố Cổ Đồng Văn.</p>
+	    	<p>Chụp ảnh hoa theo mùa: Mùa hoa Tam Giác Mạch, Hoa Cải, Đào, Lê, Mân… mỗi mùa đến Hà Giang có 1 mùa hoa khác nhau.</p>
+
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour9/HG_SNQ2.jpg" alt="">
+            </div>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour9/HG_SNQ3.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách tập trung tại sân bay Tân Sơn Nhất, làm thủ tục chuyến bay đến Hà Nội. Đến Hà Nội, xe đón quý khách từ sân bay Nội Bài về khách sạn nghỉ ngơi. Quý khách tự do vui chơi và khám phá Phố Cổ (chi phí vui chơi và ăn uống tự túc).
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - QUẢN BẠ - YÊN MINH (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Xe và HDV đón Quý khách tại điểm hẹn khởi hành đi Hà Giang. Trên đường quý khách sẽ dừng chân dùng bữa sáng tại nhà hàng. Quý khách di chuyển tới Hà Giang khám phá trải nghiệm những phong cảnh hùng vĩ núi đèo vùng cao xen lẫn những mùa hoa thắm đượm tình người.<br> <br>
+			<b>Trưa: :</b> Đoàn dừng chân tại Bắc Quang nghỉ ngơi, ăn trưa tại nhà hàng.</p><br>
+                    <b>Chiều:</b> Đoàn dừng chân tại Cột mốc KM số 0 chụp ảnh check in. Tiếp tục bắt đầu cung đường đèo khám phá cao nguyên đá Hà Giang. Đoàn đến Quản Bạ dừng chân tại cổng trời ngắm “Núi đôi cô Tiên” và nghe những giai thoại vô cùng hấp dẫn và li kì. Đoàn tiếp tục bon bon trên đường đèo, băng qua rừng thông bạt ngàn đến với thị trấn Yên Minh. <br><br>
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour9/HG_SNQ4.jpg" alt=""> <br> <br>
+
+                    </div>
+                    <p class="fs-5"><b>Tối:</b>Quý khách nhận phòng nghỉ ngơi và dùng bữa tối tại nhà hàng. Sau đó, quý khách tự do khám phá Hà Giang về đêm.</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                 - Xe Ô tô đời mới đưa đón suốt hành trình<br>
+					- Vé máy bay khứ hồi HCM – Hà Nội có 7 kí hành lí xách tay<br>
+					- 1 đến 2 đêm khách sạn tại HN (tùy vào thời điểm khời hành tour)<br>
+					- Xe đón tiễn sân bay khư hồi từ sân bay Nội Bài – Khách sạn HN.<br>
+					- HDV kinh nghiệm, nhiệt tình suốt hành trình.<br>
+					- Ăn uống theo chương trình (Bữa chính 120.000đ/ khách/ bữa; Ăn sáng 30.000đ/ khách/ bữa)<br>
+					- Khách sạn tiêu chuẩn đầy đủ tiện nghi, tiêu chuẩn 2 sao 2 khách/ phòng (lẻ khách ngủ 3)<br>
+					- Vé thắng cảnh vào cửa một lần tại các điểm tham quan.<br>
+					- Vé thuyền sông Nho Quế.<br>
+					- Bảo hiểm du lịch suốt tuyến, mức cao nhất 20.000.000đ/ người/ vụ.<br>
+					- Nước uống 01 chai/người/ngày.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+              - Tiền tip cho lái xe, HDV.<br>
+					- Ăn uống ngoài chương trình.<br>
+					- Phụ thu người nước ngoài 10 USD/ 1 người/ 1 ngày.<br>
+					- Thuế VAT 10%<br>
+
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+               - Phụ thu phòng đơn 600.000đ/ khách/ 2 đêm ở Hà Giang (Áp dụng trong trường hợp khách muốn ở 01 mình 01 phòng trong suốt hành trình), 650.000đ/khách/2 đêm ở Hà Nội.<br>
+					- Phụ thu 250.000đ/ khách/tour (khi đoàn khởi hành vào các dịp nghỉ lễ…)<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>

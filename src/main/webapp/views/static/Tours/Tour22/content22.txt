@@ -1,0 +1,100 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Mỗi độ xuân về, những cánh hoa mai, hoa đào tô điểm thêm cho bầu trời trong xanh. Cũng là thời điểm thích hợp để mỗi 
+                chúng ta có một chuyến du xuân ý nghĩa, nếu bạn còn đang phân vân lựa chọn điểm đến thì có thể tham khảo tour Tây Thiên - Thiền viện Trúc Lâm An Tâm của PYS <br><br>
+                Tây Thiên - chốn tâm linh với cảnh đẹp yên bình đã trở thành điểm du lịch nổi tiếng của tỉnh Vĩnh Phúc. Đây là một trong những địa điểm tâm linh nổi tiếng ở miền Bắc, 
+                hàng năm có hàng ngàn người đến đây lễ Phật, cầu bình an, cát tường cho bản thân và gia đình <br>
+            </p>
+           
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour22/TT_DBP1.jpg" alt="">
+                </div>            
+
+            <p>
+                Thiền viện An Tâm là một ngôi chùa lớn nằm trên núi Thạch Bàn, nơi đây không khí trong lành, yên bình rất thích hợp là nơi vãn cảnh, chiêm bái Phật tổ. 
+                Khu di tích này gồm Thiền viện Trúc lâm Tây Thiên (chùa tăng) và Thiền viện Trúc lâm An Tâm (chùa ni). Thiền Viện Trúc Lâm An Tâm được xây dựng từ năm 2009 do ni sư thích nữ Thuần Giác xây dựng và phần cơ bản hoàn tất năm 2012. An Tâm có ngôi chính điện thờ Phật Thích Ca mâu ni, ngôi nhà tổ thờ các vị tổ thiền tông, một nhà khách, một nhà ăn phục vụ được một lúc 200 người.
+            </p>
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour22/TT_DBP2.jpg" alt="">
+            </div>
+            
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">HỒ CHÍ MINH - HÀ NỘI </h5>
+            
+                <strong>Sáng: </strong>Xe và HDV của PYS Travel đón Quý khách tại điểm hẹn. 
+                <strong>08h00:</strong> Quý khách tới Khu du lịch Tây Thiên, quý khách thăm quan Khu du lịch Tây Thiên v
+                ới nhiều phong cảnh hữu tình, đền Thượng, đền Mẫu…(Chi phí cáp treo tự túc). 
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour22/TT_DBP3.jpg" alt="">
+                  
+                </div>
+                <p>
+                    <strong>11h30:</strong> Đoàn khởi hành đến Thiền Viện Trúc Lâm An Tâm - Thiền viện còn có tượng phật nằm dài 19 m ở trên cao, phía dưới 
+                    có tạo thêm 6 cảnh quan, thuyết minh lại hành trình tìm chân lý của đức Phật. Cảnh từ lúc thái tử Tất đạt Đa Cồ Đàm đản sinh cho đến khi Phật thành đạo và nhập niết bàn, thăm quan tòa chính điện.
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour22/TT_DBP4.jpg" alt="">
+                  
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>
+

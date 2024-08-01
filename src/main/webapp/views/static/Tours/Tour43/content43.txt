@@ -1,0 +1,110 @@
+
+    <div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+            padding: 5px 0px 5px 10px;
+            color: #00506c;
+            margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                <b>Australia</b> luôn là điểm đến được nhiều du khách quốc tế lựa chọn cho kỳ nghỉ của mình. Tour du lịch Úc: Sydney - Melbourne 6 ngày 5 đêm vừa trải nghiệm khám phá nhiều điểm du lịch nổi bật, độc đáo; vừa được tận hưởng những dịch vụ chất lượng cao từ di chuyển đi lại, nghỉ ngơi cho đến bữa ăn… sẽ giúp cho du khách có được một chuyến du lịch đúng nghĩa nhất.
+                <br><br>
+                Sydney, Melbourne - hai thành phố tuyệt vời bậc nhất nước Úc. Nằm trên quần đảo xinh đẹp lớn nhất thế giới ở phía tây nam Thái Bình Dương, nước Úc có nền văn hóa lâu đời và thắng cảnh thiên nhiên phong phú.
+            </p>
+                
+            <p class="fs-5">
+                Nói đến nước Đức chắc chắn chúng ta sẽ không thể nào bỏ qua những tòa lâu đài tráng lệ, 
+                những kiến trúc cổ xưa, thung lũng rộng lớn, rừng xanh bạt ngàn,...    
+            </p>             
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour43/Syd_Mel_HCM1.jpg">
+            </div> 
+            <br> <br>
+            <p class="fs-5">
+                Du khách sẽ vô cùng ấn tượng với những công trình kiến trúc độc đáo, những vùng quê đất đỏ đẹp 
+                như tranh, những ngọn núi kiêu hãnh bên bờ biển, những động vật hoang dã kỳ lạ ẩn hiện trong các khu rừng mưa, 
+                bãi biển dài hớp hồn như: Bảo tàng Vàng, nhà hát Sydney Opera House, Darling Harbour…            
+            </p><br><br>
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour43/Syd_Mel_HCM10.jpeg" alt="">
+            </div>
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: TP.HCM - FRANKFURT (Ăn trên máy bay)</h5>
+                <p class="fs-5">
+                    <b>Tối 20h30:</b> Quý khách tập trung tại sân bay Tân Sơn Nhất – Ga đi quốc tế. Trưởng đoàn đón và hỗ trợ Quý khách làm thủ tục đón chuyến bay đi Frankfurt (Đức)
+                    <br><br>
+                    Giờ bay VN31 SGNFRA  2340 0705 (Bay thẳng)
+                    <br><br>
+                    Quý khách dùng bữa và nghỉ ngơi trên máy bay
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: FRANKFURT (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <p>
+                        <b>07h05 Sáng:</b> Đoàn đáp sân bay Frankfurt, làm thủ tục nhập cảnh.
+                        <br><br>
+                        Xe đón đoàn tham quan city tour 
+                        <br><br>
+                        <b>Nhà thờ chính tòa Frankfurt</b> (Frankfurt Cathedral) Là một trong những nhà thờ nổi tiếng nhất ở Frankfurt được xây dựng vào năm 1239 cho thánh Bartholomew. Từ năm 1365, nhà thờ trở thành nơi bầu cử chính thức của Đế quốc La Mã thần thánh.                    
+                        <br><br>
+                        <div class="row mt-5">
+                            <img src="Syd_Mel_HCM12.jfif" alt=""> <br> <br>
+                        </div>
+                        <p><b>Tối</b> Ăn tối Welcome dinner và nhận phòng khách sạn  </p>                 
+                    </p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi hạng phổ thông <b>HCM - FRANKFURT // PARIS - HCM : VIETNAM AIRLINE</b> <br>
+                - Các phụ phí thuế phi trường; thuế an ninh; phụ phí xăng dầu…<br>
+                - Hành lý xách tay  + hành lý kí gửi theo đoàn<br>
+                - <b>Khách sạn tiêu chuẩn 4*:</b> 2 khách/phòng<br>
+                - Các bữa ăn theo chương trình tại nhà hàng Việt, Hoa, Âu<br>
+                - <b>Vé cáp treo Núi Tuyết Titlis</b><br>
+                - <b>Vé du thuyền sông Sein</b><br>
+                - Xe vận chuyển theo chương trình quy định.<br>
+                - Nước uống mỗi ngày trên xe, 1 người/chai/ngày<br>
+                - Trưởng đoàn từ Việt Nam thân thiện, chuyên nghiệp theo đoàn suốt tuyến.<br>
+                - Quà tặng lưu niệm: nón du lịch.<br>
+                - Bảo hiểm du lịch có bao gồm Covid trị giá 1 tỷ/người    <br>        
+            </p> 
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Hộ chiếu (giá trị trên 6 tháng tính theo ngày về). <br>
+                - <b>Phí visa Schengen + Tiền TIP HDV và tài xế địa phương: 7,000,000/khách/tour. (đóng ngay khi đăng ký tour)<br>
+                - Chi phí cá nhân (hành lý quá cước, điện thoại, giặt ủi, tham quan ăn uống ngoài </b>
+                chương trình, Nước uống rượu bia trong bữa ăn, chi phí khuân vác hành lý….).<br>
+                - Phụ thu xe vận chuyển ngoài giờ quy định<br>
+                - Chi phí dời ngày, đổi chặng bay, nâng hạng vé máy bay, hành lý quá cước theo quy định hàng không. <br>
+                - Phụ phí phòng đơn. (trường hợp khách đăng ký đi lẻ 1 mình, nếu đoàn khởi hành có 2 - 3 
+                khách lẻ nam hoặc 2 - 3 khách lẻ nữ chúng tôi sẽ linh động ghép vào thành 1 phòng 2 – 3 khách, 
+                trong trường hợp không có khách lẻ nào khác để ghép với quý khách, quý khách vui lòng đóng phí ở phòng đơn).<br>            </p> 
+            <br>
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                Trong trường hợp không thể tham dự được tour, quý khách vui lòng thông báo cho Công 
+                ty và chịu phí huỷ như sau: <br>
+
+                - Huỷ ngay sau khi đăng ký: 20% tổng giá thành tour. <br>
+                - Huỷ trước 15 ngày (không tính thứ 7, chủ nhật): 50% tổng giá thành tour<br>
+                - Hủy trước trong vòng 15 ngày trước ngày khởi hành (không tính thứ 7, chủ nhật): 100% 
+                tổng giá thành tour.            
+            </p>
+        </div>
+    </div>

@@ -1,0 +1,190 @@
+@charset "ISO-8859-1";
+
+
+#body .mo-dau>h2{
+    color: #00506C;
+}
+#body .hinh-anh{
+    height: 550px;
+}
+.hinh-trai img{
+    width: 100%;
+    height: 100px;
+    padding: 5px;
+    object-fit: cover;
+}
+.hinh-phai img{
+    object-fit: cover;
+}
+.hinh-trai::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+.hinh-trai::-webkit-scrollbar-thumb {
+    background-color: lightgray;
+    border-radius: 10px;
+  }
+  
+.hinh-trai::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+#body .mo-dau .thong-tin-tour>h2{
+    color: red;
+}
+#body .mo-dau .thong-tin-tour .tua-de{
+    display: inline;
+    color: gray;
+}
+#body .mo-dau .thong-tin-tour ul{
+    padding: 0 20px;
+}
+#body .mo-dau .thong-tin-tour li{
+    color: gray;
+    font-size: 14px;
+}
+
+#body .mo-dau .thong-tin-tour button{
+    color: white;
+    background-color: #ff9933;
+    font-size: 12px;
+}
+#body .mo-dau .thong-tin-tour button>p{
+    font-size: 16px;
+}
+
+#body>.noi-dung>.noi-dung-chinh>.menu-noi-dung{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+/* #body>.noi-dung>.noi-dung-chinh>.menu-noi-dung::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-bottom: 1px solid gray;
+} */
+
+#body>.noi-dung>.noi-dung-chinh>.menu-noi-dung>a{
+    width: fit-content;
+    display: inline;
+    color: black;
+    text-decoration: none;
+    padding: 0 20px;
+    text-align: center;
+}
+
+#body>.noi-dung>.noi-dung-chinh>.menu-noi-dung>a::after{
+    content: "";
+    width: 100%;
+    padding: 5px 10px;
+    display: block;
+    border-bottom: 2px solid #ff9933;;
+}
+#body>.noi-dung>.noi-dung-chinh>.menu-noi-dung a:hover a::after{
+    content: "";
+    width: 100%;
+    padding: 5px 10px;
+    display: block;
+    border-bottom: 2px solid #ff9933;;
+}
+
+.noi-dung-chinh h3{
+    color: #00506C;
+    border-left: 3px solid #00506C;
+    padding-left: 10px;
+}
+#gioithieu table{
+    background-color: #FFFDDE;
+}
+table td,th{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 10px;
+}
+#gioithieu>div>p{
+    text-align: justify;
+}
+.noi-dung-chinh h4{
+    color: #00506C;
+}
+#dieukhoan p{
+    padding-left: 30px;
+}
+
+
+#danhgia .carousel{
+    width: 100%;
+}
+#danhgia .carousel .card{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+}
+#danhgia .carousel .card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    display: block;
+    margin: 0px auto;
+}
+#danhgia .carousel .card .star{
+    text-align: center;
+}
+#danhgia .carousel .card .star i{
+    color: yellow;
+}
+#danhgia .carousel .card a{
+    text-decoration: solid;
+    font-size: 12;
+}
+.tu-van > .tuvanchitiet{
+    position: sticky;
+    top: 0;
+}
+.tu-van > .tuvanchitiet>div{
+    border: 1px solid lightgray;
+    border-radius: 3px;
+}
+.tu-van .tua-de{
+    background-color: #00506C;
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.tu-van .sodienthoai{
+    color: #ff9933;
+    font-weight: bold;
+}
+.tu-van .yeucautuvan{
+    color: gray;
+    font-size: 12px;
+}
+.tu-van .yeucautuvan input{
+    border: #0B5ED7 1px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+.tu-van .yeucautuvan input:focus{
+    outline: 1px solid #0B5ED7;
+}
+.tu-van .tuvanchitiet h5{
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+}
+.tu-van .tuvanchitiet p{
+    color: gray;
+    padding: 0;
+}
+.tu-van .tuvanchitiet .thongtin button{
+    color: white;
+    background-color: #ff9933;
+    font-size: 12px;
+}
+.tu-van .tuvanchitiet .thongtin button>p{
+    font-size: 16px;
+    color: white;
+}

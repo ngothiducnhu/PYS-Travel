@@ -1,0 +1,97 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p>
+                Về Đồng Tháp để cảm nhận được sông nước hữu tình, những cánh đồng lúa phì nhiêu, những đàn chim râm ran trên kênh rạch. 
+                Mảnh đất này với nền văn hóa độc đáo, con người chân chất, thật thà ghi dấu ấn với bất kỳ ai đến đây. <br><br>
+                √ Quý khách trải nghiệm hoạt động văn hóa nông nghiệp Đồng Tháp Mười – vùng văn hóa độc đáo, nhiều giá trị sáng tạo của 
+                người Việt ở Nam bộ trong thời kì khẩn hoang - mở cõi; thú vị trải nghiệm trên quang cảnh đồng hoa - cỏ tự nhiên trên hệ 
+                sinh cộng sinh thái ngập nước ngọt và những cách đồng lúa bao la giữa Đồng Tháp Mười; <br><br>
+                √ Quý khách thưởng thức ẩm thực phương Nam với nguồn nguyên liệu sản xuất sạch tự nhiên, gạo ngon nhất thế giới (ST24 – ST25), 
+                trong không gian hoài cổ, an yên, mang phong vị Đồng Tháp. <br><br>
+                √ Quý khách lưu trú nghỉ dưỡng trên bungalow sinh thái – nhà sàn trên mặt nước giữa Đồng Tháp Mười trong môi trường sản 
+                xuất nông nghiệp sạch thuận tự nhiên.
+            </p>
+           
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour23/HCM_DT1.jpg" alt="">
+                </div>            
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour23/HCM_DT2.jpg" alt="">
+            </div>
+            
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HỒ CHÍ MINH – ĐỒNG THÁP (Ăn sáng, trưa, tối)</h5>
+            
+                <strong>Sáng: </strong>Xe và HDV đón quý khách tại điểm hẹn khởi hành đi Đồng Tháp. bằng đường cao tốc Sài Gòn - Trung Lương. Trên đường quý khách sẽ dừng chân ăn sáng tại nhà hàng. Sau đó, 
+                quý khách khởi hành đến Cao Lãnh. Đoàn đi tắc ráng tham quan Tràm Chim Tam Nông, cảm nhận vẻ đẹp tự nhiên 
+                với sen, súng, lúa trời, năng, lác... cùng các loài động vật lươn, rắn, rùa, trăn, các loài cá đồng và chim như cò, diệc, vịt trời, cồng cộc...
+                <strong>08h00:</strong>Đoàn di chuyển vào Việt Mekong Farmstay và check in nhận phòng nghỉ ngơi.
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour23/HCM_DT13.jpg" alt="">
+                  
+                </div>
+            
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour23/HCM_DT4.jpg" alt="">
+                  
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

@@ -1,0 +1,91 @@
+
+    <div class="row">
+        <div class="Introduce" id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+        <b>Chương trình khuyến mại mừng khai trương tour mới, giảm ngay 200k/ khách khi đăng ký tour từ nay đến hết 31/12</b> <br> <br>
+            <p>
+                Một lần đến với Lạng Sơn và hòa nhịp vào cuộc sống nơi đây bạn sẽ thật sự ngạc nhiên trước phong cảnh non nước hữu tình, tham dự 
+                những lễ hội truyền thống của các dân tộc xứ Lạng hay thưởng thức những món ăn của miền đất này hẳn sẽ khiến bạn nhớ mãi bởi sự độc đáo, tinh túy và mang đậm bản sắc quê hương của miền đất vùng Đông Bắc.
+            </p>
+           
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour24/HN_HL1.jpg" alt="">
+                </div>            
+            
+            <div class="row my-3 px-2 text-center">
+                <img src="/views/static/Tours/Tour24/HN_HL2.jpg" alt="">
+            </div>
+            
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 01: HÀ NỘI – THẢO NGUYÊN ĐỒNG LÂM - LẠNG SƠN (Ăn trưa, tối)</h5>
+            
+                <strong>Sáng: </strong>Xe và HDV của công ty đón quý khách tại điểm hẹn, khởi hành đi Đồng Lâm thuộc Hữu Lũng – Lạng Sơn. 
+                Quý khách sẽ có những phút giây thư giãn, ăn sáng, uống nước để chuẩn bị tốt cho chuyến đi sắp tới.
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour24/HN_HL3.jpg" alt="">     
+                </div>
+                <p>
+                    09h00: Quý khách tới Thảo Nguyên Đồng Lâm – với đồng cỏ trải dài, với những đàn ngựa thả tự do đang thong dong gặm quả.
+                    Quý khách sẽ có những khoảng không gian vô cùng hoang sơ và ấn tượng
+                </p>
+                <div class="row my-3 px-2 text-center">
+                    <img src="/views/static/Tours/Tour24/HN_HL4.jpg" alt="">
+                  
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Phương tiện: Ôtô đời mới, máy lạnh, âm thanh hiện đại trên xe <br>
+                - VẬN CHUYỂN: Xe du lịch 29, 35, 45 chỗ đời mới máy lạnh. <br>
+                - Khách sạn: 02 đêm lưu trú tại khách sạn 04 sao biển / khách sạn 03 sao khu vực
+                 trung tâm (hoặc khách sạn tương đương) <br>
+                - Hướng dẫn viên Tiếng Việt, chuyên nghiệp, nhiệt tình, chu đáo <br>
+                - Bảo hiểm du lịch(mức đền bù tối đa 30.000.000 đồng/người/vụ) <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Phụ thu nếu khách chọn phòng Triple (phòng 3)<br>
+                -  Chi phí cá nhân, tắm nước ngọt và ghế nằm/võng ở bãi biển Bãi Sao. <br>
+                - Thuế VAT 8% <br>
+                - Chi phí cá nhân. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 04 tuổi miễn phí, bố mẹ tự thanh toán chi phí phát sinh của bé <br>
+                - Trẻ em từ 05 đến 10 tuổi tính 75% giá tour người lớn <br>
+                - Trẻ em từ 11 tuổi trở lên tính như người lớn. <br>
+            </p>
+            <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour. <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour. <br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá tour. <br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị tour. <br>
+                <strong>- Ngày lễ tết không hoàn, không hủy, không đổi, không áp dụng chính sách hủy trên.</strong>
+            </p>
+        </div>
+    </div>

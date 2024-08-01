@@ -1,0 +1,131 @@
+<div class="row">
+        <div class="Introduce"  id="gioithieu">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Giới Thiệu</h4>
+            <p class="fs-5">
+                Nằm ở huyện Bắc Yên, tỉnh Sơn La, Tà Xùa là ngọn núi mà dân mê leo núi – chụp ảnh nhất định sẽ phải đến một lần trong đời. Tà Xùa được ca ngợi là một trong những thiên đường săn mây miền Bắc. Những ngày chớm thu, dân tình lại nô nức kéo đến nơi đây thưởng mây, ngắm núi đồi hùng vĩ.
+            </p>
+            <!--Nếu có bảng thì lấy cái này-->
+            <div class="row text-center my-3">
+                <table border="1">
+                    <tr style="border: 1px black solid;">
+                        <th class="text-danger" style="border: 1px black solid;">Ngày khởi hành 2024</th>
+                        <th class="text-danger">Giá chỉ từ</th>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px black solid;">Thứ 6 hàng tuần</td>
+                        <td style="border: 1px black solid;">6.130.000 VNĐ/khách</td>
+                    </tr>
+                </table>
+                <div class="row text-dark my-3 px-2">
+                    <p class="fs-5">
+                        <i>
+                            <b>*Lưu ý:</b> Giá chỉ từ và phụ thuộc vào tình trạng vé máy bay. <br>
+                            Quý khách liên hệ hotline (HN)024 7307 5060 | (HCM)028 7307 5060 để được hỗ trợ chi tiết
+                        </i>
+                    </p>
+                </div>
+            </div> 
+            <p class="fs-5">
+                Có rất nhiều địa điểm thưởng mây như Háng Đồng, Đỉnh Lảo Thần, Núi Muối hay Y Tý, Lào Cao…nhưng Tà Xùa vẫn là sự lựa chọn hoàn hảo hơn cả. Đường đi không quá vất vả, không cần phải leo trèo nhiều, chỉ có 45km đường từ thị trấn Bắc Yên đến Tà Xùa hơi dốc, nhưng cũng không quá khó khăn. <b>Tour Tà Xùa - Bắc Yên 4 ngày 3 đêm của PYS Travel</b> sẽ mang đến cho du khách cảm giác “xê dịch” tuyệt vời và chân thực nhất.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour6/TX_BY6.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                <b>Trà Cổ - Bãi biển hoang sơ và thơ mộng</b> <br>
+                Bắt đầu hành trình, Móng Cái là điểm dừng chân đầu tiên trong tour du lịch 
+                4 ngày 3 đêm của PYS Travel. Nằm ở tỉnh Quảng Ninh, Việt Nam, Móng Cái nổi 
+                tiếng với bầu không khí nhộn nhịp quanh năm và những hoạt động giao thương sôi động. 
+                Du khách sẽ có cơ hội tham quan chợ Móng Cái sầm uất, nơi bạn có thể mua sắm vô số mặt hàng 
+                từ quần áo, đồ điện tử đến các đặc sản địa phương. Ngoài ra, điểm đến này còn thu hút bởi những 
+                bãi biển hoang sơ như Trà Cổ, nơi bạn có thể thả mình vào làn nước trong xanh và tận hưởng 
+                không gian yên bình, thoải mái.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour6/TX_BY1.jpg" alt="">
+            </div>
+            <p class="fs-5">
+                Thưởng ngoạn khung cảnh Tà Xùa chìm trong bốn bề mây phủ, tạo nên khung cảnh đẹp tựa chốn bồng lai tiên cảnh, khiến bạn không thể nào quên.
+            </p>
+            <div class="row my-3 px-2">
+                <img src="/views/static/Tours/Tour6/TX_BY2.jpg" alt="">
+            </div> 
+        </div>
+        <div class="Schedule" id="lichtrinh">
+            <div class="row my-3 px-3">
+                <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Lịch Trình</h4>
+                <!-- <div class="dot"></div> -->
+                <h5 class="text-primary">NGÀY 1: HỒ CHÍ MINH – HÀ NỘI</h5>
+                <p class="fs-5">
+                    Quý khách tập trung tại sân bay Tân Sơn Nhất làm thủ tục chuyến bay đến Hà Nội. Đến Hà Nội, xe đón quý khách về khách sạn ngay trung tâm khu phố cổ nghỉ ngơi. Quý khách tự do khám phá Hà Nội. (chi phí ăn uống và vui chơi quý khách tự túc). 
+                </p>
+
+                <h5 class="text-primary">NGÀY 2: HÀ NỘI - TÀ XÙA - MỎM CÁ HEO - CÂY CÔ ĐƠN - THẢO NGUYÊN TÀ XÙA - ĐỈNH GIÓ (Ăn trưa, tối)</h5>
+                <p class="fs-5">
+                    <b>Sáng:</b> Xe và HDV của PYS Travel đón Quý khách tại điểm hẹn, khởi hành đi săn mây Tà Xùa.Đoàn ăn sáng ở nhà hàng trên đường đi (Chi phí tự túc).<br> <br>
+
+                    <b>Trưa:</b> Quý khách dùng bữa trưa tại nhà hàng ở thị trấn Bắc Yên<br> <br>
+                    Sau bữa trưa, đoàn tiếp tục di chuyển đến xã Tà Xùa. HDV đưa quý khách di chuyển tới Hồ thủy điện checkin các điểm nổi tiếng thu hút hàng nghìn lượt khách đến tham quan  <br><br>
+                    <b>Cây cô đơn:</b> một tọa độ cực chill và thú vị mà người trẻ thích mê khi du khách có dịp du lịch Sơn La. Sở dĩ gọi là "cây cô đơn" bởi ở đây chỉ có duy nhất cây này đứng sừng sững giữa trời mây như tạo thành một "thương hiệu" của vùng Tà Xùa lừng danh. Ai đến Tà Xùa cũng muốn đến đây để một lần được chạm tay vào cây đặc biệt này<br>.
+                    <div class="row mt-5">
+                        <img src="/views/static/Tours/Tour6/TX_BY3.jpg" alt=""> <br> <br>
+
+                    </div>
+                    <p class="fs-5"><b>Tối:</b>Quý khách thưởng thức bữa tối ăn lẩu trong không khí lạnh của Tà Xùa về đêm</p>
+                </p>
+            </div>
+        </div>
+
+        <div class="InclusionsandTerms" id="bgVAdk">
+            <h4 class="title" style="border-left: 3px #0998c8 solid;
+        padding: 5px 0px 5px 10px;
+        color: #00506c;
+        margin: 20px 0 20px 0;">Bao gồm và điều khoản</h4>
+            <h5 class="text-primary">GIÁ TOUR BAO GỒM:</h5>
+            <p class="px-4">
+                - Vé máy bay khứ hồi HCM – HN có 7 ký hành lý xách tay. <br>
+		- 2 đêm ngủ tại khách sạn ngay khu phố cổ Hà Nội.<br>
+		- Xe đón tiễn khứ hồi từ sân bay Nội Bài về khách sạn ngay khu phố cổ.<br>
+		- Xe ô tô du lịch đời mới đưa đón suốt hành trình.<br>
+		- HDV kinh nghiệm, nhiệt tình suốt hành trình.<br>
+		- Homestay tại Tà Xùa, sạch sẽ tiện nghi, phòng cộng đồng.<br>
+		- Ăn uống theo chương trình (2 Bữa chính 120.000đ/ khách/ bữa + 1 bữa tối ăn lẩu 200.000/ khách; Ăn sáng tại homestay).<br>
+		- Bảo hiểm du lịch suốt tuyến, mức cao nhất 20.000.000đ/ người/ vụ<br>
+		- Nước uống 01 chai/người/ngày.<br>
+		- Vé thăm quan theo hành trình.<br>
+		- Chương trình lửa trại.<br>
+            </p> <br>
+
+            <h5 class="text-primary">GIÁ TOUR KHÔNG BAO GỒM:</h5>
+            <p class="px-4">
+                - Chi phí cá nhân.<br>
+		- Tiền tip lái xe, HDV<br>
+		- Thuế VAT.<br>
+
+            </p> <br>
+
+            <h5 class="text-primary">PHỤ THU TRẺ EM:</h5>
+            <p class="px-4">
+                - Trẻ em dưới 2 tuổi, tính phí 300.000đ/bé, ngủ chung giường với bố mẹ.<br>
+		- Trẻ em từ 2 tuổi – dưới 5 tuổi giá tour 60% giá tour, hai người lớn chỉ được kèm 1 trẻ em, nếu trẻ em đi kèm nhiều hơn thì từ em thứ 02 trở lên giá tour là 3.890.000đ/bé<br>
+		- Trẻ em từ 5- dưới 11 tuổi giá tour là 90% giá tour. (Tiêu chuẩn: 01 suất ăn + 01 ghế ngồi và ngủ ghép chung phòng với gia đình + vé máy bay). Hai người lớn chỉ kèm 1 trẻ em, trẻ em thứ 2 trở đi tính giá như người lớn.<br>
+		- Trẻ từ 11 tuổi trở lên, tính bằng chi phí người lớn. <br>
+            </p> <br>
+
+            <h5 class="text-primary">ĐIỀU KIỆN HOÀN HỦY</h5>
+            <p class="px-4">
+                - Hủy tour ngay sau khi đăng ký đến 10 ngày trước ngày khởi hành, phạt 30% trên giá tour <br>
+                - Hủy tour trong vòng từ 5 – 10 ngày trước ngày khởi hành, phạt 50% trên giá tour<br>
+                - Hủy tour trong vòng từ 3 – 5 ngày trước ngày khởi hành, phạt 75% trên giá Tour<br>
+                - Hủy tour trong vòng từ 0 – 3 ngày trước ngày khởi hành, phạt 100% giá trị Tour<br>
+                - Riêng vé máy bay không hoàn, không hủy.<br>
+                - Ngày lễ tết không hoàn, không hủy, không đổi.   <br>         
+            </p>
+        </div>
+    </div>
